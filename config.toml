@@ -267,8 +267,8 @@ disqusShortname = ""
 logo = "images/La-Volotte-logo.jpg"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Die bezaubernde, alte Ladentür öffnet sich zu ‘La Volotte’ ,und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!"
+author = "Mosign"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
