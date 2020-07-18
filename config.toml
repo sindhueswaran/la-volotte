@@ -30,6 +30,8 @@ disqusShortname = ""
   link = "plugins/google-map/gmap.js"
   [[params.plugins.js]]
   link = "js/custom.js"
+  [[params.plugins.js]]
+  link = "js/script.js"
   
 ############################## navigation ###############################
 [menu]
