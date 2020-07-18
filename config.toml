@@ -1,0 +1,327 @@
+######################## default configuration ####################
+baseURL = "https://examplesite.com"
+languageCode = "de-DE"
+title = "La Volotte"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = ""
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  link = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+  [[params.plugins.js]]
+  link = "js/custom.js"
+  
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "Produkte"
+  URL = "products"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+  
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Kontakt"
+  URL = "contact"
+  weight = 4
+
+
+  ############# Brands menu #############
+  [[menu.brands]]
+  name = "Alle"
+  URL = "products"
+  weight = 1
+  
+  [[menu.brands]]
+  name = "Atelier Zitron"
+  URL = "/categories/atelier-zitron/"
+  weight = 2
+  
+  [[menu.brands]]
+  name = "BC-Garn"
+  URL = "/categories/bc-garn/"
+  weight = 3
+  
+  [[menu.brands]]
+  name = "Isager"
+  URL = "/categories/isager/"
+  weight = 4
+  
+  [[menu.brands]]
+  name = "Manos del Uruguay"
+  URL = "/categories/manos-del-uruguay/"
+  weight = 5
+
+  [[menu.brands]]
+  name = "Midara"
+  URL = "/categories/midara/"
+  weight = 6
+
+  [[menu.brands]]
+  name = "Mondial"
+  URL = "/categories/mondial/"
+  weight = 7
+
+  [[menu.brands]]
+  name = "Schoppel"
+  URL = "/categories/schoppel/"
+  weight = 8
+
+  [[menu.brands]]
+  name = "Seehawer & Siebert-Naturfasern"
+  URL = "/categories/seehawer-siebert-naturfasern/"
+  weight = 9
+
+  [[menu.brands]]
+  name = "The Fibre Company"
+  URL = "/categories/the-fibre-company/"
+  weight = 10
+
+  ############# Materials menu #############
+  [[menu.materials]]
+  name = "Alle"
+  URL = "products"
+  weight = 1
+  
+  [[menu.materials]]
+  name = "PA"
+  URL = "/tags/pa/"
+  weight = 2
+  
+  [[menu.materials]]
+  name = "Royal Alpaka"
+  URL = "/tags/royal-alpaka/"
+  weight = 3
+  
+  [[menu.materials]]
+  name = "Alpaka"
+  URL = "/tags/Alpaka/"
+  weight = 4
+
+  [[menu.materials]]
+  name = "Bambus"
+  URL = "/tags/bambus/"
+  weight = 5
+
+  [[menu.materials]]
+  name = "Baumwolle"
+  URL = "/tags/baumwolle/"
+  weight = 6
+
+  [[menu.materials]]
+  name = "Baumwollgarn"
+  URL = "/tags/baumwollgarn/"
+  weight = 7
+
+  [[menu.materials]]
+  name = "Bouretteseide"
+  URL = "/tags/bouretteseide/"
+  weight = 8
+
+  [[menu.materials]]
+  name = "Cashmere"
+  URL = "/tags/cashmere/"
+  weight = 9
+
+  [[menu.materials]]
+  name = "Hanf"
+  URL = "/tags/hanf/"
+  weight = 10
+
+  [[menu.materials]]
+  name = "Lama"
+  URL = "/tags/lama/"
+  weight = 11
+
+  [[menu.materials]]
+  name = "Leinen"
+  URL = "/tags/leinen/"
+  weight = 12
+
+  [[menu.materials]]
+  name = "Maulbeerhaspelseide"
+  URL = "/tags/maulbeerhaspelseide/"
+  weight = 13
+
+  [[menu.materials]]
+  name = "Maulbeerseide"
+  URL = "/tags/Maulbeerseide/"
+  weight = 14
+
+  [[menu.materials]]
+  name = "Merino"
+  URL = "/tags/merino/"
+  weight = 15
+
+  [[menu.materials]]
+  name = "Mohair"
+  URL = "/tags/mohair/"
+  weight = 16
+
+  [[menu.materials]]
+  name = "Pima-Baumwolle"
+  URL = "/tags/pima-baumwolle/"
+  weight = 17
+
+  [[menu.materials]]
+  name = "Ramie"
+  URL = "/tags/ramie/"
+  weight = 18
+
+  [[menu.materials]]
+  name = "Recyclinggarn"
+  URL = "/tags/Recyclinggarn/"
+  weight = 19
+
+  [[menu.materials]]
+  name = "Schurwolle"
+  URL = "/tags/schurwolle/"
+  weight = 20
+
+  [[menu.materials]]
+  name = "Seide"
+  URL = "/tags/seide/"
+  weight = 21
+
+  [[menu.materials]]
+  name = "Tencel"
+  URL = "/tags/seide/"
+  weight = 22
+
+  [[menu.materials]]
+  name = "Tussahseide"
+  URL = "/tags/tussahseide/"
+  weight = 23
+
+  [[menu.materials]]
+  name = "Viscose"
+  URL = "/tags/viscose/"
+  weight = 24
+  
+  [[menu.materials]]
+  name = "Yak"
+  URL = "/tags/yak/"
+  weight = 25
+
+
+  ############# footer menu #############
+  [[menu.footer]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 3
+  
+  [[menu.footer]]
+  name = "Terms & Conditions"
+  URL = "terms-conditions"
+  weight = 4
+  
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 5
+
+
+#################### default parameters ################################
+[params]
+logo = "images/La-Volotte-logo.jpg"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.5223477"
+mapLongitude = "-0.1622023"
+mapMarker = "images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "" # Your ID
+# Contact Information
+mobile = "+49 (0)241 47587794"
+email = "wolle@la-volotte.de"
+location = "Jakobstrasse 107,  "
+location1 = "D-52064 Aachen"
+# copyright
+copyright = "| All Rights Reserved |"
+
+  # Preloader
+  [params.preloader]
+  enable = false
+  preloader = "/images/giphy.gif" # use .png , .svg or .gif format
+
+  # Product Rating
+  # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
+  [params.rating]
+  enable = true
+  websiteID = "444334"
+  publicKey = "811cf0927332bf51f2e12f84608594ac"
+
+  # Social Site
+  [[params.social]]
+  icon = "ti-facebook"
+  link = "la Volotte"
+  
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  link = "#"
+  
+  [[params.social]]
+  icon = "ti-youtube"
+  link = "#"
+  
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "la_volotte_wollladen"
+  
+  [[params.social]]
+  icon = "ti-pinterest"
+  link = "#"
+
+  # Contact Form
+  [params.contact]
+  formAction = "#" # contact form works with formspree.io
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  brand = "brands"
+  
