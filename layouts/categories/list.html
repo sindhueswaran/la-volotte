@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ partial "brands.html" . }}
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      {{ range .Data.Pages }}
+      <div class="col-lg-3 col-sm-6 mb-4">
+        <div class="card border-0 text-center">
+      <a href="{{ .Permalink }}">
+        <img src="{{ .Params.Img | absURL }}" alt="{{ .Title }}" class="card-img-top">
+      </a>  
+            <div class="card-body">
+            <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a><br>
+            <a href="{{ .Permalink }}" class="h6">{{ .Params.Brand }}</a>
+            <p>{{ .Params.Description }}</p>
+            <div class="mb-4">
+              <span class="lead text-primary">{{ .Params.Price }}</span>
+              <s>{{ .Params.PriceBefore }}</s>
+            </div>
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
+            data-item-name="{{ .Title }}"   data-item-image="{{ .Params.Img  | absURL }}"
+             data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">
+            Add to cart
+          </button>
+             
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+ 
+
+{{ partial "cta.html" . }}
+
+{{ end }}
