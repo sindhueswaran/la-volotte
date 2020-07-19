@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Seide"]
 description : "80% Schurwolle, 20% Seide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description
