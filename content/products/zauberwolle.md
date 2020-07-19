@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle und die verschiedenen Ausführungen des Zauberball Cotton."
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

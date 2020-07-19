@@ -9,7 +9,7 @@ tags: ["Seide", "Mohair"]
 description : "75% Mohair, 25% Seide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

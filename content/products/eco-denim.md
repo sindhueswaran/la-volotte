@@ -4,12 +4,13 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 categories: "Mondial"
 tags: ["Recyclinggarn"]
+url: "/products/eco-denim/"
 
 # meta description
 description : "100% BW-Recyclinggarn aus recycleten Jeans "
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

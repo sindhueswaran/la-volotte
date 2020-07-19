@@ -9,7 +9,7 @@ tags: ["Merino"]
 description : "100% extrafeine Merino"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

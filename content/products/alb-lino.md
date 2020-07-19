@@ -9,8 +9,8 @@ tags: ["Schurwolle", "Leinen"]
 description : "85% Schurwolle und 15% Leinen"
 
 # product Price
-price: "20.00€"
-priceBefore: "25.00€"
+price: "20.00"
+priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "85% Schurwolle und 15% Leinen"

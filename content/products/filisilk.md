@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Maulbeerseide"]
 description : "70% Schurwolle, 30% Maulbeerseide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

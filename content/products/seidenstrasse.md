@@ -9,8 +9,8 @@ tags: [ "Schurwolle", "Seide"]
 description : "65% Schurwolle, 35% Seide"
 
 # product Price
-price: "20.00€"
-priceBefore: "25.00€"
+price: "20.00"
+priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "65% Schurwolle, 35% Seide"

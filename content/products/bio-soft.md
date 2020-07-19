@@ -9,7 +9,7 @@ tags: ["Baumwollgarn"]
 description : "Ein dickeres Baumwollgarn"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

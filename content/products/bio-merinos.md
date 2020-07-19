@@ -9,7 +9,7 @@ tags: ["Merino GOTS", "Leinen"]
 description : "95% Merino GOTS und 5% Leinen"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Maulbeerseide"]
 description : "100% Maulbeerseide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Lama", "Seide"]
 description : "60% Lama, 30 % Schurwolle, 10% Seide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

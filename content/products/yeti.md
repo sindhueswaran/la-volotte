@@ -9,7 +9,7 @@ tags: ["Yak", "Seide"]
 description : "50% Yak, 50% Seide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

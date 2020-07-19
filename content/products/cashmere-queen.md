@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Cashmere", "Seide"]
 description : "45% Schurwolle, 35% Cashmere, 20% Seide"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

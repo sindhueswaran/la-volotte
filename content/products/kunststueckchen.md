@@ -9,8 +9,8 @@ tags: [" Royal Alpaka"]
 description : "	100% Royal Alpaka"
 
 # product Price
-price: "20.00€"
-priceBefore: "25.00€"
+price: "20.00"
+priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "100% Royal Alpaka"

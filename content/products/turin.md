@@ -9,7 +9,7 @@ tags: ["Ramie", "Seide"]
 description : "Ein Sockengarn mit Seide und Ramie"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

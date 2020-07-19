@@ -9,8 +9,8 @@ tags: ["Schurwolle", "Viscose"]
 description : "55% Schurwolle, 45% Viscose"
 
 # product Price
-price: "20.00€"
-priceBefore: "25.00€"
+price: "20.00"
+priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "55% Schurwolle, 45% Viscose"

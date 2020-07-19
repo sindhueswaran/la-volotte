@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "100% feine Schurwolle aus Patagonien"
 
 # product Price
-price: "20.00€"
+price: "20.00"
 priceBefore: ""
 
 # Product Short Description

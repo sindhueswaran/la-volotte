@@ -9,8 +9,8 @@ tags: ["Schurwolle", "Maulbeerseide", "Leinen"]
 description : "75% Schurwolle, 15% Maulbeerseide, 10% Leinen"
 
 # product Price
-price: "20.00€"
-priceBefore: "25.00€"
+price: "20.00"
+priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "75% Schurwolle, 15% Maulbeerseide, 10% Leinen"
