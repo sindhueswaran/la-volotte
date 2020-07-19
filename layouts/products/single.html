@@ -23,23 +23,23 @@
         <div class="rw-ui-container"></div>
         {{ end }}  -->
         <div class="my-4">
-          <span class="lead text-primary font-weight-medium">{{ .Params.Price }}</span>
-          <s>{{ .Params.PriceBefore }}</s>
+          <span class="lead text-primary font-weight-medium">{{ .Params.Price }} €</span>
+          <s>{{ .Params.PriceBefore }} </s>
         </div>
         <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
 
  
-
-        
-        <button class="snipcart-add-item btn btn-primary" id="my-button" 
-          data-item-id="{{ .Params.ProductID }}"
-          data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} 
-          data-item-image="{{ .image | absURL }}" {{ end }} 
-          data-item-price="{{ .Params.Price }}" 
-          data-item-url="{{ .Permalink }}"  >
-          in den Warenkorb
+        <button class="snipcart-add-item btn  btn-outline-primary" id="my-button" 
+        data-item-id="{{ .Params.ProductID }}"
+        data-item-price="{{ .Params.Price }}"
+        data-item-url="{{ .Permalink }}"
+        data-item-description="{{ .Params.Description }}"
+        data-item-image="{{ .Params.Img | absURL }}"
+        data-item-name="{{ .Title }}">
+        in den Warenkorb
         </button>
+         
       </div>
       <div class="col-12 mt-5">
         <ul class="nav nav-tabs border-bottom-0" id="myTab" role="tablist">
