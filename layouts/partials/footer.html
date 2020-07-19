@@ -21,7 +21,7 @@
               {{ .Site.Params.mobile }}</a></li>
           <li class="mb-3"><a class="text-color" href="mailto:{{ .Site.Params.email }}"><i
                 class="ti-email text-primary mr-2"></i> {{ .Site.Params.email }}</a></li>
-          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i> {{ .Site.Params.location }}  <br> &emsp; &ensp; {{ .Site.Params.location1 }}
+          <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i> {{ .Site.Params.location }} <br> &emsp; &ensp; {{ .Site.Params.location1 }}
           </li>
         </ul>
         <!-- social icon -->
@@ -48,10 +48,12 @@
     </div>
   </div>
 
-  
 
  
 </footer>
+
+ 
+
 
 {{ "<!-- Google Map API -->" | safeHTML }}
 <script src="{{ .Site.Params.gmapAPI | absURL }}"></script>
@@ -61,17 +63,15 @@
 {{ end }}
 
  
-<!-- snipcart 
+
 
 <div hidden id="snipcart" data-api-key="ODFiOGQ1NjEtOWMwZS00YjljLTkxNmEtMzM2OWFiODBlOTcyNjM3MTcyNzE4MTY1NzI0Njg1"></div>
 <script src="https://cdn.snipcart.com/themes/v3.0.17/default/snipcart.js"></script>
--->
 
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!-- snipcart 
 <script type="text/javascript" id="snipcart" src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
   data-api-key="ODFiOGQ1NjEtOWMwZS00YjljLTkxNmEtMzM2OWFiODBlOTcyNjM3MTcyNzE4MTY1NzI0Njg1">
  </script>
-
 
 
 
@@ -79,12 +79,15 @@
   Snipcart.execute('registerLocale', 'en', {
     powered_by: "Themefisher"
   });
-</script>
+</script> -->
 
 
 
 
- 
+
+{{ "<!-- Main Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}"></script> -->
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 
 
