@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Baumwolle"]
 description : "55%  Schurwolle und 45% Baumwolle"
 
 # product Price
-price: "5.60"
+price: "5.71"
 priceBefore: ""
 
 # Product Short Description

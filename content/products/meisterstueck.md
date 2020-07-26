@@ -9,7 +9,7 @@ tags: ["80% Mohair","Schurwolle"]
 description : "80% Mohair, 20% Schurwolle	"
 
 # product Price
-price: "8.58"
+price: "8.74"
 priceBefore: ""
 
 # Product Short Description

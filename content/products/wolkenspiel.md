@@ -9,7 +9,7 @@ tags: ["Schurwolle", " PA"]
 description : "80 % Schurwolle, 20 % PA"
 
 # product Price
-price: "12.50"
+price: "12.74"
 priceBefore: ""
 
 # Product Short Description

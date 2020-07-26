@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle"
 
 # product Price
-price: "15.95"
+price: "16.26"
 priceBefore: ""
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Alpaka"]
 description : "100% Alpaka"
 
 # product Price
-price: "7.97"
+price: "8.13"
 priceBefore: ""
 
 # Product Short Description
