@@ -170,8 +170,8 @@
         <h2>{{ .title | markdownify }}</h2>
         {{ end }}
       </div>
-      {{ range first 6 (where .Site.RegularPages "Type" "products") }}
-      <div class="col-lg-4 col-sm-6 mb-4">
+      {{ range first 8 (where .Site.RegularPages "Type" "products") }}
+      <div class="col-lg-3 col-sm-6 mb-4">
         <div class="card border-0 text-center">
           <a href="{{ .Permalink }}">
             {{ range first 1 .Params.Images }}
@@ -182,7 +182,7 @@
             <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
             <p>{{ .Params.Description }}</p>
             <div class="mb-4">
-              <span class="lead text-primary">{{ .Params.Price }}</span>
+              <span class="lead text-primary">{{ .Params.Price }} €</span>
               <s>{{ .Params.PriceBefore }}</s>
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
