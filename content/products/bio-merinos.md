@@ -9,7 +9,7 @@ tags: ["Merino GOTS", "Leinen"]
 description : "95% Merino GOTS und 5% Leinen"
 
 # product Price
-price: "20.00"
+price: "5.82"
 priceBefore: ""
 
 # Product Short Description
@@ -23,14 +23,14 @@ type: "products"
 
 # type must be "products"
 brand: "Schoppel"
-img: "images/products/wool2.png"   
+img: "images/products/schoppel/bio-merinos.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/wool3.png"
-  - image: "images/products/wool3.png"
-  - image: "images/products/wool3.png"
+  - image: "images/products/schoppel/bio-merinos.jpg"
+  - image: "images/products/schoppel/bio-merinos.jpg"
+  - image: "images/products/schoppel/bio-merinos.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 

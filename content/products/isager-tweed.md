@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Mohair"]
 description : "70% Schurwolle, 30% Mohair"
 
 # product Price
-price: "20.00"
+price: "7.97"
 priceBefore: ""
 
 # Product Short Description
@@ -23,14 +23,14 @@ type: "products"
 
 # type must be "products"
 brand: "Isager"
-img: "images/products/wool6.png"   
+img: "images/products/isager/isager-tweed.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/wool6.png"
-  - image: "images/products/wool6.png"
-  - image: "images/products/wool6.png"
+  - image: "images/products/isager/isager-tweed.jpg"
+  - image: "images/products/isager/isager-tweed.jpg"
+  - image: "images/products/isager/isager-tweed.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 

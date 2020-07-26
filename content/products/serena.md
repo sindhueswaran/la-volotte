@@ -9,7 +9,7 @@ tags: [ "Alpaka", "Pima-Baumwolle"]
 description : "60%  Alpaka, 40%  Pima-Baumwolle "
 
 # product Price
-price: "20.00"
+price: "14.22"
 priceBefore: ""
 
 # Product Short Description
@@ -23,14 +23,14 @@ type: "products"
 
 # type must be "products"
 brand: "Manos del Uruguay"
-img: "images/products/wool7.png"   
+img: "images/products/manos-del-uruguay/serena.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/wool7.png"
-  - image: "images/products/wool7.png"
-  - image: "images/products/wool7.png"
+  - image: "images/products/manos-del-uruguay/serena.jpg"
+  - image: "images/products/manos-del-uruguay/serena.jpg"
+  - image: "images/products/manos-del-uruguay/serena.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 

@@ -9,8 +9,8 @@ tags: ["Leinen"]
 description : "100% Leinen"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "6.21"
+priceBefore: " "
 
 # Product Short Description
 shortDescription: "100% Leinen"
@@ -24,14 +24,14 @@ type: "products"
 # Brand of wool
 brand: "Midara"
 
-img: "images/products/wool2.png"
+img: "images/products/midara/linas.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/wool2.png"
-  - image: "images/products/wool2.png"
-  - image: "images/products/wool2.png"
+  - image: "images/products/midara/linas.jpg"
+  - image: "images/products/midara/linas.jpg"
+  - image: "images/products/midara/linas.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 

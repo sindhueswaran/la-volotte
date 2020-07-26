@@ -9,8 +9,8 @@ tags: ["80% Mohair","Schurwolle"]
 description : "80% Mohair, 20% Schurwolle	"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "8.58"
+priceBefore: ""
 
 # Product Short Description
 shortDescription: "80% Mohair, 20% Schurwolle	"
@@ -23,14 +23,14 @@ type: "products"
 
 # type must be "products"
 brand: "Atelier Zitron"
-img: "images/products/wool2.png"    
+img: "images/products/atelier-zitron/meisterstueck.jpg"    
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/wool5.png"
-  - image: "images/products/wool5.png"
-  - image: "images/products/wool5.png"
+  - image: "images/products/atelier-zitron/meisterstueck.jpg"
+  - image: "images/products/atelier-zitron/meisterstueck.jpg"
+  - image: "images/products/atelier-zitron/meisterstueck.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 

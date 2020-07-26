@@ -10,7 +10,7 @@ description : "	100% Royal Alpaka"
 
 # product Price
 price: "20.00"
-priceBefore: "25.00"
+priceBefore: " "
 
 # Product Short Description
 shortDescription: "100% Royal Alpaka"
@@ -23,14 +23,14 @@ type: "products"
 
 # type must be "products"
 brand: "Atelier Zitron"
-img: "images/products/wool2.png"    
+img: "images/products/atelier-zitron/kunststueckchen.jpg"    
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/wool5.png"
-  - image: "images/products/wool5.png"
-  - image: "images/products/wool5.png"
+  - image: "images/products/atelier-zitron/kunststueckchen.jpg" 
+  - image: "images/products/atelier-zitron/kunststueckchen.jpg" 
+  - image: "images/products/atelier-zitron/kunststueckchen.jpg" 
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
