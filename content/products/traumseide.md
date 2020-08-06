@@ -3,18 +3,18 @@ title: "Traumseide"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 categories: "Atelier Zitron"
-tags: ["Maulbeerhaspelseide"]
+tags: ["Maulbeerseide"]
 
 
 # meta description
-description : "	100% Maulbeerhaspelseide"
+description : "	100% Maulbeerseide"
 
 # product Price
 price: "28.08"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "100% Maulbeerhaspelseide"
+shortDescription: "100% Maulbeerseide"
 
 #product ID
 productID: "103"

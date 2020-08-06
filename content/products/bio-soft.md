@@ -3,7 +3,7 @@ title: "Bio Soft"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 categories: "Mondial"
-tags: ["Baumwollgarn"]
+tags: ["Baumwolle"]
 
 # meta description
 description : "Ein dickeres Baumwollgarn"
