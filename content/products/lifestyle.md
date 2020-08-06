@@ -10,7 +10,7 @@ tags: ["Schurwolle"]
 description : "100% Merino"
 
 # product Price
-price: "5,23"
+price: "5.23"
 priceBefore: " "
 
 # Product Short Description

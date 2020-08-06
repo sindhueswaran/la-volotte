@@ -9,7 +9,7 @@ tags: ["Merino"]
 description : "Merino extrafein aus Tasmanien"
 
 # product Price
-price: "6,59"
+price: "6.59"
 priceBefore: ""
 
 # Product Short Description

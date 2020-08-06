@@ -9,7 +9,7 @@ tags: ["Baumwolle", "Leinen", "Bambus"]
 description : "50% Baumwolle, 30% Leinen, 20% Bambus in vielen Farben"
 
 # product Price
-price: "6,81"
+price: "6.81"
 priceBefore: ""
 
 # Product Short Description

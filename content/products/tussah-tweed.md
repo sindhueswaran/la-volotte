@@ -9,7 +9,7 @@ tags: ["Tussahseide"]
 description : "100% Tussahseide und  die komplett GOTS- zertifizierte"
 
 # product Price
-price: "12,74"
+price: "12.74"
 priceBefore: ""
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Seide" , "Tencel"]
 description : "30% Schurwolle, 30% Seide , 40% Tencel"
 
 # product Price
-price: "6,99"
+price: "6.99"
 priceBefore: ""
 
 # Product Short Description

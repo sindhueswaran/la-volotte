@@ -9,7 +9,7 @@ tags: ["Recyclinggarn"]
 description : "100% BW-Recyclinggarn aus recycleten Jeans "
 
 # product Price
-price: "3,43"
+price: "3.43"
 priceBefore: ""
 
 # Product Short Description
