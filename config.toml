@@ -1,7 +1,8 @@
 ######################## default configuration ####################
-baseURL = "https://lavolotte.netlify.app/"
+baseURL = "https://examplesite.com"
 languageCode = "de-DE"
 title = "La Volotte"
+theme = "hargo"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
@@ -140,11 +141,6 @@ disqusShortname = ""
   weight = 6
 
   [[menu.materials]]
-  name = "Baumwollgarn"
-  URL = "/tags/baumwollgarn/"
-  weight = 7
-
-  [[menu.materials]]
   name = "Bouretteseide"
   URL = "/tags/bouretteseide/"
   weight = 8
@@ -168,11 +164,6 @@ disqusShortname = ""
   name = "Leinen"
   URL = "/tags/leinen/"
   weight = 12
-
-  [[menu.materials]]
-  name = "Maulbeerhaspelseide"
-  URL = "/tags/maulbeerhaspelseide/"
-  weight = 13
 
   [[menu.materials]]
   name = "Maulbeerseide"
@@ -268,7 +259,7 @@ logo = "images/La-Volotte-logo.jpg"
 home = "Home"
 # Meta data
 description = "Die bezaubernde, alte Ladentür öffnet sich zu ‘La Volotte’ ,und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!"
-author = "Mosign"
+author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -300,14 +291,6 @@ copyright = "| All Rights Reserved |"
   [[params.social]]
   icon = "ti-facebook"
   link = "la Volotte"
-  
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-  
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
   
   [[params.social]]
   icon = "ti-instagram"
