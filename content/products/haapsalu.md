@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "Haapsalu ist ein Lacegarn aus 100% Schurwolle"
 
 # product Price
-price: "14.06"
+price: "14,06"
 priceBefore: " "
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Alpaka", "Seide"]
 description : "60% Schurwolle, 20% Alpaka, 20%  Seide"
 
 # product Price
-price: "13.62"
+price: "13,62"
 priceBefore: ""
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Schurwolle", "Hanf"]
 description : "75% Schurwolle, superwash, 25% Hanf"
 
 # product Price
-price: "11.38"
+price: "11,38"
 priceBefore: ""
 
 # Product Short Description

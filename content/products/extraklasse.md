@@ -9,7 +9,7 @@ tags: ["Mohair"]
 description : "100% Mohair"
 
 # product Price
-price: "6.99"
+price: "6,99"
 priceBefore: " "
 
 # Product Short Description

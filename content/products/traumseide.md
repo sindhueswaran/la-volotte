@@ -10,7 +10,7 @@ tags: ["Maulbeerhaspelseide"]
 description : "	100% Maulbeerhaspelseide"
 
 # product Price
-price: "28.08"
+price: "28,08"
 priceBefore: ""
 
 # Product Short Description

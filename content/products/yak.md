@@ -9,7 +9,7 @@ tags: ["Merino", "Yak" ]
 description : "70% Merino extrafein, 30% Yak"
 
 # product Price
-price: "22.81"
+price: "22,81"
 priceBefore: ""
 
 # Product Short Description

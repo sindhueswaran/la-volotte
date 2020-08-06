@@ -9,7 +9,7 @@ tags: ["Baumwolle"]
 description : "100% Baumwolle, ökologisch"
 
 # product Price
-price: "4.83"
+price: "4,83"
 priceBefore: " "
 
 # Product Short Description

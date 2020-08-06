@@ -9,7 +9,7 @@ tags: ["Leinen"]
 description : "100% Leinen"
 
 # product Price
-price: "6.33"
+price: "6,33"
 priceBefore: " "
 
 # Product Short Description

@@ -9,7 +9,7 @@ tags: ["Maulbeerseide", "Tencel"]
 description : "60% Maulbeerseide, 40% Modal/ Tencel"
 
 # product Price
-price: "15.77"
+price: "15,77"
 priceBefore: " "
 
 # Product Short Description

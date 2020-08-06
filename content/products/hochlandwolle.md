@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle aus Peru"
 
 # product Price
-price: "5.93"
+price: "5,93"
 priceBefore: ""
 
 # Product Short Description

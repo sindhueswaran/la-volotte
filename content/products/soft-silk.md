@@ -9,7 +9,7 @@ tags: ["Bouretteseide"]
 description : "100% Bouretteseide"
 
 # product Price
-price: "11.34"
+price: "11,34"
 priceBefore: ""
 
 # Product Short Description
