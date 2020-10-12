@@ -8,8 +8,12 @@ tags: ["Seide", "Mohair"]
 # meta description
 description : "75% Mohair, 25% Seide"
 
+# Farben
+farben : "0|100|12|28|30|33|36|37|3s|41|44|47|59|6|60|62|63|66|67|68|7s"
+
 # product Price
-price: "8.57"
+dprice: "9,75"
+price: "9.75"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,52 @@ images:
   - image: "images/products/isager/silk-mohair.jpg"
   - image: "images/products/isager/silk-mohair.jpg"
   - image: "images/products/isager/silk-mohair.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 0.jpg"	
+  farbtitle: "0"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 100.jpg"	
+  farbtitle: "100"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 12.jpg"	
+  farbtitle: "12"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 28.jpg"	
+  farbtitle: "28"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 30.jpg"	
+  farbtitle: "30"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 33.jpg"	
+  farbtitle: "33"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 36.jpg"	
+  farbtitle: "36"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 37.jpg"	
+  farbtitle: "37"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 3s.jpg"	
+  farbtitle: "3s"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 41.jpg"	
+  farbtitle: "41"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 44.jpg"	
+  farbtitle: "44"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 47.jpg"	
+  farbtitle: "47"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 59.jpg"	
+  farbtitle: "59"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 6.jpg"	
+  farbtitle: "6"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 60.jpg"	
+  farbtitle: "60"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 62.jpg"	
+  farbtitle: "62"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 63.jpg"	
+  farbtitle: "63"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 66.jpg"	
+  farbtitle: "66"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 67.jpg"	
+  farbtitle: "67"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 68.jpg"	
+  farbtitle: "68"
+- farbimg: "images/farben/isager/silk-mohair/SILK MOHAIR 7s.jpg"	
+  farbtitle: "7s"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

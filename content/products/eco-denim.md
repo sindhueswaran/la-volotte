@@ -6,10 +6,14 @@ categories: "Mondial"
 tags: ["Recyclinggarn"]
  
 # meta description
-description : "100% BW-Recyclinggarn aus recycleten Jeans "
+description : "100% BW-Recyclinggarn aus recycleten Jeans"
+
+# Farben
+farben : "744|745|746|747|748|749|750|751|752|753|754|755|756|757|758|759|760|761|762|763|764"
 
 # product Price
-price: "3.43"
+dprice: "3,90"
+price: "3.9"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,52 @@ images:
   - image: "images/products/mondial/eco-denim.jpg"
   - image: "images/products/mondial/eco-denim.jpg"
   - image: "images/products/mondial/eco-denim.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/mondial/eco-denim/744.jpg"	
+  farbtitle: "744"
+- farbimg: "images/farben/mondial/eco-denim/745.jpg"	
+  farbtitle: "745"
+- farbimg: "images/farben/mondial/eco-denim/746.jpg"	
+  farbtitle: "746"
+- farbimg: "images/farben/mondial/eco-denim/747.jpg"	
+  farbtitle: "747"
+- farbimg: "images/farben/mondial/eco-denim/748.jpg"	
+  farbtitle: "748"
+- farbimg: "images/farben/mondial/eco-denim/749.jpg"	
+  farbtitle: "749"
+- farbimg: "images/farben/mondial/eco-denim/750.jpg"	
+  farbtitle: "750"
+- farbimg: "images/farben/mondial/eco-denim/751.jpg"	
+  farbtitle: "751"
+- farbimg: "images/farben/mondial/eco-denim/752.jpg"	
+  farbtitle: "752"
+- farbimg: "images/farben/mondial/eco-denim/753.jpg"	
+  farbtitle: "753"
+- farbimg: "images/farben/mondial/eco-denim/754.jpg"	
+  farbtitle: "754"
+- farbimg: "images/farben/mondial/eco-denim/755.jpg"	
+  farbtitle: "755"
+- farbimg: "images/farben/mondial/eco-denim/756.jpg"	
+  farbtitle: "756"
+- farbimg: "images/farben/mondial/eco-denim/757.jpg"	
+  farbtitle: "757"
+- farbimg: "images/farben/mondial/eco-denim/758.jpg"	
+  farbtitle: "758"
+- farbimg: "images/farben/mondial/eco-denim/759.jpg"	
+  farbtitle: "759"
+- farbimg: "images/farben/mondial/eco-denim/760.jpg"	
+  farbtitle: "760"
+- farbimg: "images/farben/mondial/eco-denim/761.jpg"	
+  farbtitle: "761"
+- farbimg: "images/farben/mondial/eco-denim/762.jpg"	
+  farbtitle: "762"
+- farbimg: "images/farben/mondial/eco-denim/763.jpg"	
+  farbtitle: "763"
+- farbimg: "images/farben/mondial/eco-denim/764.jpg"	
+  farbtitle: "764"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

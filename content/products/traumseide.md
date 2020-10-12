@@ -9,8 +9,12 @@ tags: ["Maulbeerseide"]
 # meta description
 description : "	100% Maulbeerseide"
 
+# Farben
+farben : "053|050|052|054|051|055|034|041|040|038|001|002|003|004|005|008|011|020|024|057|056|059|058"
+
 # product Price
-price: "28.08"
+dprice: "31,95"
+price: "31.95"
 priceBefore: ""
 
 # Product Short Description
@@ -32,6 +36,57 @@ images:
   - image: "images/products/atelier-zitron/traumseide.jpg"
   - image: "images/products/atelier-zitron/traumseide.jpg"
   - image: "images/products/atelier-zitron/traumseide.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_4603_053_1.jpg"
+  farbtitle: "053"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_4610_050_1.jpg"
+  farbtitle: "050"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_4612_052_1.jpg"
+  farbtitle: "052"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_4620_054_1.jpg"
+  farbtitle: "054"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_4623_051_1.jpg"
+  farbtitle: "051"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_4631_055_1.jpg"
+  farbtitle: "055"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_7146_034_1.jpg"
+  farbtitle: "034"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_7147_041_1.jpg"
+  farbtitle: "041"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_7177_040_1.jpg"
+  farbtitle: "040"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_7181_038_1.jpg"
+  farbtitle: "038"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8926_001_1.jpg"
+  farbtitle: "001"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8932_002_1.jpg"
+  farbtitle: "002"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8934_003_1.jpg"
+  farbtitle: "003"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8940_004_1.jpg"
+  farbtitle: "004"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8942_005_1.jpg"
+  farbtitle: "005"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8956_008_1.jpg"
+  farbtitle: "008"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8966_011_1.jpg"
+  farbtitle: "011"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_8996_020_1.jpg"
+  farbtitle: "020"
+- farbimg: "images/farben/atelier-zitron/traumseide/traumseide_9012_024_1.jpg"
+  farbtitle: "024"
+- farbimg: "images/farben/atelier-zitron/traumseide/Traumseide_9825_057_1.jpg"
+  farbtitle: "057"
+- farbimg: "images/farben/atelier-zitron/traumseide/Traumseide_9828_056_1.jpg"
+  farbtitle: "056"
+- farbimg: "images/farben/atelier-zitron/traumseide/Traumseide_9831_059_1.jpg"
+  farbtitle: "059"
+- farbimg: "images/farben/atelier-zitron/traumseide/Traumseide_9836_058_1.jpg"
+  farbtitle: "058"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

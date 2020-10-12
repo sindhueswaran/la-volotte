@@ -6,10 +6,14 @@ categories: "Manos del Uruguay"
 tags: [ "Alpaka", "Pima-Baumwolle"]
 
 # meta description
-description : "60%  Alpaka, 40%  Pima-Baumwolle "
+description : "60%  Alpaka, 40%  Pima-Baumwolle"
+
+# Farben
+farben : "Biscotti|Canyon|Ethereal|Harbor|Natural|Oyster|Sage|Sapphire|Seashell|Thunder|Tide"
 
 # product Price
-price: "14.50"
+dprice: "16,50"
+price: "16.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,33 @@ images:
   - image: "images/products/manos-del-uruguay/serena.jpg"
   - image: "images/products/manos-del-uruguay/serena.jpg"
   - image: "images/products/manos-del-uruguay/serena.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/manos-del-uruguay/serena/Biscotti.jpg"	
+  farbtitle: "Biscotti"
+- farbimg: "images/farben/manos-del-uruguay/serena/Canyon.jpg"	
+  farbtitle: "Canyon"
+- farbimg: "images/farben/manos-del-uruguay/serena/Ethereal.jpg"	
+  farbtitle: "Ethereal"
+- farbimg: "images/farben/manos-del-uruguay/serena/Harbor.jpg"	
+  farbtitle: "Harbor"
+- farbimg: "images/farben/manos-del-uruguay/serena/Natural.jpg"	
+  farbtitle: "Natural"
+- farbimg: "images/farben/manos-del-uruguay/serena/Oyster.jpg"	
+  farbtitle: "Oyster"
+- farbimg: "images/farben/manos-del-uruguay/serena/Sage.jpg"	
+  farbtitle: "Sage"
+- farbimg: "images/farben/manos-del-uruguay/serena/Sapphire.jpg"	
+  farbtitle: "Sapphire"
+- farbimg: "images/farben/manos-del-uruguay/serena/Seashell.jpg"	
+  farbtitle: "Seashell"
+- farbimg: "images/farben/manos-del-uruguay/serena/Thunder.jpg"	
+  farbtitle: "Thunder"
+- farbimg: "images/farben/manos-del-uruguay/serena/Tide.jpg"	
+  farbtitle: "Tide"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

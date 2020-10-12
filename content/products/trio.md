@@ -8,8 +8,12 @@ tags: ["Baumwolle", "Leinen", "Bambus"]
 # meta description
 description : "50% Baumwolle, 30% Leinen, 20% Bambus in vielen Farben"
 
+# Farben
+farben : "BLUSH|BORDEAUX|BOTTLE GREEN|CAMEL|CHESTNUT|FROST|GRANITE|INDIGO|INK|KHAKI|LEMON|LINEN|NAVY|NOUGAT|PETROLEUM|POWDER|SAGE|SKY|STRAWBERRY|THYME|WHITE"
+
 # product Price
-price: "6.81"
+dprice: "7,75"
+price: "7.75"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,52 @@ images:
   - image: "images/products/isager/trio.jpg"
   - image: "images/products/isager/trio.jpg"
   - image: "images/products/isager/trio.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/isager/trio/TRIO BLUSH.jpg"	
+  farbtitle: "BLUSH"
+- farbimg: "images/farben/isager/trio/TRIO BORDEAUX.jpg"	
+  farbtitle: "BORDEAUX"
+- farbimg: "images/farben/isager/trio/TRIO BOTTLE GREEN.jpg"	
+  farbtitle: "BOTTLE GREEN"
+- farbimg: "images/farben/isager/trio/TRIO CAMEL.jpg"	
+  farbtitle: "CAMEL"
+- farbimg: "images/farben/isager/trio/TRIO CHESTNUT.jpg"	
+  farbtitle: "CHESTNUT"
+- farbimg: "images/farben/isager/trio/TRIO FROST.jpg"	
+  farbtitle: "FROST"
+- farbimg: "images/farben/isager/trio/TRIO GRANITE.jpg"	
+  farbtitle: "GRANITE"
+- farbimg: "images/farben/isager/trio/TRIO INDIGO.jpg"	
+  farbtitle: "INDIGO"
+- farbimg: "images/farben/isager/trio/TRIO INK.jpg"	
+  farbtitle: "INK"
+- farbimg: "images/farben/isager/trio/TRIO KHAKI.jpg"	
+  farbtitle: "KHAKI"
+- farbimg: "images/farben/isager/trio/TRIO LEMON.jpg"	
+  farbtitle: "LEMON"
+- farbimg: "images/farben/isager/trio/TRIO LINEN.jpg"	
+  farbtitle: "LINEN"
+- farbimg: "images/farben/isager/trio/TRIO NAVY.jpg"	
+  farbtitle: "NAVY"
+- farbimg: "images/farben/isager/trio/TRIO NOUGAT.jpg"	
+  farbtitle: "NOUGAT"
+- farbimg: "images/farben/isager/trio/TRIO PETROLEUM.jpg"	
+  farbtitle: "PETROLEUM"
+- farbimg: "images/farben/isager/trio/TRIO POWDER.jpg"	
+  farbtitle: "POWDER"
+- farbimg: "images/farben/isager/trio/TRIO SAGE.jpg"	
+  farbtitle: "SAGE"
+- farbimg: "images/farben/isager/trio/TRIO SKY.jpg"	
+  farbtitle: "SKY"
+- farbimg: "images/farben/isager/trio/TRIO STRAWBERRY.jpg"	
+  farbtitle: "STRAWBERRY"
+- farbimg: "images/farben/isager/trio/TRIO THYME.jpg"	
+  farbtitle: "THYME"
+- farbimg: "images/farben/isager/trio/TRIO WHITE.jpg"	
+  farbtitle: "WHITE"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

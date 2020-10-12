@@ -9,8 +9,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% Schurwolle"
 
+# Farben
+farben : "1209|1208|1276|1263|1262|1261|1269|1277|1278|1204|1213|1171|1163|1170|1179|1175|1160"
+
 # product Price
-price: "11.38"
+dprice: "12,95"
+price: "12.95"
 priceBefore: " "
 
 # Product Short Description
@@ -32,6 +36,45 @@ images:
   - image: "images/products/atelier-zitron/unisono.jpg"
   - image: "images/products/atelier-zitron/unisono.jpg"
   - image: "images/products/atelier-zitron/unisono.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_3241_1209_1.jpg"	
+  farbtitle: "1209"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_3409_1208_1.jpg"	
+  farbtitle: "1208"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_5230_1276_1.jpg"	
+  farbtitle: "1276"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_7218_1263_1.jpg"	
+  farbtitle: "1263"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_7221_1262_1.jpg"	
+  farbtitle: "1262"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_7226_1261_1.jpg"	
+  farbtitle: "1261"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_7232_1269_1.jpg"	
+  farbtitle: "1269"
+- farbimg: "images/farben/atelier-zitron/unisono/Unisono_8304_1277_1.jpg"	
+  farbtitle: "1277"
+- farbimg: "images/farben/atelier-zitron/unisono/Unisono_8305_1278_1.jpg"	
+  farbtitle: "1278"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8694_1204_1.jpg"	
+  farbtitle: "1204"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8696_1213_1.jpg"	
+  farbtitle: "1213"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8728_1171_1.jpg"	
+  farbtitle: "1171"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8758_1163_1.jpg"	
+  farbtitle: "1163"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8760_1170_1.jpg"	
+  farbtitle: "1170"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8792_1179_1.jpg"	
+  farbtitle: "1179"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8798_1175_1.jpg"	
+  farbtitle: "1175"
+- farbimg: "images/farben/atelier-zitron/unisono/unisono_8832_1160_1.jpg"	
+  farbtitle: "1160"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

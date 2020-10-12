@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Hanf"]
 # meta description
 description : "75% Schurwolle, superwash, 25% Hanf"
 
+# Farben
+farben : "16|22|11|12|13|27|26|25|23|24|14|17|20|15|18|19"
+
 # product Price
-price: "11.38"
+dprice: "12,95"
+price: "12.95"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,42 @@ images:
   - image: "images/products/atelier-zitron/hanf-natur.jpg"
   - image: "images/products/atelier-zitron/hanf-natur.jpg"
   - image: "images/products/atelier-zitron/hanf-natur.jpg"
+
+# product colors
+farbimages:  
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7639_16_1.jpg"	
+  farbtitle: "16"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7644_22_1.jpg"	
+  farbtitle: "22"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7648_11_1.jpg"	
+  farbtitle: "11"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7651_12_1.jpg"	
+  farbtitle: "12"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7654_13_1.jpg"	
+  farbtitle: "13"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7660_27_1.jpg"	
+  farbtitle: "27"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7663_26_1.jpg"	
+  farbtitle: "26"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7666_25_1.jpg"	
+  farbtitle: "25"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7669_23_1.jpg"	
+  farbtitle: "23"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7672_24_1.jpg"	
+  farbtitle: "24"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7675_14_1.jpg"	
+  farbtitle: "14"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7678_17_1.jpg"	
+  farbtitle: "17"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7681_20_1.jpg"	
+  farbtitle: "20"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7684_15_1.jpg"	
+  farbtitle: "15"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7687_18_1.jpg"	
+  farbtitle: "18"
+- farbimg: "images/farben/atelier-zitron/hanf-natur/hanfnatur_bicolor_7691_19_1.jpg"	
+  farbtitle: "19"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Maulbeerseide"]
 # meta description
 description : "70% Schurwolle, 30% Maulbeerseide"
 
+# Farben
+farben : "07|08|06|3056|3055|3057|3053|3052|3050|05|04|02|10|11|14|3004|3030|3031|3037|3038|3039"
+
 # product Price
-price: "17.14"
+dprice: "19,50"
+price: "19.5"
 priceBefore: ""
 
 # Product Short Description
@@ -32,6 +36,52 @@ images:
   - image: "images/products/atelier-zitron/filisilk.jpg"
   - image: "images/products/atelier-zitron/filisilk.jpg"
   - image: "images/products/atelier-zitron/filisilk.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4164_07_1.jpg"	
+  farbtitle: "07"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4166_08_1.jpg"	
+  farbtitle: "08"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4167_06_1.jpg"	
+  farbtitle: "06"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4366_3056_1.jpg"	
+  farbtitle: "3056"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4368_3055_1.jpg"	
+  farbtitle: "3055"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4372_3057_1.jpg"	
+  farbtitle: "3057"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4375_3053_1.jpg"	
+  farbtitle: "3053"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4378_3052_1.jpg"	
+  farbtitle: "3052"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_4387_3050_1.jpg"	
+  farbtitle: "3050"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_7304_05_1.jpg"	
+  farbtitle: "05"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_7309_04_1.jpg"	
+  farbtitle: "04"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_7312_02_1.jpg"	
+  farbtitle: "02"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_7710_10_1.jpg"	
+  farbtitle: "10"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_7712_11_1.jpg"	
+  farbtitle: "11"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_7722_14_1.jpg"	
+  farbtitle: "14"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_9620_3004_1.jpg"	
+  farbtitle: "3004"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_9634_3030_1.jpg"	
+  farbtitle: "3030"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_9636_3031_1.jpg"	
+  farbtitle: "3031"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_9642_3037_1.jpg"	
+  farbtitle: "3037"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_9644_3038_1.jpg"	
+  farbtitle: "3038"
+- farbimg: "images/farben/atelier-zitron/filisilk/Filisilk_9646_3039_1.jpg"	
+  farbtitle: "3039"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

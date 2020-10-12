@@ -8,8 +8,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% Schurwolle und die verschiedenen Ausführungen des Zauberball Cotton."
 
+# Farben
+farben : "Herbstwind|Schatten|Stone-Washed|Fuchsienbeet|Fliederduft|Papagei|Kleiner Fuchs|Gebrannte Mandeln|Alter Schwede|Teezeremonie|Gelbfilter|Rush Hour|Waldfrau|Streiflichter|Kichererbse|Aldebaran|Hochofen|Alles Paletti"
+
 # product Price
-price: "10.11"
+dprice: "11,50"
+price: "11.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,47 @@ images:
   - image: "images/products/schoppel/zauberwolle.jpg"
   - image: "images/products/schoppel/zauberwolle.jpg"
   - image: "images/products/schoppel/zauberwolle.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1507_ Herbstwind.jpg"	
+  farbtitle: "Herbstwind"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1508_ Schatten.jpg"	
+  farbtitle: "Schatten"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1535_ Stone-Washed.jpg"	
+  farbtitle: "Stone-Washed"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1536_ Fuchsienbeet.jpg"	
+  farbtitle: "Fuchsienbeet"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1699_ Fliederduft.jpg"	
+  farbtitle: "Fliederduft"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1701_ Papagei.jpg"	
+  farbtitle: "Papagei"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1702_ Kleiner Fuchs.jpg"	
+  farbtitle: "Kleiner Fuchs"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 1874_ Gebrannte Mandeln.jpg"	
+  farbtitle: "Gebrannte Mandeln"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2199_ Alter Schwede.jpg"	
+  farbtitle: "Alter Schwede"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2249_ Teezeremonie.jpg"	
+  farbtitle: "Teezeremonie"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2306_ Gelbfilter.jpg"	
+  farbtitle: "Gelbfilter"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2307_ Rush Hour.jpg"	
+  farbtitle: "Rush Hour"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2336_ Waldfrau.jpg"	
+  farbtitle: "Waldfrau"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2357_ Streiflichter.jpg"	
+  farbtitle: "Streiflichter"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2359_ Kichererbse.jpg"	
+  farbtitle: "Kichererbse"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2402_ Aldebaran.jpg"	
+  farbtitle: "Aldebaran"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2435_ Hochofen.jpg"	
+  farbtitle: "Hochofen"
+- farbimg: "images/farben/schoppel/zauberwolle/Zauberwolle 2437_ Alles Paletti.jpg"	
+  farbtitle: "Alles Paletti"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

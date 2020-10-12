@@ -8,8 +8,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% Schurwolle"
 
+# Farben
+farben : "Black|Brown[+100.00]|Gold[+300.00]"
+
 # product Price
-price: "6.11"
+dprice: "6,95"
+price: "6.95"
 priceBefore: ""
 
 # Product Short Description
@@ -33,4 +37,4 @@ images:
   - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

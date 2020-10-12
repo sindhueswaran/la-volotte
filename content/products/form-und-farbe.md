@@ -8,8 +8,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% Schurwolle"
 
+# Farben
+farben : "50|51|53|54|55|56|57|58|01|02|03|05"
+
 # product Price
-price: "14.02"
+dprice: "15,95"
+price: "15.95"
 priceBefore: " "
 
 # Product Short Description
@@ -31,6 +35,34 @@ images:
   - image: "images/products/atelier-zitron/form-und-farbe.jpg"
   - image: "images/products/atelier-zitron/form-und-farbe.jpg"
   - image: "images/products/atelier-zitron/form-und-farbe.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2486_50_1.jpg"	
+  farbtitle: "50"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2489_51_1.jpg"	
+  farbtitle: "51"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2497_53_1.jpg"	
+  farbtitle: "53"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2500_54_1.jpg"	
+  farbtitle: "54"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2503_55_1.jpg"	
+  farbtitle: "55"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2506_56_1.jpg"	
+  farbtitle: "56"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2510_57_1.jpg"	
+  farbtitle: "57"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2510_58_1.jpg"	
+  farbtitle: "58"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2740_01_1.jpg"	
+  farbtitle: "01"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2741_02_1.jpg"	
+  farbtitle: "02"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2742_03_1.jpg"	
+  farbtitle: "03"
+- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2744_05_1.jpg"	
+  farbtitle: "05"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

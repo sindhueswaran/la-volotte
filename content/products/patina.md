@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Viscose"]
 # meta description
 description : "55% Schurwolle, 45% Viscose"
 
+# Farben
+farben : "5001|5003|5004|5006|5009|5010|5013|5014|5015|5022|5024|5025|5026|5028|5029|5030|5031|5033|5034|5036|5501|5019|5035|5043|5045|5042|5044|5040|5041"
+
 # product Price
-price: "6.11"
+dprice: "6,95"
+price: "6.95"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,68 @@ images:
   - image: "images/products/atelier-zitron/patina.jpg"
   - image: "images/products/atelier-zitron/patina.jpg"
   - image: "images/products/atelier-zitron/patina.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/patina/patina_0009_5001_1.jpg"	
+  farbtitle: "5001"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0011_5003_1.jpg"	
+  farbtitle: "5003"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0013_5004_1.jpg"	
+  farbtitle: "5004"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0017_5006_1.jpg"	
+  farbtitle: "5006"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0019_5009_1.jpg"	
+  farbtitle: "5009"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0021_5010_1.jpg"	
+  farbtitle: "5010"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0023_5013_1.jpg"	
+  farbtitle: "5013"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0025_5014_1.jpg"	
+  farbtitle: "5014"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0029_5015_1.jpg"	
+  farbtitle: "5015"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0031_5022_1.jpg"	
+  farbtitle: "5022"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0033_5024_1.jpg"	
+  farbtitle: "5024"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0035_5025_1.jpg"	
+  farbtitle: "5025"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0037_5026_1.jpg"	
+  farbtitle: "5026"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0041_5028_1.jpg"	
+  farbtitle: "5028"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0043_5029_1.jpg"	
+  farbtitle: "5029"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0045_5030_1.jpg"	
+  farbtitle: "5030"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0047_5031_1.jpg"	
+  farbtitle: "5031"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0051_5033_1.jpg"	
+  farbtitle: "5033"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0053_5034_1.jpg"	
+  farbtitle: "5034"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0055_5036_1.jpg"	
+  farbtitle: "5036"
+- farbimg: "images/farben/atelier-zitron/patina/patina_0057_5501_1.jpg"	
+  farbtitle: "5501"
+- farbimg: "images/farben/atelier-zitron/patina/patina_1111_5019_1.jpg"	
+  farbtitle: "5019"
+- farbimg: "images/farben/atelier-zitron/patina/patina_1111_5035_1.jpg"	
+  farbtitle: "5035"
+- farbimg: "images/farben/atelier-zitron/patina/patina_4462_5043_1.jpg"	
+  farbtitle: "5043"
+- farbimg: "images/farben/atelier-zitron/patina/patina_4471_5045_1.jpg"	
+  farbtitle: "5045"
+- farbimg: "images/farben/atelier-zitron/patina/patina_4473_5042_1.jpg"	
+  farbtitle: "5042"
+- farbimg: "images/farben/atelier-zitron/patina/patina_4477_5044_1.jpg"	
+  farbtitle: "5044"
+- farbimg: "images/farben/atelier-zitron/patina/patina_4484_5040_1.jpg"	
+  farbtitle: "5040"
+- farbimg: "images/farben/atelier-zitron/patina/patina_4489_5041_1.jpg"	
+  farbtitle: "5041"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

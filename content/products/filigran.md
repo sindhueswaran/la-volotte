@@ -9,8 +9,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% Schurwolle"
 
+# Farben
+farben : "17|15|16|2522|66|12|02|2501|2505|2511|2515|2523|2530|2534"
+
 # product Price
-price: "13.14"
+dprice: "14,95"
+price: "14.95"
 priceBefore: " "
 
 # Product Short Description
@@ -32,6 +36,38 @@ images:
   - image: "images/products/atelier-zitron/filigran.jpg"
   - image: "images/products/atelier-zitron/filigran.jpg"
   - image: "images/products/atelier-zitron/filigran.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_0012_17_1.jpg"	
+  farbtitle: "17"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_0013_15_1.jpg"	
+  farbtitle: "15"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_0014_16_1.jpg"	
+  farbtitle: "16"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_0843_2522_1.jpg"
+  farbtitle: "2522"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_2394_66_1.jpg"	
+  farbtitle: "66"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_2634_12_1.jpg"	
+  farbtitle: "12"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_4095_02_1.jpg"	
+  farbtitle: "02"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9588_2501_1.jpg"	
+  farbtitle: "2501"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9590_2505_1.jpg"	
+  farbtitle: "2505"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9594_2511_1.jpg"	
+  farbtitle: "2511"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9598_2515_1.jpg"	
+  farbtitle: "2515"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9608_2523_1.jpg"	
+  farbtitle: "2523"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9610_2530_1.jpg"	
+  farbtitle: "2530"
+- farbimg: "images/farben/atelier-zitron/filigran/Filigran_9618_2534_1.jpg"	
+  farbtitle: "2534"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

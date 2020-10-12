@@ -8,9 +8,13 @@ tags: ["Schurwolle"]
 # meta description
 description : "Haapsalu ist ein Lacegarn aus 100% Schurwolle"
 
+# Farben
+farben : "010|030"
+
 # product Price
-price: "14.06"
-priceBefore: " "
+dprice: "16,00"
+price: "16.00"
+priceBefore: ""
 
 # Product Short Description
 shortDescription: "Haapsalu ist ein Lacegarn aus 100% Schurwolle"
@@ -32,7 +36,16 @@ images:
   - image: "images/products/midara/haapsalu.jpg"
   - image: "images/products/midara/haapsalu.jpg"
   - image: "images/products/midara/haapsalu.jpg"
+
+
+# product colors
+farbimages:
+- farbimg: "images/farben/midara/haapsalu/010.jpg"	
+  farbtitle: "110"
+- farbimg: "images/farben/midara/haapsalu/030.jpg"	
+  farbtitle: "125"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.
  

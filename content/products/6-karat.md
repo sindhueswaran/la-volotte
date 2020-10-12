@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Seide"]
 # meta description
 description : "80% Schurwolle, 20% Seide"
 
+# Farben
+farben : "Stadt Land Fluss|Lippenbekenntnis|Froschkönig|Blauer Planet|Gib mehr Grün|Kleingedrucktes|4 Freunde|Rechtes Licht|Raw Denim|Meeresblick|Nachtschicht|Rosarium|Roter Ocker|Lagoon|Elefantenhaut|Seidenschwarz|Bordeaux schattiert|Lucid|Himbeersorbet"
+
 # product Price
-price: "16.26"
+dprice: "18,50"
+price: "18.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,48 @@ images:
   - image: "images/products/schoppel/6-karat.jpg"
   - image: "images/products/schoppel/6-karat.jpg"
   - image: "images/products/schoppel/6-karat.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2152_ Stadt Land Fluss.jpg"	
+  farbtitle: "Stadt Land Fluss"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2153_ Lippenbekenntnis.jpg"	
+  farbtitle: "Lippenbekenntnis"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2154_ Froschkönig.jpg"	
+  farbtitle: "Froschkönig"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2155_ Blauer Planet.jpg"	
+  farbtitle: "Blauer Planet"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2235_ Gib mehr Grün.jpg"	
+  farbtitle: "Gib mehr Grün"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2268_ Kleingedrucktes.jpg"	
+  farbtitle: "Kleingedrucktes"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT 2318_ 4 Freunde.jpg"	
+  farbtitle: "4 Freunde"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2279_ Rechtes Licht.jpg"	
+  farbtitle: "Rechtes Licht"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2285_ Raw Denim.jpg"	
+  farbtitle: "Raw Denim"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2287_ Meeresblick.jpg"	
+  farbtitle: "Meeresblick"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2344_ Nachtschicht.jpg"	
+  farbtitle: "Nachtschicht"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2346_ Rosarium.jpg"	
+  farbtitle: "Rosarium"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2371_ Roter Ocker.jpg"	
+  farbtitle: "Roter Ocker"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2375_ Lagoon.jpg"	
+  farbtitle: "Lagoon"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2377_ Elefantenhaut.jpg"	
+  farbtitle: "Elefantenhaut"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2379_ Seidenschwarz.jpg"	
+  farbtitle: "Seidenschwarz"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2408_ Bordeaux schattiert.jpg"	
+  farbtitle: "Bordeaux schattiert"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2445_ Lucid.jpg"	
+  farbtitle: "Lucid"
+- farbimg: "images/farben/schoppel/6-karat/6 KARAT Shadow 2446_ Himbeersorbet.jpg"	
+  farbtitle: "Himbeersorbet"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

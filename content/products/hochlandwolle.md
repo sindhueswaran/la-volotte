@@ -8,8 +8,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% Schurwolle aus Peru"
 
+# Farben
+farben : "CHARCOAL|CHILI|CHOCOLATE|CLAY|CURRY|DENIM|GREECE|ICE BLUE|MOSS|OCEAN|RHUBARB|ROSE|SAND|SKY|SOIL|STONE|TURQUISE|WINE"
+
 # product Price
-price: "5.93"
+dprice: "6,75"
+price: "6.75"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,46 @@ images:
   - image: "images/products/isager/hochlandwolle.jpg"
   - image: "images/products/isager/hochlandwolle.jpg"
   - image: "images/products/isager/hochlandwolle.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/isager/hochlandwolle/HL CHARCOAL.jpg"	
+  farbtitle: "CHARCOAL"
+- farbimg: "images/farben/isager/hochlandwolle/HL CHILI.jpg"	
+  farbtitle: "CHILI"
+- farbimg: "images/farben/isager/hochlandwolle/HL CHOCOLATE.jpg"	
+  farbtitle: "CHOCOLATE"
+- farbimg: "images/farben/isager/hochlandwolle/HL CLAY.jpg"	
+  farbtitle: "CLAY"
+- farbimg: "images/farben/isager/hochlandwolle/HL CURRY.jpg"	
+  farbtitle: "CURRY"
+- farbimg: "images/farben/isager/hochlandwolle/HL DENIM.jpg"	
+  farbtitle: "DENIM"
+- farbimg: "images/farben/isager/hochlandwolle/HL GREECE.jpg"	
+  farbtitle: "GREECE"
+- farbimg: "images/farben/isager/hochlandwolle/HL ICE BLUE.jpg"	
+  farbtitle: "ICE BLUE"
+- farbimg: "images/farben/isager/hochlandwolle/HL MOSS.jpg"	
+  farbtitle: "MOSS"
+- farbimg: "images/farben/isager/hochlandwolle/HL OCEAN.jpg"	
+  farbtitle: "OCEAN"
+- farbimg: "images/farben/isager/hochlandwolle/HL RHUBARB.jpg"	
+  farbtitle: "RHUBARB"
+- farbimg: "images/farben/isager/hochlandwolle/HL ROSE.jpg"	
+  farbtitle: "ROSE"
+- farbimg: "images/farben/isager/hochlandwolle/HL SAND.jpg"	
+  farbtitle: "SAND"
+- farbimg: "images/farben/isager/hochlandwolle/HL SKY.jpg"	
+  farbtitle: "SKY"
+- farbimg: "images/farben/isager/hochlandwolle/HL SOIL.jpg"	
+  farbtitle: "SOIL"
+- farbimg: "images/farben/isager/hochlandwolle/HL STONE.jpg"	
+  farbtitle: "STONE"
+- farbimg: "images/farben/isager/hochlandwolle/HL TURQUISE.jpg"	
+  farbtitle: "TURQUISE"
+- farbimg: "images/farben/isager/hochlandwolle/HL WINE.jpg"	
+  farbtitle: "WINE"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

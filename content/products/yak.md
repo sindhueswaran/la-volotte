@@ -8,8 +8,12 @@ tags: ["Merino", "Yak" ]
 # meta description
 description : "70% Merino extrafein, 30% Yak"
 
+# Farben
+farben : "24|23|21|22|28|30|25|26|29|27|05|02|09|08|16|07|12|01|13|17|11|14|10|15|06|19"
+
 # product Price
-price: "22.81"
+dprice: "25,95"
+price: "25.95"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,62 @@ images:
   - image: "images/products/atelier-zitron/yak.jpg"
   - image: "images/products/atelier-zitron/yak.jpg"
   - image: "images/products/atelier-zitron/yak.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/yak/Yak_2742_24_1.jpg"	
+  farbtitle: "24"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_2743_23_1.jpg"	
+  farbtitle: "23"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_2745_21_1.jpg"	
+  farbtitle: "21"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_2746_22_1.jpg"	
+  farbtitle: "22"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_4397_28_1.jpg"	
+  farbtitle: "28"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_4405_30_1.jpg"	
+  farbtitle: "30"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_4408_25_1.jpg"	
+  farbtitle: "25"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_4414_26_1.jpg"	
+  farbtitle: "26"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_4417_29_1.jpg"	
+  farbtitle: "29"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_4423_27_1.jpg"	
+  farbtitle: "27"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7316_05_1.jpg"	
+  farbtitle: "05"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7317_02_1.jpg"	
+  farbtitle: "02"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7320_09_1.jpg"
+  farbtitle: "09"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7321_08_1.jpg"
+  farbtitle: "08"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7324_16_1.jpg"
+  farbtitle: "16"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7325_07_1.jpg"
+  farbtitle: "07"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7328_12_1.jpg"
+  farbtitle: "12"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7331_01_1.jpg"
+  farbtitle: "01"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7334_13_1.jpg"
+  farbtitle: "13"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7335_17_1.jpg"
+  farbtitle: "17"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7337_11_1.jpg"
+  farbtitle: "11"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7340_14_1.jpg"
+  farbtitle: "14"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7342_10_1.jpg"
+  farbtitle: "10"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7344_15_1.jpg"
+  farbtitle: "15"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_7354_06_1.jpg"
+  farbtitle: "06"
+- farbimg: "images/farben/atelier-zitron/yak/Yak_8326_19_1.jpg"
+  farbtitle: "19"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

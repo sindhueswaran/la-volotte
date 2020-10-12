@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Baumwolle"]
 # meta description
 description : "55%  Schurwolle und 45% Baumwolle"
 
+# Farben
+farben : "01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30"
+
 # product Price
-price: "5.71"
+dprice: "6,50"
+price: "6.5"
 priceBefore: ""
 
 # Product Short Description
@@ -23,14 +27,79 @@ type: "products"
 
 # type must be "products"
 brand: "BC-Garn"
-img: "images/products/bc-garn/bio-balance.jpg"   
+img:  "images/products/bc-garn/bio-balance.jpg"   
 
 # product Images
-# first image will be shown in the product page
+# first image will be shown in the product page 
 images:
-  - image: "images/products/bc-garn/bio-balance.jpg"
-  - image: "images/products/bc-garn/bio-balance.jpg"
-  - image: "images/products/bc-garn/bio-balance.jpg"
+  - image:  "images/products/bc-garn/bio-balance.jpg"
+  - image:  "images/products/bc-garn/bio-balance.jpg"
+  - image:  "images/products/bc-garn/bio-balance.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-01.jpg"	
+  farbtitle: "01"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-02.jpg"	
+  farbtitle: "02"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-03.jpg"	
+  farbtitle: "03"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-04.jpg"	
+  farbtitle: "04"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-05.jpg"	
+  farbtitle: "05"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-06.jpg"	
+  farbtitle: "06"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-07.jpg"	
+  farbtitle: "07"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-08.jpg"	
+  farbtitle: "08"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-09.jpg"	
+  farbtitle: "09"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-10.jpg"	
+  farbtitle: "10"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-11.jpg"	
+  farbtitle: "11"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-12.jpg"	
+  farbtitle: "12"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-13.jpg"	
+  farbtitle: "13"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-14.jpg"	
+  farbtitle: "14"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-15.jpg"	
+  farbtitle: "15"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-16.jpg"	
+  farbtitle: "16"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-17.jpg"	
+  farbtitle: "17"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-18.jpg"	
+  farbtitle: "18"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-19.jpg"	
+  farbtitle: "19"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-20.jpg"	
+  farbtitle: "20"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-21.jpg"	
+  farbtitle: "21"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-22.jpg"	
+  farbtitle: "22"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-23.jpg"	
+  farbtitle: "23"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-24.jpg"	
+  farbtitle: "24"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-25.jpg"	
+  farbtitle: "25"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-26.jpg"	
+  farbtitle: "26"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-27.jpg"	
+  farbtitle: "27"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-28.jpg"	
+  farbtitle: "28"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-29.jpg"	
+  farbtitle: "29"
+- farbimg: "images/farben/bc-garn/bio-balance/g_011010118-30.jpg"	
+  farbtitle: "30"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

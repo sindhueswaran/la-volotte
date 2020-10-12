@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Maulbeerseide", "Leinen"]
 # meta description
 description : "75% Schurwolle, 15% Maulbeerseide, 10% Leinen"
 
+# Farben
+farben : "11|15A|16"
+
 # product Price
-price: "11.38"
+dprice: "12,95"
+price: "12.95"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,16 @@ images:
   - image: "images/products/atelier-zitron/triologie.jpg"
   - image: "images/products/atelier-zitron/triologie.jpg"
   - image: "images/products/atelier-zitron/triologie.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/triologie/triologie_3429_11_1.jpg"	
+  farbtitle: "11"
+- farbimg: "images/farben/atelier-zitron/triologie/triologie_5244_15A_1.jpg"	
+  farbtitle: "15A"
+- farbimg: "images/farben/atelier-zitron/triologie/triologie_7454_16_1.jpg"	
+  farbtitle: "16"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

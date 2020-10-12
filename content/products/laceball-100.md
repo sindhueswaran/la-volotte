@@ -8,8 +8,12 @@ tags: ["Schurwolle" ]
 # meta description
 description : "100% Schurwolle"
 
+# Farben
+farben : "Kunterbunt| Fliederduft| Papagei| Heißes Eisen| Evergreen| Rauchzeichen| Blasser Schimmer| Blaukraut bleibt Blaukraut| Sphinx| Sofaecke| Teezeremonie| Zone Aquatique| Licht im Schacht| Villa Rosa| Red to Go| Blaue Lagune| Schlichte Fichte| Herbstmeister| Komfortzone| Frühblüher| Streiflichter| Kichererbse| Mittelland| Lange Bank| Vitamin C| Waldmeister| Alles Paletti"
+
 # product Price
-price: "11.86"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,64 @@ images:
   - image: "images/products/schoppel/laceball-100.jpg"
   - image: "images/products/schoppel/laceball-100.jpg"
   - image: "images/products/schoppel/laceball-100.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 1505 Kunterbunt.jpg"	
+  farbtitle: "Kunterbunt"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 1699_ Fliederduft.jpg"	
+  farbtitle: " Fliederduft"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 1701_ Papagei.jpg"	
+  farbtitle: " Papagei"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2166_ Heißes Eisen.jpg"	
+  farbtitle: " Heißes Eisen"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2168_ Evergreen.jpg"	
+  farbtitle: " Evergreen"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2169_ Rauchzeichen.jpg"	
+  farbtitle: " Rauchzeichen"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2170_ Blasser Schimmer.jpg"	
+  farbtitle: " Blasser Schimmer"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2179_ Blaukraut bleibt Blaukraut.jpg"	
+  farbtitle: " Blaukraut bleibt Blaukraut"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2229_ Sphinx.jpg"	
+  farbtitle: " Sphinx"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2245_ Sofaecke.jpg"	
+  farbtitle: " Sofaecke"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2249_ Teezeremonie.jpg"	
+  farbtitle: " Teezeremonie"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2257_ Zone Aquatique.jpg"	
+  farbtitle: " Zone Aquatique"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2264_ Licht im Schacht.jpg"	
+  farbtitle: " Licht im Schacht"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2270_ Villa Rosa.jpg"	
+  farbtitle: " Villa Rosa"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2305_ Red to Go.jpg"	
+  farbtitle: " Red to Go"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2309_ Blaue Lagune.jpg"	
+  farbtitle: " Blaue Lagune"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2324_ Schlichte Fichte.jpg"	
+  farbtitle: " Schlichte Fichte"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2330_ Herbstmeister.jpg"	
+  farbtitle: " Herbstmeister"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2331_ Komfortzone.jpg"	
+  farbtitle: " Komfortzone"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2350_ Frühblüher.jpg"	
+  farbtitle: " Frühblüher"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2357_ Streiflichter.jpg"	
+  farbtitle: " Streiflichter"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2359_ Kichererbse.jpg"	
+  farbtitle: " Kichererbse"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2365_ Mittelland.jpg"	
+  farbtitle: " Mittelland"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2398_ Lange Bank.jpg"	
+  farbtitle: " Lange Bank"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2403_ Vitamin C.jpg"	
+  farbtitle: " Vitamin C"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2436_ Waldmeister.jpg"	
+  farbtitle: " Waldmeister"
+- farbimg: "images/farben/schoppel/laceball-100/Lace Ball 100 2437_ Alles Paletti.jpg"	
+  farbtitle: " Alles Paletti"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

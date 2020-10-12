@@ -8,8 +8,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "100% feine Schurwolle aus Patagonien"
 
+# Farben
+farben : "Domino|Englischer Garten|Bodenprobe|Waschtag|Wärmebild|Taupunkt|Gartentage|Strandcafé|Ipanema Beach|Spurenelemente|Tante Emma|Blauschleier|Rosetta|Teils Heiter|Holzklasse"
+
 # product Price
-price: "6.81"
+dprice: "7,75"
+price: "7.75"
 priceBefore: ""
 
 # Product Short Description
@@ -29,8 +33,42 @@ img: "images/products/schoppel/edition-6.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/edition-6.jpg"
-  - image: "images/products/schoppel/edition-6.jpgg"
   - image: "images/products/schoppel/edition-6.jpg"
+  - image: "images/products/schoppel/edition-6.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2100_ Domino.jpg"	
+  farbtitle: "Domino"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2296_ Englischer Garten.jpg"	
+  farbtitle: "Englischer Garten"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2297_ Bodenprobe.jpg"	
+  farbtitle: "Bodenprobe"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2298_ Waschtag.jpg"	
+  farbtitle: "Waschtag"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2299_ Wärmebild.jpg"	
+  farbtitle: "Wärmebild"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2301_ Taupunkt.jpg"	
+  farbtitle: "Taupunkt"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2328_ Gartentage.jpg"	
+  farbtitle: "Gartentage"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2329_ Strandcafé.jpg"	
+  farbtitle: "Strandcafé"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2333_ Ipanema Beach.jpg"	
+  farbtitle: "Ipanema Beach"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2349_ Spurenelemente.jpg"	
+  farbtitle: "Spurenelemente"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2361_ Tante Emma.jpg"	
+  farbtitle: "Tante Emma"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2362_ Blauschleier.jpg"	
+  farbtitle: "Blauschleier"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2399_ Rosetta.jpg"	
+  farbtitle: "Rosetta"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2401_ Teils Heiter.jpg"	
+  farbtitle: "Teils Heiter"
+- farbimg: "images/farben/schoppel/edition-6/Edition 6 2442_ Holzklasse.jpg"	
+  farbtitle: "Holzklasse"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

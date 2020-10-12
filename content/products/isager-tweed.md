@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Mohair"]
 # meta description
 description : "70% Schurwolle, 30% Mohair"
 
+# Farben
+farben : "BOTTLE GREEN|CHARCOAL|CHOCOLATE|COCHENILLE|DENIM|GRANITE|LEMON|LIME|MOSS|MUSTARD|NAVY|NORTH SEA|OAK|PAPRIKA|PURPLE|RAW WHITE|SAND|TOPAZ|TURQUISE|WALNUT|WINE|WINTER GREY"
+
 # product Price
-price: "8.13"
+dprice: "9,25"
+price: "9.25"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,54 @@ images:
   - image: "images/products/isager/isager-tweed.jpg"
   - image: "images/products/isager/isager-tweed.jpg"
   - image: "images/products/isager/isager-tweed.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/isager/isager-tweed/BOTTLE GREEN.jpg"	
+  farbtitle: "BOTTLE GREEN"
+- farbimg: "images/farben/isager/isager-tweed/CHARCOAL.jpg"	
+  farbtitle: "CHARCOAL"
+- farbimg: "images/farben/isager/isager-tweed/CHOCOLATE.jpg"	
+  farbtitle: "CHOCOLATE"
+- farbimg: "images/farben/isager/isager-tweed/COCHENILLE.jpg"	
+  farbtitle: "COCHENILLE"
+- farbimg: "images/farben/isager/isager-tweed/DENIM.jpg"	
+  farbtitle: "DENIM"
+- farbimg: "images/farben/isager/isager-tweed/GRANITE.jpg"	
+  farbtitle: "GRANITE"
+- farbimg: "images/farben/isager/isager-tweed/LEMON.jpg"	
+  farbtitle: "LEMON"
+- farbimg: "images/farben/isager/isager-tweed/LIME.jpg"	
+  farbtitle: "LIME"
+- farbimg: "images/farben/isager/isager-tweed/MOSS.jpg"	
+  farbtitle: "MOSS"
+- farbimg: "images/farben/isager/isager-tweed/MUSTARD.jpg"	
+  farbtitle: "MUSTARD"
+- farbimg: "images/farben/isager/isager-tweed/NAVY.jpg"	
+  farbtitle: "NAVY"
+- farbimg: "images/farben/isager/isager-tweed/NORTH SEA.jpg"	
+  farbtitle: "NORTH SEA"
+- farbimg: "images/farben/isager/isager-tweed/OAK.jpg"	
+  farbtitle: "OAK"
+- farbimg: "images/farben/isager/isager-tweed/PAPRIKA.jpg"	
+  farbtitle: "PAPRIKA"
+- farbimg: "images/farben/isager/isager-tweed/PURPLE.jpg"	
+  farbtitle: "PURPLE"
+- farbimg: "images/farben/isager/isager-tweed/RAW WHITE.jpg"	
+  farbtitle: "RAW WHITE"
+- farbimg: "images/farben/isager/isager-tweed/SAND.jpg"	
+  farbtitle: "SAND"
+- farbimg: "images/farben/isager/isager-tweed/TOPAZ.jpg"	
+  farbtitle: "TOPAZ"
+- farbimg: "images/farben/isager/isager-tweed/TURQUISE.jpg"	
+  farbtitle: "TURQUISE"
+- farbimg: "images/farben/isager/isager-tweed/WALNUT.jpg"	
+  farbtitle: "WALNUT"
+- farbimg: "images/farben/isager/isager-tweed/WINE.jpg"	
+  farbtitle: "WINE"
+- farbimg: "images/farben/isager/isager-tweed/WINTER GREY.jpg"	
+  farbtitle: "WINTER GREY"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

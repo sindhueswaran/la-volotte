@@ -8,8 +8,12 @@ tags: ["Baumwolle"]
 # meta description
 description : "Ein dickeres Baumwollgarn"
 
+# Farben
+farben : "10|100|121|126|162|163|164|175|178|200|207|218|233|235|238|242|243|244|246|320|466|642|740|820|822|861|901|916"
+
 # product Price
-price: "6.77"
+dprice: "7,70"
+price: "7.7"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,67 @@ images:
   - image: "images/products/mondial/bio-soft.jpg"
   - image: "images/products/mondial/bio-soft.jpg"
   - image: "images/products/mondial/bio-soft.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/mondial/bio-soft/10.jpg"	
+  farbtitle: "10"
+- farbimg: "images/farben/mondial/bio-soft/100.jpg"	
+  farbtitle: "100"
+- farbimg: "images/farben/mondial/bio-soft/121.jpg"	
+  farbtitle: "121"
+- farbimg: "images/farben/mondial/bio-soft/126.jpg"	
+  farbtitle: "126"
+- farbimg: "images/farben/mondial/bio-soft/162.jpg"	
+  farbtitle: "162"
+- farbimg: "images/farben/mondial/bio-soft/163.jpg"	
+  farbtitle: "163"
+- farbimg: "images/farben/mondial/bio-soft/164.jpg"	
+  farbtitle: "164"
+- farbimg: "images/farben/mondial/bio-soft/175.jpg"	
+  farbtitle: "175"
+- farbimg: "images/farben/mondial/bio-soft/178.jpg"	
+  farbtitle: "178"
+- farbimg: "images/farben/mondial/bio-soft/200.jpg"	
+  farbtitle: "200"
+- farbimg: "images/farben/mondial/bio-soft/207.jpg"	
+  farbtitle: "207"
+- farbimg: "images/farben/mondial/bio-soft/218.jpg"	
+  farbtitle: "218"
+- farbimg: "images/farben/mondial/bio-soft/233.jpg"	
+  farbtitle: "233"
+- farbimg: "images/farben/mondial/bio-soft/235.jpg"	
+  farbtitle: "235"
+- farbimg: "images/farben/mondial/bio-soft/238.jpg"	
+  farbtitle: "238"
+- farbimg: "images/farben/mondial/bio-soft/242.jpg"	
+  farbtitle: "242"
+- farbimg: "images/farben/mondial/bio-soft/243.jpg"	
+  farbtitle: "243"
+- farbimg: "images/farben/mondial/bio-soft/244.jpg"	
+  farbtitle: "244"
+- farbimg: "images/farben/mondial/bio-soft/246.jpg"	
+  farbtitle: "246"
+- farbimg: "images/farben/mondial/bio-soft/320.jpg"	
+  farbtitle: "320"
+- farbimg: "images/farben/mondial/bio-soft/466.jpg"	
+  farbtitle: "466"
+- farbimg: "images/farben/mondial/bio-soft/642.jpg"	
+  farbtitle: "642"
+- farbimg: "images/farben/mondial/bio-soft/740.jpg"	
+  farbtitle: "740"
+- farbimg: "images/farben/mondial/bio-soft/820.jpg"	
+  farbtitle: "820"
+- farbimg: "images/farben/mondial/bio-soft/822.jpg"	
+  farbtitle: "822"
+- farbimg: "images/farben/mondial/bio-soft/861.jpg"	
+  farbtitle: "861"
+- farbimg: "images/farben/mondial/bio-soft/901.jpg"	
+  farbtitle: "901"
+- farbimg: "images/farben/mondial/bio-soft/916.jpg"	
+  farbtitle: "916"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

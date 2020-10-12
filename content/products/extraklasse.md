@@ -8,8 +8,12 @@ tags: ["Mohair"]
 # meta description
 description : "100% Mohair"
 
+# Farben
+farben : "4514|4512|4513|4516|4517|4450|4451|4452|4453|4500|4502|4504|4505|4506|4507|4508|4509|4510|4511"
+
 # product Price
-price: "6.99"
+dprice: "7,95"
+price: "7.95"
 priceBefore: " "
 
 # Product Short Description
@@ -31,6 +35,49 @@ images:
   - image: "images/products/atelier-zitron/extraklasse.jpg"
   - image: "images/products/atelier-zitron/extraklasse.jpg"
   - image: "images/products/atelier-zitron/extraklasse.jpg"
+
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_2126_4514_1.jpg"	
+  farbtitle: "4514"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_5387_4512_1.jpg"	
+  farbtitle: "4512"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_5388_4513_1.jpg"	
+  farbtitle: "4513"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_5391_4516_1.jpg"	
+  farbtitle: "4516"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_8327_4517_1.jpg"	
+  farbtitle: "4517"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9146_4450_1.jpg"	
+  farbtitle: "4450"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9152_4451_1.jpg"	
+  farbtitle: "4451"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9154_4452_1.jpg"	
+  farbtitle: "4452"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9160_4453_1.jpg"	
+  farbtitle: "4453"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9162_4500_1.jpg"	
+  farbtitle: "4500"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9170_4502_1.jpg"	
+  farbtitle: "4502"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9178_4504_1.jpg"	
+  farbtitle: "4504"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9184_4505_1.jpg"
+  farbtitle: "4505"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9186_4506_1.jpg"	
+  farbtitle: "4506"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9192_4507_1.jpg"	
+  farbtitle: "4507"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9196_4508_1.jpg"	
+  farbtitle: "4508"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9200_4509_1.jpg"	
+  farbtitle: "4509"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9202_4510_1.jpg"	
+  farbtitle: "4510"
+- farbimg: "images/farben/atelier-zitron/extraklasse/Extraklasse_9208_4511_1.jpg"	
+  farbtitle: "4511"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

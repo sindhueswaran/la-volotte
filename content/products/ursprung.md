@@ -8,8 +8,12 @@ tags: ["Merino"]
 # meta description
 description : "Merino extrafein aus Tasmanien"
 
+# Farben
+farben : "19|18|17|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15"
+
 # product Price
-price: "6.59"
+dprice: "7,50"
+price: "7.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,47 @@ images:
   - image: "images/products/atelier-zitron/ursprung.jpg"
   - image: "images/products/atelier-zitron/ursprung.jpg"
   - image: "images/products/atelier-zitron/ursprung.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_2997_19_1.jpg"	
+  farbtitle: "19"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_2998_18_1.jpg"	
+  farbtitle: "18"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_2999_17_1.jpg"	
+  farbtitle: "17"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7414_01_1.jpg"	
+  farbtitle: "01"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7416_02_1.jpg"	
+  farbtitle: "02"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7418_03_1.jpg"	
+  farbtitle: "03"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7421_04_1.jpg"	
+  farbtitle: "04"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7422_05_1.jpg"	
+  farbtitle: "05"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7424_06_1.jpg"	
+  farbtitle: "06"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7428_07_1.jpg"	
+  farbtitle: "07"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7430_08_1.jpg"	
+  farbtitle: "08"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7431_09_1.jpg"	
+  farbtitle: "09"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7434_10_1.jpg"	
+  farbtitle: "10"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7435_11_1.jpg"	
+  farbtitle: "11"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7438_12_1.jpg"	
+  farbtitle: "12"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7439_13_1.jpg"	
+  farbtitle: "13"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7441_14_1.jpg"	
+  farbtitle: "14"
+- farbimg: "images/farben/atelier-zitron/ursprung/Ursprung_7443_15_1.jpg"	
+  farbtitle: "15"
+
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

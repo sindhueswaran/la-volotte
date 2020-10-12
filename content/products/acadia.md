@@ -8,8 +8,12 @@ tags: ["Schurwolle", "Alpaka", "Seide"]
 # meta description
 description : "60% Schurwolle, 20% Alpaka, 20%  Seide"
 
+# Farben
+farben : "Blue Heron|Blueberry|Blueleaf Birch|Butterfly Bush|Cormorant|Driftwood|Egret|Granite|Jack Pine|Kelp|Mountain Ash|Mussel|Plume|Poppy|Rosebay|Royal Tern Blue|Sand|Sea Lavender|Summersweet|Thistle|Thunder Bay|Yellow Birch"
+
 # product Price
-price: "13.62"
+dprice: "15,50"
+price: "15.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,54 @@ images:
   - image: "images/products/the-fibre-company/acadia.jpg"
   - image: "images/products/the-fibre-company/acadia.jpg"
   - image: "images/products/the-fibre-company/acadia.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/the-fibre-company/acadia/Blue Heron.jpg"	
+  farbtitle: "Blue Heron"
+- farbimg: "images/farben/the-fibre-company/acadia/Blueberry.jpg"	
+  farbtitle: "Blueberry"
+- farbimg: "images/farben/the-fibre-company/acadia/Blueleaf Birch.jpg"	
+  farbtitle: "Blueleaf Birch"
+- farbimg: "images/farben/the-fibre-company/acadia/Butterfly Bush.jpg"	
+  farbtitle: "Butterfly Bush"
+- farbimg: "images/farben/the-fibre-company/acadia/Cormorant.jpg"	
+  farbtitle: "Cormorant"
+- farbimg: "images/farben/the-fibre-company/acadia/Driftwood.jpg"	
+  farbtitle: "Driftwood"
+- farbimg: "images/farben/the-fibre-company/acadia/Egret.jpg"	
+  farbtitle: "Egret"
+- farbimg: "images/farben/the-fibre-company/acadia/Granite.jpg"	
+  farbtitle: "Granite"
+- farbimg: "images/farben/the-fibre-company/acadia/Jack Pine.jpg"	
+  farbtitle: "Jack Pine"
+- farbimg: "images/farben/the-fibre-company/acadia/Kelp.jpg"	
+  farbtitle: "Kelp"
+- farbimg: "images/farben/the-fibre-company/acadia/Mountain Ash.jpg"	
+  farbtitle: "Mountain Ash"
+- farbimg: "images/farben/the-fibre-company/acadia/Mussel.jpg"	
+  farbtitle: "Mussel"
+- farbimg: "images/farben/the-fibre-company/acadia/Plume.jpg"	
+  farbtitle: "Plume"
+- farbimg: "images/farben/the-fibre-company/acadia/Poppy.jpg"	
+  farbtitle: "Poppy"
+- farbimg: "images/farben/the-fibre-company/acadia/Rosebay.jpg"	
+  farbtitle: "Rosebay"
+- farbimg: "images/farben/the-fibre-company/acadia/Royal Tern Blue.jpg"	
+  farbtitle: "Royal Tern Blue"
+- farbimg: "images/farben/the-fibre-company/acadia/Sand.jpg"	
+  farbtitle: "Sand"
+- farbimg: "images/farben/the-fibre-company/acadia/Sea Lavender.jpg"	
+  farbtitle: "Sea Lavender"
+- farbimg: "images/farben/the-fibre-company/acadia/Summersweet.jpg"	
+  farbtitle: "Summersweet"
+- farbimg: "images/farben/the-fibre-company/acadia/Thistle.jpg"	
+  farbtitle: "Thistle"
+- farbimg: "images/farben/the-fibre-company/acadia/Thunder Bay.jpg"	
+  farbtitle: "Thunder Bay"
+- farbimg: "images/farben/the-fibre-company/acadia/Yellow Birch.jpg"	
+  farbtitle: "Yellow Birch"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

@@ -8,8 +8,12 @@ tags: ["80% Mohair","Schurwolle"]
 # meta description
 description : "80% Mohair, 20% Schurwolle	"
 
+# Farben
+farben : "4660|4670|4610|4620|4630|4640|4650"
+
 # product Price
-price: "8.74"
+dprice: "9,95"
+price: "9.95"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,24 @@ images:
   - image: "images/products/atelier-zitron/meisterstueck.jpg"
   - image: "images/products/atelier-zitron/meisterstueck.jpg"
   - image: "images/products/atelier-zitron/meisterstueck.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/meisterstueck/Meisterstueck_5392_4660_1.jpg"	
+  farbtitle: "4660"
+- farbimg: "images/farben/atelier-zitron/meisterstueck/Meisterstueck_5393_4670_1.jpg"	
+  farbtitle: "4670"
+- farbimg: "images/farben/atelier-zitron/meisterstueck/meisterstueck_9210_4610_1.jpg"	
+  farbtitle: "4610"
+- farbimg: "images/farben/atelier-zitron/meisterstueck/meisterstueck_9216_4620_1.jpg"	
+  farbtitle: "4620"
+- farbimg: "images/farben/atelier-zitron/meisterstueck/meisterstueck_9218_4630_1.jpg"	
+  farbtitle: "4630"
+- farbimg: "images/farben/atelier-zitron/meisterstueck/meisterstueck_9224_4640_1.jpg"	
+  farbtitle: "4640"
+- farbimg: "images/farben/atelier-zitron/meisterstueck/meisterstueck_9226_4650_1.jpg"	
+  farbtitle: "4650"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

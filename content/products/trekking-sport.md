@@ -8,8 +8,12 @@ tags: ["Schurwolle"]
 # meta description
 description : "75% Schurwolle, 25% PA"
 
+# Farben
+farben : "1421|1422|1424|1423|1427|1428|1426|1416|1417|1418|1402|1403|1404|1406|1407|1431|1400|1401|1430|1437|1460|1475|1477|1480|1491|1498"
+
 # product Price
-price: "6.59"
+dprice: "7,50"
+price: "7.5"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,62 @@ images:
   - image: "images/products/atelier-zitron/trekking-sport.jpg"
   - image: "images/products/atelier-zitron/trekking-sport.jpg"
   - image: "images/products/atelier-zitron/trekking-sport.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2626_1421_1.jpg"	
+  farbtitle: "1421"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2627_1422_1.jpg"	
+  farbtitle: "1422"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2629_1424_1.jpg"	
+  farbtitle: "1424"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2630_1423_1.jpg"	
+  farbtitle: "1423"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2631_1427_1.jpg"	
+  farbtitle: "1427"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2740_1428_1.jpg"	
+  farbtitle: "1428"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_2741_1426_1.jpg"	
+  farbtitle: "1426"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_4646_1416_1.jpg"	
+  farbtitle: "1416"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_4649_1417_1.jpg"	
+  farbtitle: "1417"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_4653_1418_1.jpg"	
+  farbtitle: "1418"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_5661_1402_1.jpg"	
+  farbtitle: "1402"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_5662_1403_1.jpg"	
+  farbtitle: "1403"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_5664_1404_1.jpg"	
+  farbtitle: "1404"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_5666_1406_1.jpg"	
+  farbtitle: "1406"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_5667_1407_1.jpg"	
+  farbtitle: "1407"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_8186_1431_1.jpg"	
+  farbtitle: "1431"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9058_1400_1.jpg"	
+  farbtitle: "1400"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9064_1401_1.jpg"	
+  farbtitle: "1401"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9072_1430_1.jpg"	
+  farbtitle: "1430"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9074_1437_1.jpg"	
+  farbtitle: "1437"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9082_1460_1.jpg"	
+  farbtitle: "1460"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9104_1475_1.jpg"	
+  farbtitle: "1475"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9112_1477_1.jpg"	
+  farbtitle: "1477"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9122_1480_1.jpg"	
+  farbtitle: "1480"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9130_1491_1.jpg"	
+  farbtitle: "1491"
+- farbimg: "images/farben/atelier-zitron/trekking-sport/trekking_sport_9138_1498_1.jpg"	
+  farbtitle: "1498"
+  
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.

@@ -8,8 +8,12 @@ tags: ["Merino"]
 # meta description
 description : "100% extrafeine Merino"
 
+# Farben
+farben : "Waldgrenze|Basalt|Runde Rot|Rechtes Licht|Whiskey|Hut ab|Nachtfalter|Samt + Sonders|Papaya|Raw Denim|Meeresblick|Rosenkavalier|Sand am Meer|Bernstein zimmer|Ultra Rot|Raw Chocolate"
+
 # product Price
-price: "13.97"
+dprice: "15,90"
+price: "15.9"
 priceBefore: ""
 
 # Product Short Description
@@ -31,6 +35,42 @@ images:
   - image: "images/products/schoppel/wool-finest.jpg"
   - image: "images/products/schoppel/wool-finest.jpg"
   - image: "images/products/schoppel/wool-finest.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2258_ Waldgrenze.jpg"	
+  farbtitle: "Waldgrenze"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2272_ Basalt.jpg"	
+  farbtitle: "Basalt"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2277_ Runde Rot.jpg"	
+  farbtitle: "Runde Rot"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2279_ Rechtes Licht.jpg"	
+  farbtitle: "Rechtes Licht"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2280_ Whiskey.jpg"	
+  farbtitle: "Whiskey"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2281_ Hut ab.jpg"	
+  farbtitle: "Hut ab"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2282_ Nachtfalter.jpg"	
+  farbtitle: "Nachtfalter"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2283_ Samt + Sonders.jpg"	
+  farbtitle: "Samt + Sonders"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2284_ Papaya.jpg"	
+  farbtitle: "Papaya"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2285_ Raw Denim.jpg"	
+  farbtitle: "Raw Denim"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2287_ Meeresblick.jpg"	
+  farbtitle: "Meeresblick"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2323_ Rosenkavalier.jpg"	
+  farbtitle: "Rosenkavalier"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2345_ Sand am Meer.jpg"	
+  farbtitle: "Sand am Meer"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2347_ Bernstein zimmer.jpg"	
+  farbtitle: "Bernstein zimmer"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2348_ Ultra Rot.jpg"	
+  farbtitle: "Ultra Rot"
+- farbimg: "images/farben/schoppel/wool-finest/Wool FINEST 2378_ Raw Chocolate.jpg"	
+  farbtitle: "Raw Chocolate"
+
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.
