@@ -1,6 +1,5 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
-
 PROJECT:	Project Name
 VERSION:	Versoin Number
 -------------------------------------------------------------------*/
@@ -60,7 +59,6 @@ h6, .h6 {
 .btn {
   font-size: 14px;
   font-family: "Quicksand", sans-serif;
-  text-transform: capitalize;
   padding: 13px 40px;
   border-radius: 35px;
   font-weight: 500;
@@ -520,6 +518,7 @@ textarea.form-control {
 }
 
 .navbar-materials li a{
+   
   color: #333333;
   font-size: 12px !important;
   line-height: 1;
