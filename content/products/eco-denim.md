@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% BW- Recyclinggarn aus recycleten Jeans in ansprechenden Farben"
 
 #product ID
-productID: "161"
+productID: "9001"
 
 # type must be "products"
 type: "products"

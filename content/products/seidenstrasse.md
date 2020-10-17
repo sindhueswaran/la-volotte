@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "65% Schurwolle, 35% Seide"
 
 #product ID
-productID: "117"
+productID: "1019"
 
 # type must be "products"
 type: "products"

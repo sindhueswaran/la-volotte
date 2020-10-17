@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "50% Baumwolle, 30% Leinen, 20% Bambus in vielen Farben"
 
 #product ID
-productID: "154"
+productID: "7007"
 
 # type must be "products"
 type: "products"

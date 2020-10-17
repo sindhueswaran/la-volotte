@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Alpaka"
 
 #product ID
-productID: "151"
+productID: "7004"
 
 # type must be "products"
 type: "products"

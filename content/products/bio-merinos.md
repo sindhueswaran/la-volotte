@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "95% Merino GOTS und 5% Leinen"
 
 #product ID
-productID: "134"
+productID: "2009"
 
 # type must be "products"
 type: "products"

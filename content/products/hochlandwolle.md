@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Schurwolle aus Peru"
 
 #product ID
-productID: "150"
+productID: "7003"
 
 # type must be "products"
 type: "products"

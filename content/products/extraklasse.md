@@ -20,7 +20,7 @@ priceBefore: " "
 shortDescription: "100% Mohair"
 
 #product ID
-productID: "109"
+productID: "1010"
 
 # type must be "products"
 type: "products"

@@ -20,7 +20,7 @@ priceBefore: " "
 shortDescription: "100% Baumwolle, ökologisch"
 
 #product ID
-productID: "121"
+productID: "1025"
 
 # type must be "products"
 type: "products"

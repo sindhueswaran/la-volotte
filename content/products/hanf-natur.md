@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "75% Schurwolle, superwash, 25% Hanf"
 
 #product ID
-productID: "120"
+productID: "1024"
 
 # type must be "products"
 type: "products"

@@ -20,7 +20,7 @@ priceBefore: " "
 shortDescription: "60% Maulbeerseide, 40% Modal/ Tencel"
 
 #product ID
-productID: "122"
+productID: "1026"
 
 # type must be "products"
 type: "products"

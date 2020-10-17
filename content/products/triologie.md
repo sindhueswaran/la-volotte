@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "75% Schurwolle, 15% Maulbeerseide, 10% Leinen"
 
 #product ID
-productID: "113"
+productID: "1015"
 
 # type must be "products"
 type: "products"

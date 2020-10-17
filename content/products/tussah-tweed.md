@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Tussahseide und  die komplett GOTS- zertifizierte"
 
 #product ID
-productID: "139"
+productID: "3000"
 
 # type must be "products"
 type: "products"

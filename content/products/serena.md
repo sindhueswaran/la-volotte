@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "60%  Alpaka, 40%  Pima-Baumwolle in verschiedenen Verlaufsfarben ist bei uns erhältlich."
 
 #product ID
-productID: "142"
+productID: "4000"
 
 # type must be "products"
 type: "products"

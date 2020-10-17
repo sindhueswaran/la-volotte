@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "75% Mohair, 25% Seide"
 
 #product ID
-productID: "153"
+productID: "7006"
 
 # type must be "products"
 type: "products"

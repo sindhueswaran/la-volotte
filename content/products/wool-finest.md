@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% extrafeine Merino"
 
 #product ID
-productID: "132"
+productID: "2007"
 
 # type must be "products"
 type: "products"

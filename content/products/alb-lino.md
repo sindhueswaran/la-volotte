@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "85% Schurwolle und 15% Leinen"
 
 #product ID
-productID: "127"
+productID: "2001"
 
 # type must be "products"
 type: "products"

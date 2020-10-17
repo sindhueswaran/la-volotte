@@ -21,7 +21,7 @@ priceBefore: " "
 shortDescription: "100% Merino"
 
 #product ID
-productID: "111"
+productID: "1013"
 
 # type must be "products"
 type: "products"

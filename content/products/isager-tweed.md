@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "70% Schurwolle, 30% Mohair"
 
 #product ID
-productID: "147"
+productID: "7000"
 
 # type must be "products"
 type: "products"

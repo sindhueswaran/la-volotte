@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "60% Schurwolle, 20% Alpaka, 20%  Seide"
 
 #product ID
-productID: "145"
+productID: "6000"
 
 # type must be "products"
 type: "products"

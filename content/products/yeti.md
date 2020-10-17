@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "50% Yak, 50% Seide"
 
 #product ID
-productID: "155"
+productID: "8000"
 
 # type must be "products"
 type: "products"

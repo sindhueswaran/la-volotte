@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "Haapsalu ist ein Lacegarn aus 100% Schurwolle"
 
 #product ID
-productID: "144"
+productID: "5001"
 
 # type must be "products"
 type: "products"

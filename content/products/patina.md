@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "55% Schurwolle, 45% Viscose"
 
 #product ID
-productID: "118"
+productID: "1020"
 
 # type must be "products"
 type: "products"

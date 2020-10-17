@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "75% Schurwolle, 25% PA"
 
 #product ID
-productID: "115"
+productID: "1017"
 
 # type must be "products"
 type: "products"

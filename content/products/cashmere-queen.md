@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: 45% Schurwolle, 35% Cashmere, 20% Seide"
 
 #product ID
-productID: "131"
+productID: "2006"
 
 # type must be "products"
 type: "products"

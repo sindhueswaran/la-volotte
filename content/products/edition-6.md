@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% feine Schurwolle aus Patagonien"
 
 #product ID
-productID: "137"
+productID: "2012"
 
 # type must be "products"
 type: "products"

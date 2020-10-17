@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "70% Merino extrafein, 30% Yak"
 
 #product ID
-productID: "125"
+productID: "1029"
 
 # type must be "products"
 type: "products"

@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "Merino extrafein aus Tasmaniene"
 
 #product ID
-productID: "124"
+productID: "1028"
 
 # type must be "products"
 type: "products"

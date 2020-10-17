@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Leinen"
 
 #product ID
-productID: "135"
+productID: "2010"
 
 # type must be "products"
 type: "products"

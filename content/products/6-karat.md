@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "80% Schurwolle, 20% Seide"
 
 #product ID
-productID: "133"
+productID: "2008"
 
 # type must be "products"
 type: "products"

@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "70% Schurwolle, 30% Maulbeerseide"
 
 #product ID
-productID: "101"
+productID: "1002"
 
 # type must be "products"
 type: "products"

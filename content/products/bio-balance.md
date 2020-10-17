@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "55%  Schurwolle und 45% Baumwolle"
 
 #product ID
-productID: "140"
+productID: "3001"
 
 # type must be "products"
 type: "products"

@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Schurwolle und die verschiedenen Ausführungen des Zauberball Cotton."
 
 #product ID
-productID: "138"
+productID: "2013"
 
 # type must be "products"
 type: "products"

@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Bouretteseide"
 
 #product ID
-productID: "141"
+productID: "3002"
 
 # type must be "products"
 type: "products"

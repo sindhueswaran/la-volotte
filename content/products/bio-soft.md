@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "Ein dickeres Baumwollgarn"
 
 #product ID
-productID: "160"
+productID: "9000"
 
 # type must be "products"
 type: "products"

@@ -21,7 +21,7 @@ priceBefore: " "
 shortDescription: "100% Schurwolle"
 
 #product ID
-productID: "100"
+productID: "1000"
 
 # type must be "products"
 type: "products"

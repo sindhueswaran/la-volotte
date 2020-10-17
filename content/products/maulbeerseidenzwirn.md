@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Maulbeerseide"
 
 #product ID
-productID: "158"
+productID: "8003"
 
 # type must be "products"
 type: "products"

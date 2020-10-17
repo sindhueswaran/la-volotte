@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% Schurwolle, handgesponnen"
 
 #product ID
-productID: "156"
+productID: "8001"
 
 # type must be "products"
 type: "products"

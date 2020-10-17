@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "Ein Sockengarn mit Seide und Ramie anstatt Polyesterbeimischung"
 
 #product ID
-productID: "157"
+productID: "8002"
 
 # type must be "products"
 type: "products"

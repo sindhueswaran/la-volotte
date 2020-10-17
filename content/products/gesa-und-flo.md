@@ -20,7 +20,7 @@ priceBefore: ""
 shortDescription: "100% feinste Schurwolle"
 
 #product ID
-productID: "102"
+productID: "1004"
 
 # type must be "products"
 type: "products"
