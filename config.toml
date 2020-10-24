@@ -18,6 +18,8 @@ disqusShortname = ""
   link = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
   link = "css/custom.css"
+  [[params.plugins.css]]
+  link = "plugins/lightbox/lightbox.min.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -32,6 +34,8 @@ disqusShortname = ""
   link = "js/custom.js"
   [[params.plugins.js]]
   link = "js/script.js"
+  [[params.plugins.js]]
+  link = "plugins/lightbox/lightbox.min.js"
   
 ############################## navigation ###############################
 [menu]
@@ -120,11 +124,6 @@ disqusShortname = ""
   weight = 2
   
   [[menu.materials]]
-  name = "Royal Alpaka"
-  URL = "/tags/royal-alpaka/"
-  weight = 3
-  
-  [[menu.materials]]
   name = "Alpaka"
   URL = "/tags/Alpaka/"
   weight = 4
@@ -153,11 +152,6 @@ disqusShortname = ""
   name = "Hanf"
   URL = "/tags/hanf/"
   weight = 10
-
-  [[menu.materials]]
-  name = "Lama"
-  URL = "/tags/lama/"
-  weight = 11
 
   [[menu.materials]]
   name = "Leinen"
@@ -206,7 +200,7 @@ disqusShortname = ""
 
   [[menu.materials]]
   name = "Tencel"
-  URL = "/tags/seide/"
+  URL = "/tags/tencel/"
   weight = 22
 
   [[menu.materials]]
@@ -261,8 +255,8 @@ description = "Die bezaubernde, alte Ladentür öffnet sich zu ‘La Volotte’ 
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "50.7716545"
+mapLongitude = "6.0767233"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
