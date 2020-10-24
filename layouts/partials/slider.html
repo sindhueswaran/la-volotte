@@ -1,24 +1,21 @@
 <!--Color Slider  -->
 
  
-<div class="container">
+  <div class="container">
     <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Farben</h1>
     <hr class="mt-2 mb-5">
     <div class="row text-center text-lg-left">
-        {{ range .Params.Farbimages }} 
+      {{ range .Params.Farbimages }}  
       <div class="col-lg-2 col-md-4 col-6" style="padding-bottom: 20px;">
-        <a href="#" class="d-block mb-4 h-100">
-            <img class="img-fluid d-block w-100" src="{{ .farbimg | absURL }}" alt="product-img">
-            <h5 style="text-align: center;">{{ .farbtitle }}</h5>
-        </a>
-      </div>
-      {{ end }}
+
+      
+    <a class="example-image-link" href="{{ .farbimg | absURL }}" data-lightbox="example-set" class="d-block mb-4 h-100"
+    data-title="{{ .farbtitle }}">
+    <img class="example-image img-fluid d-block w-100" src="{{ .farbimg | absURL }}" alt=""/></a>
+    <h5 style="text-align: center;">{{ .farbtitle }}</h5>
+        
     </div>
-  
+    {{ end }}
   </div>
-
-  
-  <!-- /.container -->
-
-
- 
+   
+  </div>
