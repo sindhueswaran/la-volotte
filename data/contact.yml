@@ -9,15 +9,15 @@ contact:
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "Öffnungszeiten Herst/Winter"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "Sunday: 9:00 – 19:00"
+      - dayTime : "Montag: geschlossen"
+      - dayTime : "Dienstag: 14:30 – 18:30 Uhr"
+      - dayTime : "Mittwoch: 14:30 – 18:30 Uhr"
+      - dayTime : "Donnerstag: 10:00 – 15:00 Uhr"
+      - dayTime : "Freitag: 14:30 – 18:30 Uhr"
+      - dayTime : "Samstag: 10:00 – 15:00 Uhr"
+      - dayTime : "Sonntag: geschlossen"
 
 ####################### google map ########################
 map:
