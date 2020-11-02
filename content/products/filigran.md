@@ -10,10 +10,12 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle"
 
 # Farben
-farben : "17|15|16|2522|66|12|02|2501|2505|2511|2515|2523|2530|2534"
+farben : "17[+3.00]|15[+3.00]|16[+3.00]|2522|66[+3.00]|12[+3.00]|02[+3.00]|2501|2505|2511|2515|2523|2530|2534"
 
 # product Price
 dprice: "14,95"
+cprice: "17,95 €"
+cpricetext: "(handgefärbt)"
 price: "14.95"
 priceBefore: " "
 
@@ -70,4 +72,5 @@ farbimages:
 
 ---
 
-Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.
+Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
+Mehrere Farben einer Garnsorte müssen also separat erneut wieder in den Warenkorb gelegt werden.

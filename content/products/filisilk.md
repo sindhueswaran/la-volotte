@@ -9,10 +9,12 @@ tags: ["Schurwolle", "Maulbeerseide"]
 description : "70% Schurwolle, 30% Maulbeerseide"
 
 # Farben
-farben : "07|08|06|3056|3055|3057|3053|3052|3050|05|04|02|10|11|14|3004|3030|3031|3037|3038|3039"
+farben : "07[+0.45]|08[+0.45]|06[+0.45]|3056|3055|3057|3053|3052|3050|05[+0.45]|04[+0.45]|02[+0.45]|10|11|14|3004|3030|3031|3037|3038|3039"
 
 # product Price
 dprice: "19,50"
+cprice: "19,95 €"
+cpricetext: "(handgefärbt)"
 price: "19.5"
 priceBefore: ""
 
@@ -84,4 +86,5 @@ farbimages:
 
 ---
 
-Bitte achten Sie darauf ihre gewünchte Farbe beim checkout auszuwählen.
+Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
+Mehrere Farben einer Garnsorte müssen also separat erneut wieder in den Warenkorb gelegt werden.
