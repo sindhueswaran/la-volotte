@@ -497,8 +497,8 @@ textarea.form-control {
 
 /*Brands Navbar*/
 
-.navbar-brands {
-  padding-top: 0; 
+.navbar-brand {
+  padding-top: 0;
 }
 
 .navbar-brands li a{
@@ -510,6 +510,7 @@ textarea.form-control {
   color: #5AB51E;
 }
 
+ 
 
 /*Materials Navbar*/
 
@@ -918,4 +919,14 @@ textarea.form-control {
   height: auto;
   max-width: 100%;
 }
+
+
+
+/*Snipcart override*/
+.snipcart-cart-header{
+  margin-top: 140px;
+}
+
+
+
 /*# sourceMappingURL=style.css.map */
