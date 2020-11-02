@@ -45,10 +45,10 @@ disqusShortname = ""
   URL = "products"
   weight = 1
   
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
+  #[[menu.main]]
+  #name = "Blog"
+  #URL = "blog"
+  #weight = 2
   
   [[menu.main]]
   name = "FAQ"
@@ -221,34 +221,39 @@ disqusShortname = ""
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Produkte"
   URL = "products"
   weight = 1
   
-  [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
+  #[[menu.footer]]
+  #name = "Blog"
+  #URL = "blog"
+  #weight = 2
   
   [[menu.footer]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 2
   
   [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions"
+  name = "Impressum"
+  URL = "impressum"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Datenschutz"
+  URL = "datenschutz"
   weight = 4
   
   [[menu.footer]]
-  name = "Contact"
+  name = "Kontakt"
   URL = "contact"
   weight = 5
 
 
 #################### default parameters ################################
 [params]
-logo = "images/La-Volotte-logo.jpg"
+logo = "images/lavolottelogo.png"
 home = "Home"
 # Meta data
 description = "Die bezaubernde, alte Ladentür öffnet sich zu ‘La Volotte’ ,und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!"
@@ -266,7 +271,23 @@ email = "wolle@la-volotte.de"
 location = "Jakobstrasse 107,  "
 location1 = "D-52064 Aachen"
 # copyright
-copyright = "| All Rights Reserved |"
+copyright = "| La Volotte 2020 © |"
+
+ [[menu.copyright]]
+  name = "All Rights Reserved"
+  URL = "#"
+  weight = 1
+  
+  [[menu.copyright]]
+  name = "Impressum"
+  URL = "impressum"
+  weight = 2
+  
+  [[menu.copyright]]
+  name = "Datenschutz"
+  URL = "datenschutz"
+  weight = 3
+
 
   # Preloader
   [params.preloader]
