@@ -101,7 +101,7 @@ products:
 
 ########################## Testimonial ########################
 testimonial:
-  enable : true
+  enable : false
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
