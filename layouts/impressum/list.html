@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-5">
+        <div >
+        <h3> Angaben gem. § 5 TMG: <h3> 
+ 
+          <p style="margin-bottom: 0;"> Barbara Münz  </p>
+          <p style="margin-bottom: 0;">  Jakobstrasse 107 </p>
+          <p  style="margin-bottom: 20px;"> 52064 Aachen </p> 
+ 
+
+         <h3>Kontaktaufnahme: </h3>
+
+          <p style="margin-bottom: 0;"> <b> Telefon: </b>  +49 (0) 241 47587794 </p>
+          <p style="margin-bottom: 10px;">  <b> E-Mail: </b> wolle@la-volotte.de </p>
+          <p  style="margin-bottom: 40px;"> Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 815557094 </p> 
+    
+        </div>
+
+        <div class="content">
+       
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "cta.html" . }}
+
+{{ end }}

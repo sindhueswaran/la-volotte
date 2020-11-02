@@ -23,7 +23,8 @@
         <div class="rw-ui-container"></div>
         {{ end }}  -->
         <div class="my-4">
-          <span class="lead text-primary font-weight-medium">{{ .Params.Dprice }} €</span>
+          <span class="lead text-primary font-weight-medium">{{ .Params.Dprice }} €</span><br>
+          <span class="lead text-primary font-weight-medium">{{ .Params.cprice }}  <small>{{ .Params.cpricetext }} </small></span>
           <s>{{ .Params.PriceBefore }} </s>
         </div>
         <h5>Short Description</h5>
@@ -38,7 +39,7 @@
         data-item-description="{{ .Params.Description }}"
         data-item-image="{{ .Params.Img | absURL }}"
         data-item-name="{{ .Title }}"
-        data-item-custom1-name="Farben"
+        data-item-custom1-name="Farbe"
         data-item-custom1-options="{{ .Params.Farben }}">
         in den Warenkorb
         </button>

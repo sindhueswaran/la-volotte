@@ -4,12 +4,16 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}"
-          alt="{{ .Site.Title }}" style="width: 15%;"></a>
-      <button class="navbar-toggler border-0 ml-auto  " type="button" data-toggle="collapse" data-target="#navigation">
-        <i class="ti-menu"></i>
-      </button>
+          alt="{{ .Site.Title }}" style="width: 22%;"></a>
+      
+          <button class="navbar-toggler border-0 ml-auto   " type="button" data-toggle="collapse" data-target="#navigation">
+            <i class="ti-menu"></i>
+          </button>
 
       <div class="collapse navbar-collapse text-center" id="navigation">
+
+        
+
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
             <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
@@ -35,13 +39,17 @@
           {{ end }}
         </ul>
       </div>
-      <button class="cart snipcart-summary snipcart-checkout text-dark">
+      
+      <button class="cart snipcart-summary snipcart-checkout text-dark ">
         
         <i class="ti-shopping-cart"></i>
         <span class="badge badge-primary snipcart-items-count"></span><br>
         (<span class="snipcart-total-price"></span>)
        </button>
+
+      
     </nav>
+    
   </div>
 </header>
 {{ "<!-- /navigation -->" | safeHTML }}

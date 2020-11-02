@@ -25,7 +25,7 @@
               <span class="lead text-primary">{{ .Params.Dprice }} €</span>
               <s>{{ .Params.PriceBefore }} </s>
             </div>
-            <button class="snipcart-add-item btn btn-sm btn-outline-primary"
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" id="my-button" 
                   data-item-id="{{ .Params.ProductID }}"
                   data-item-price="{{ .Params.Price }}"
                   data-item-url="{{ .Permalink }}"

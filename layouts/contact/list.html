@@ -6,7 +6,7 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 col-sm-6">
+      <div class="col-lg-3 col-sm-6">
         {{ with .Site.Data.contact.contact.office }}
         <h3 class="mb-4">{{ .title | markdownify }}</h3>
         <p>{{ .content | markdownify }}</p>
@@ -24,7 +24,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-lg-3 offset-lg-1 col-sm-6">
+      <div class="col-lg-4  col-sm-6">
         {{ with .Site.Data.contact.contact.opennigHour }}
         <h3 class="mb-4">{{ .title | markdownify }}</h3>
         <ul class="list-unstyled">
@@ -34,14 +34,14 @@
         </ul>
         {{ end }}
       </div>
-      <div class="col-lg-4">
+      <div class="col-lg-4 offset-lg-1">
         <h3 class="
-        mb-4">Contact us</h3>
+        mb-4">Kontakt</h3>
         <form action="{{ .Site.Params.contact.formAction }}" method="POST">
-          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
-          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
-          <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
-          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Send Now</button>
+          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Name">
+          <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Email">
+          <textarea name="message" id="message" class="form-control mb-2" placeholder="Ihre Nachricht"></textarea>
+          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Senden</button>
         </form>
       </div>
     </div>
