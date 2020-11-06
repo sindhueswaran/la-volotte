@@ -33,9 +33,9 @@ img: "images/products/midara/linas.png"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/midara/linas.jpg"
-  - image: "images/products/midara/linas.jpg"
-  - image: "images/products/midara/linas.jpg"
+  - image: "images/products/midara/linas.png"
+  - image: "images/products/midara/linas.png"
+  - image: "images/products/midara/linas.png"
 
 # product colors
 farbimages:
