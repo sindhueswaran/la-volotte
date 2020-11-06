@@ -6,7 +6,7 @@ categories: "Seehawer & Siebert-Naturfasern"
 tags: ["Yak", "Seide"]
 
 # meta description
-description : "50% Yak, 50% Seide"
+description : "beige|brunmeliert|naturweiß|silbergrau|"
 
 # Farben
 farben : "Black|Brown[+100.00]|Gold[+300.00]"
@@ -27,19 +27,26 @@ type: "products"
 
 # type must be "products"
 brand: "Seehawer & Siebert-Naturfasern"
-img: "images/products/seehawer-siebert-naturfasern/yeti.jpg"   
+img: "images/products/seehawer-siebert-naturfasern/yeti.png"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/seehawer-siebert-naturfasern/yeti.jpg"
-  - image: "images/products/seehawer-siebert-naturfasern/yeti.jpg"
-  - image: "images/farben/seehawer&siebert-naturfasern/yeti.jpg"
+  - image: "images/products/seehawer-siebert-naturfasern/yeti.png"
+  - image: "images/products/seehawer-siebert-naturfasern/yeti.png"
+  - image: "images/farben/seehawer&siebert-naturfasern/yeti.png"
 
 # product colors
 farbimages:
-- farbimg: "images/farben/seehawer&siebert-naturfasern/yeti.jpg"	
-  farbtitle: "yeti"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/yeti/beige.png"	
+  farbtitle: "beige"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/yeti/brunmeliert.png"	
+  farbtitle: "brunmeliert"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/yeti/naturweiß.png"	
+  farbtitle: "naturweiß"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/yeti/silbergrau.png"	
+  farbtitle: "silbergrau"
+
 
 
 ---

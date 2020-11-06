@@ -9,7 +9,7 @@ tags: ["Maulbeerseide"]
 description : "100% Maulbeerseide"
 
 # Farben
-farben : "Black|Brown[+100.00]|Gold[+300.00]"
+farben : " "
 
 # product Price
 dprice: "15,95"
@@ -27,14 +27,21 @@ type: "products"
 
 # type must be "products"
 brand: "Seehawer & Siebert-Naturfasern"
-img: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.jpg"   
+img: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.png"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.jpg"
-  - image: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.jpg"
-  - image: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.jpg"
+  - image: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.png"
+  - image: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.png"
+  - image: "images/products/seehawer-siebert-naturfasern/maulbeerseidenzwirn.png"
+
+# product colors
+farbimages:
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/maulbeerseide/maulbeerseide.png"
+farbtitle: "maulbeerseide"
+
+
 ---
 
 Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.

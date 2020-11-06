@@ -3,7 +3,7 @@ title: "Zauberball 100"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 categories: "Schoppel"
-tags: ["Schurwolle", "PA"]
+tags: ["Schurwolle"]
 
 # meta description
 description : "100% Schurwolle"

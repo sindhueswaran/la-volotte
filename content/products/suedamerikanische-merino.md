@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle"
 
 # Farben
-farben : "Black|Brown[+100.00]|Gold[+300.00]"
+farben : "1|2|3|4|5|6|7|"
 
 # product Price
 dprice: "6,95"
@@ -27,14 +27,33 @@ type: "products"
 
 # type must be "products"
 brand: "Seehawer & Siebert-Naturfasern"
-img: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.jpg"   
+img: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.jpg"
-  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.jpg"
-  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.jpg"
+  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
+  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
+  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
+
+
+# product colors
+farbimages:
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/1.png"	
+  farbtitle: "1"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/2.png"	
+  farbtitle: "2"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/3.png"	
+  farbtitle: "3"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/4.png"	
+  farbtitle: "4"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/5.png"	
+  farbtitle: "5"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/6.png"	
+  farbtitle: "6"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/suedamerikanische-merinowolle/7.png"	
+  farbtitle: "7"
+
 ---
 
 Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
