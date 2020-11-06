@@ -929,8 +929,8 @@ textarea.form-control {
 
 .float {
 	position:fixed;
-	bottom: 50px;
-	right: 50px;
+	bottom: 40px;
+	right: 40px;
 	z-index: 100;
 }
 
