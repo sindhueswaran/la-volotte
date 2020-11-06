@@ -927,6 +927,14 @@ textarea.form-control {
   margin-top: 140px;
 }
 
+.float {
+	position:fixed;
+	bottom: 50px;
+	right: 50px;
+}
 
+.float:hover{
+  scale: 1.2;
+}
 
 /*# sourceMappingURL=style.css.map */
