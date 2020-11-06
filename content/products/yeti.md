@@ -6,10 +6,10 @@ categories: "Seehawer & Siebert-Naturfasern"
 tags: ["Yak", "Seide"]
 
 # meta description
-description : "beige|brunmeliert|naturweiß|silbergrau|"
+description : "50% Yak, 50% Seide"
 
 # Farben
-farben : "Black|Brown[+100.00]|Gold[+300.00]"
+farben : "beige|brunmeliert|naturweiß|silbergrau|"
 
 # product Price
 dprice: "19,95"
