@@ -273,21 +273,6 @@ location1 = "D-52064 Aachen"
 # copyright
 copyright = "| La Volotte 2020 © |"
 
- [[menu.copyright]]
-  name = "All Rights Reserved"
-  URL = "#"
-  weight = 1
-  
-  [[menu.copyright]]
-  name = "Impressum"
-  URL = "impressum"
-  weight = 2
-  
-  [[menu.copyright]]
-  name = "Datenschutz"
-  URL = "datenschutz"
-  weight = 3
-
 
   # Preloader
   [params.preloader]
