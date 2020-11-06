@@ -27,7 +27,7 @@
         <!-- social icon -->
         <ul class="list-inline">
           {{ range .Site.Params.social }}
-          <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
+          <li class="list-inline-item" style="font-size: 25px;"><a href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
           {{ end }}
         </ul>
       </div>
@@ -194,3 +194,39 @@ function concatValues( obj ) {
   }(document, new Date(), "script", "rating-widget.com/"));
 </script>
 {{ end }}
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+  window.cookieconsent.initialise({
+    container: document.getElementById("cookieconsent"),
+    palette:{
+     popup: {background: "#505050"},
+     button: {background: "#e0e0e0"},
+    },
+    revokable: true,
+    onStatusChange: function(status) {
+     console.log(this.hasConsented() ?
+      'enable cookies' : 'disable cookies');
+    },
+    "position": "bottom-right",
+    "theme": "classic",
+    "domain": "#",
+    "secure": true,
+    "content": {
+      "header": 'Auf dieser Website werden Cookies verwendet!',
+      "message": 'Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie in unserer Datenschutzerklärung.',
+      "dismiss": 'OK!',
+      "allow": 'Allow cookies',
+      "deny": 'Decline',
+      "link": 'Mehr erfahren',
+      "href": '/datenschutz',
+      "close": '&#x274c;',
+      "policy": 'Cookie Policy',
+      "target": '_self',
+      }
+   });
+
+</script>
+<script src="src/cookie.js"></script>
