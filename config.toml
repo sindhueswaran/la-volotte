@@ -304,11 +304,11 @@ copyright = "| La Volotte 2020 © |"
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "la Volotte"
+  link = "https://www.facebook.com/Lavolotte"
   
   [[params.social]]
   icon = "ti-instagram"
-  link = "la_volotte_wollladen"
+  link = "https://www.instagram.com/la_volotte_wollladen/"
   
   [[params.social]]
   icon = "ti-pinterest"
