@@ -937,7 +937,7 @@ textarea.form-control {
   color: #333333;
   border: 2px solid #5AB51E;
   border-radius: 50%;
-  z-index: 100;
+  z-index: 1;
 }
 
 .float-up:active, .float-up:hover, .float-up.focus, .float-up.active{
@@ -954,7 +954,7 @@ textarea.form-control {
   padding: 10px;
   border: 2px solid #5AB51E;
   border-radius: 50%;
-  z-index: 100;
+  z-index: 1;
 }
 
 .float-back:active, .float-back:hover, .float-back.focus, .float-back.active{
