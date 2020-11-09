@@ -926,16 +926,45 @@ textarea.form-control {
 .snipcart-cart-header{
   margin-top: 140px;
 }
+ 
 
-.float {
+/* Back & Up Button*/
+.float-up {
 	position:fixed;
-	bottom: 40px;
-	right: 40px;
-	z-index: 100;
+	bottom: 50px;
+  right: 50px;
+  padding: 10px;
+  color: #333333;
+  border: 2px solid #5AB51E;
+  border-radius: 50%;
+  z-index: 100;
 }
 
-.float:hover{
-  scale: 1.2;
+.float-up:active, .float-up:hover, .float-up.focus, .float-up.active{
+  scale: 1.01;
+  background: linear-gradient(27deg, #59b51e 0%, #95d239 100%) !important;
+  border-color: #5AB51E !important;
+  color: #fff;
 }
+ 
+.float-back {
+	position:fixed;
+	top: 180px;
+  right: 50px;
+  padding: 10px;
+  border: 2px solid #5AB51E;
+  border-radius: 50%;
+  z-index: 100;
+}
+
+.float-back:active, .float-back:hover, .float-back.focus, .float-back.active{
+  scale: 1.01;
+  background: linear-gradient(27deg, #59b51e 0%, #95d239 100%) !important;
+  border-color: #5AB51E !important;
+  color: #fff;
+}
+ 
+  
+ 
 
 /*# sourceMappingURL=style.css.map */
