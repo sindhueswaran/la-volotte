@@ -17,7 +17,7 @@ price: "19.95"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "50% Yak, 50% Alpaka"
+shortDescription: "100% Alpaka"
 
 #product ID
 productID: "8005"
