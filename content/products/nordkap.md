@@ -9,11 +9,12 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle, handgesponnen"
 
 # Farben
-farben : "1|2|3|4|5|6|7|"
+farben : "Stroh|Curry|Wald|Meer|Lapis|Wein|Aubergine"
+         
 
 # product Price
-dprice: "13,50"
-price: "13.5"
+dprice: "6,95"
+price: "6.95"
 priceBefore: ""
 
 # Product Short Description
@@ -34,24 +35,24 @@ img: "images/products/seehawer-siebert-naturfasern/nordkap.png"
 images:
   - image: "images/products/seehawer-siebert-naturfasern/nordkap.png"
   - image: "images/products/seehawer-siebert-naturfasern/nordkap.png"
-  - image: "images/products/seehawer&siebert-naturfasern/nordkap.png"
+  - image: "images/products/seehawer-siebert-naturfasern/nordkap.png"
 
 # product colors
 farbimages:
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/1.png"	
-  farbtitle: "1"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/2.png"	
-  farbtitle: "2"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/3.png"	
-  farbtitle: "3"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/4.png"	
-  farbtitle: "4"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/5.png"	
-  farbtitle: "5"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/6.png"	
-  farbtitle: "6"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/7.png"	
-  farbtitle: "7"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Stroh.png"	
+  farbtitle: "Stroh"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Curry.png"	
+  farbtitle: "Curry"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Wald.png"	
+  farbtitle: "Wald"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Meer.png"	
+  farbtitle: "Meer"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Lapis.png"	
+  farbtitle: "Lapis"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Wein.png"	
+  farbtitle: "Wein"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/nordkap/Aubergine.png"	
+  farbtitle: "Aubergine"
 
 
 

@@ -9,12 +9,12 @@ tags: ["Maulbeerseide", "Tencel"]
 description : "60% Maulbeerseide, 40% Modal/ Tencel"
 
 # Farben
-farben : "Black|Brown[+100.00]|Gold[+300.00]"
+farben : "8027|8022|8023|8010|8028|8014|8015|8024|8026|8021|8019|8020|8012|"
 
 # product Price
-dprice: "17,95"
-price: "17.95"
-priceBefore: " "
+dprice: "12,95"
+price: "12.95"
+priceBefore: "17,95 €"
 
 # Product Short Description
 shortDescription: "60% Maulbeerseide, 40% Modal/ Tencel"

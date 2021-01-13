@@ -9,7 +9,7 @@ tags: ["Ramie", "Seide"]
 description : "Ein Sockengarn mit Seide und Ramie"
 
 # Farben
-farben : "1|2|3|4|5|6|7|8|"
+farben : "Petrol|Aubergine|Orange|Rot|Dunkelblau|Hellblau|Sand|Naturweiß"
 
 # product Price
 dprice: "8,95"
@@ -37,23 +37,23 @@ images:
   - image: "images/farben/seehawer&siebert-naturfasern/turin.png"
 
 # product colors
-farbimages:
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/1.png"	
-  farbtitle: "1"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/2.png"	
-  farbtitle: "2"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/3.png"	
-  farbtitle: "3"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/4.png"	
-  farbtitle: "4"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/5.png"	
-  farbtitle: "5"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/6.png"	
-  farbtitle: "6"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/7.png"	
-  farbtitle: "7"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/8.png"	
-  farbtitle: "8"
+farbimages: 
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Petrol.png"	
+  farbtitle: "Petrol"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Aubergine.png"	
+  farbtitle: "Aubergine"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Orange.png"	
+  farbtitle: "Orange"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Rot.png"	
+  farbtitle: "Rot"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Dunkelblau.png"	
+  farbtitle: "Dunkelblau"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Hellblau.png"	
+  farbtitle: "Hellblau"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Sand.png"	
+  farbtitle: "Sand"
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/turin/Naturweiß.png"	
+  farbtitle: "Naturweiß"
 
 
 ---

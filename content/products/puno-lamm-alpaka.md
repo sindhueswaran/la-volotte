@@ -17,7 +17,7 @@ price: "19.95"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "100% Alpaka"
+shortDescription: "50% Yak, 50% Alpaka"
 
 #product ID
 productID: "8005"
@@ -27,28 +27,28 @@ type: "products"
 
 # type must be "products"
 brand: "Seehawer & Siebert-Naturfasern"
-img: "images/products/seehawer-siebert-naturfasern/Puno Lamm-Alpaka.png"   
+img: "images/products/seehawer-siebert-naturfasern/puno-lamm-alpaka.png"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/seehawer-siebert-naturfasern/Puno Lamm-Alpaka.png"  
-  - image: "images/products/seehawer-siebert-naturfasern/Puno Lamm-Alpaka.png"  
-  - image: "images/products/seehawer-siebert-naturfasern/Puno Lamm-Alpaka.png"  
+  - image: "images/products/seehawer-siebert-naturfasern/puno-lamm-alpaka.png"  
+  - image: "images/products/seehawer-siebert-naturfasern/puno-lamm-alpaka.png"  
+  - image: "images/products/seehawer-siebert-naturfasern/puno-lamm-alpaka.png"  
 
 # product colors
 farbimages:
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/Puno Lamm-Alpaka/1.png"	
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/puno-lamm-alpaka/1.png"	
   farbtitle: "1"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/Puno Lamm-Alpaka/2.png"	
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/puno-lamm-alpaka/2.png"	
   farbtitle: "2"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/Puno Lamm-Alpaka/3.png"	
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/puno-lamm-alpaka/3.png"	
   farbtitle: "3"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/Puno Lamm-Alpaka/4.png"	
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/puno-lamm-alpaka/4.png"	
   farbtitle: "4"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/Puno Lamm-Alpaka/5.png"	
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/puno-lamm-alpaka/5.png"	
   farbtitle: "5"
-- farbimg:  "images/farben/seehawer-siebert-naturfasern/Puno Lamm-Alpaka/6.png"	
+- farbimg:  "images/farben/seehawer-siebert-naturfasern/puno-lamm-alpaka/6.png"	
   farbtitle: "6"
 
 
