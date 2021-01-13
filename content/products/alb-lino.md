@@ -34,7 +34,7 @@ img: "images/products/schoppel/alb-lino.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/alb-lino.jpg"
-  - image: "images/products/schoppel/albmerino.jpg"
+  - image: "images/products/schoppel/alb-lino.jpg"
   - image: "images/products/schoppel/alb-lino.jpg"
 
 
