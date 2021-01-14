@@ -9,7 +9,7 @@ tags: ["Schurwolle"]
 description : "100% Schurwolle GOTS zertifiziert"
 
 # Farben
-farben : "Naturmeliert|ellgraumeliert|Anthrazitmeliert"
+farben : "1|2|3|4|5|6"
 
 # product Price
 dprice: "12,50"
