@@ -38,14 +38,18 @@ images:
 
 # product colors
 farbimages:  
-- farbimg: "images/farben/bc-garn/semilla-pura/naturmeliert.jpg"	
-  farbtitle: "naturmeliert"
-- farbimg: "images/farben/bc-garn/semilla-pura/hellgraumeliert.jpg"	
-  farbtitle: "hellgraumeliert"
-- farbimg: "images/farben/bc-garn/semilla-pura/anthrazitmeliert.jpg"	
-  farbtitle: "anthrazitmeliert"
- 
-
+- farbimg: "images/farben/bc-garn/semilla-pura/g_111010261-01.jpg"	
+  farbtitle: "1"
+- farbimg: "images/farben/bc-garn/semilla-pura/g_111010261-02.jpg"	
+  farbtitle: "2"
+- farbimg: "images/farben/bc-garn/semilla-pura/g_111010261-03.jpg"	
+  farbtitle: "3"
+- farbimg: "images/farben/bc-garn/semilla-pura/g_111010261-04.jpg"	
+  farbtitle: "4"
+- farbimg: "images/farben/bc-garn/semilla-pura/g_111010261-05.jpg"	
+  farbtitle: "5"
+- farbimg: "images/farben/bc-garn/semilla-pura/g_111010261-06.jpg"	
+  farbtitle: "6"  
 
 ---
 
