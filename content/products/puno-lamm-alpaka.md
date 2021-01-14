@@ -6,7 +6,7 @@ categories: "Seehawer & Siebert-Naturfasern"
 tags: ["Alpaka"]
 
 # meta description
-description : "50% Yak, 50% Alpaka"
+description : "100% Alpaka"
 
 # Farben
 farben : "beige|brunmeliert|naturweiß|silbergrau|"
@@ -17,7 +17,7 @@ price: "19.95"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "50% Yak, 50% Alpaka"
+shortDescription: "100% Alpaka"
 
 #product ID
 productID: "8005"
