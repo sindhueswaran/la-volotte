@@ -12,8 +12,8 @@ description : "Ein Sockengarn mit Seide und Ramie"
 farben : "Petrol|Aubergine|Orange|Rot|Dunkelblau|Hellblau|Sand|Naturweiß"
 
 # product Price
-dprice: "8,95"
-price: "8.95"
+dprice: "10,95"
+price: "10.95"
 priceBefore: ""
 
 # Product Short Description
