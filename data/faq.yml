@@ -1,15 +1,14 @@
 faqItem:
-  - title : Wie bezahle ich für meine Bestellung?
-    content : In Ihrer Bestellbestätigung finden Sie alle relevanten Daten für Ihre Überweisung an uns. Bitte überweisen Sie den Gesamtbetrag auf unser Konto und vergessen Sie dabei nicht, die Bestellnummer als Verwendungszweck anzugeben. Sobald Ihre Zahlung bei uns eintrifft, wird Ihre Bestellung bearbeitet.
+  - title : Wie lange dauert meine Bestellung? 
+    content : Sofern das bestellte Garn lieferbar ist, wird die Ware nach Zahlungseingang verschickt. 
 
-  - title : Sind die genannten Preise inklusiv Mehrwertsteuer?
-    content : Ja, alle Preise sind inklusive Mehrwertsteuer, zuzüglich Versandkosten.
+  - title : Wie kann ich bezahlen? 
+    content : Die Rechnung wird per Mail verschickt und kann dann direkt per Überweisung bezahlt werden. Sollte ein gewünschter Artikel nicht lieferbar sein, wird dies mitgeteilt, und der Artikel kann zu gegebener Zeit neu bestellt werden. 
 
-  - title : Was kostet der Versand?
-    content : Innerhalb Deutschland kostet der Versand 4,99 €.
+  - title : Kann ich Artikel zurücksenden? 
+    content : Ja, eine Rücksendung ist möglich, erfolgt aber auf eigene Kosten. Es gibt keinen Portogutschein für Retouren.
 
-  - title : Is there any documentation and support?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+  - title : Ist telefonische Beratung möglich? 
+    content : Ja, grundsätzlich ist dies während der Öffnungszeiten möglich. Bitte per Mail anfragen.
 
-  - title : Any refunds?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+   
