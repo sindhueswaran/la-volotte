@@ -8,9 +8,9 @@ author: John Doe
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
 
-`![alt text](./`[ybimladaen.jpg](https://github.com/sindhueswaran/la-volotte/blob/master/static/images/ybimladaen.jpg "ybimladaen.jpg")`)`
+![alt text](ybimladaen.jpg)
 
-<img src="[ybimladaen.jpg](https://github.com/sindhueswaran/la-volotte/blob/master/static/images/ybimladaen.jpg "ybimladaen.jpg")"/>
+<img src="ybimladaen.jpg"/>
 
 aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
