@@ -2,7 +2,7 @@
 title: Lower Back Pain? Self-Administered Acupressure Could Help
 date: 2019-10-17T11:22:16.000+06:00
 description: this is a meta description
-image: images/blog/post-1.jpg
+image: images/ybimladaen.jpg
 author: John Doe
 
 ---
