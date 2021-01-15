@@ -51,14 +51,19 @@ disqusShortname = ""
   #weight = 2
   
   [[menu.main]]
+  name = "Aktuelles"
+  URL = "aktuelles"
+  weight = 3
+
+  [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 4
   
   [[menu.main]]
   name = "Kontakt"
   URL = "contact"
-  weight = 4
+  weight = 5
 
 
   ############# Brands menu #############
@@ -234,21 +239,26 @@ disqusShortname = ""
   name = "FAQ"
   URL = "faq"
   weight = 2
+
+  [[menu.main]]
+  name = "Aktuelles"
+  URL = "aktuelles"
+  weight = 3
   
   [[menu.footer]]
   name = "Impressum"
   URL = "impressum"
-  weight = 3
+  weight = 4
 
   [[menu.footer]]
   name = "Datenschutz"
   URL = "datenschutz"
-  weight = 4
+  weight = 5
   
   [[menu.footer]]
   name = "Kontakt"
   URL = "contact"
-  weight = 5
+  weight = 6
 
 
 #################### default parameters ################################
