@@ -2,8 +2,8 @@
 
 {{ partial "page-title.html" . }}
 
-<section class="section pt-0">
 
+<section class="section pt-0">
   <div class="container">
 
     <a href="/products" class="float-back ">
@@ -30,9 +30,10 @@
         <div class="rw-ui-container"></div>
         {{ end }}  -->
         <div class="my-4">
-          <span class="lead text-primary font-weight-medium">{{ .Params.Dprice }} €</span><br>
+          <span class="lead text-primary font-weight-medium">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }} </s> <br> 
           <span class="lead text-primary font-weight-medium">{{ .Params.cprice }}  <small>{{ .Params.cpricetext }} </small></span>
-          <s>{{ .Params.PriceBefore }} </s>
+          <p>{{ .Params.menge }} </p>
+          
         </div>
         <h5>Kurzbeschreibung</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
