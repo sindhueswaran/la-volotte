@@ -1,0 +1,88 @@
+---
+title: "Trio"
+date: 2019-10-17T11:22:16+06:00
+draft: false
+categories: "Isager"
+tags: ["Baumwolle", "Leinen", "Bambus"]
+
+# meta description
+description : "50% Baumwolle, 30% Leinen, 20% Bambus in vielen Farben"
+
+# Farben
+farben : "BLUSH|BORDEAUX|BOTTLE GREEN|CAMEL|CHESTNUT|FROST|GRANITE|INDIGO|INK|KHAKI|LEMON|LINEN|NAVY|NOUGAT|PETROLEUM|POWDER|SAGE|SKY|STRAWBERRY|THYME|WHITE"
+
+# product Price
+dprice: "7,75"
+price: "7.75"
+priceBefore: ""
+menge: "50g"
+
+# Product Short Description
+shortDescription: "50% Baumwolle, 30% Leinen, 20% Bambus in vielen Farben"
+
+#product ID
+productID: "7007"
+
+# type must be "products"
+type: "products"
+
+# type must be "products"
+brand: "Isager"
+img: "images/products/isager/trio.jpg"   
+
+# product Images
+# first image will be shown in the product page
+images:
+  - image: "images/products/isager/trio.jpg"
+  - image: "images/products/isager/trio.jpg"
+  - image: "images/products/isager/trio.jpg"
+
+# product colors
+farbimages:
+- farbimg: "images/farben/isager/trio/TRIO BLUSH.jpg"	
+  farbtitle: "BLUSH"
+- farbimg: "images/farben/isager/trio/TRIO BORDEAUX.jpg"	
+  farbtitle: "BORDEAUX"
+- farbimg: "images/farben/isager/trio/TRIO BOTTLE GREEN.jpg"	
+  farbtitle: "BOTTLE GREEN"
+- farbimg: "images/farben/isager/trio/TRIO CAMEL.jpg"	
+  farbtitle: "CAMEL"
+- farbimg: "images/farben/isager/trio/TRIO CHESTNUT.jpg"	
+  farbtitle: "CHESTNUT"
+- farbimg: "images/farben/isager/trio/TRIO FROST.jpg"	
+  farbtitle: "FROST"
+- farbimg: "images/farben/isager/trio/TRIO GRANITE.jpg"	
+  farbtitle: "GRANITE"
+- farbimg: "images/farben/isager/trio/TRIO INDIGO.jpg"	
+  farbtitle: "INDIGO"
+- farbimg: "images/farben/isager/trio/TRIO INK.jpg"	
+  farbtitle: "INK"
+- farbimg: "images/farben/isager/trio/TRIO KHAKI.jpg"	
+  farbtitle: "KHAKI"
+- farbimg: "images/farben/isager/trio/TRIO LEMON.jpg"	
+  farbtitle: "LEMON"
+- farbimg: "images/farben/isager/trio/TRIO LINEN.jpg"	
+  farbtitle: "LINEN"
+- farbimg: "images/farben/isager/trio/TRIO NAVY.jpg"	
+  farbtitle: "NAVY"
+- farbimg: "images/farben/isager/trio/TRIO NOUGAT.jpg"	
+  farbtitle: "NOUGAT"
+- farbimg: "images/farben/isager/trio/TRIO PETROLEUM.jpg"	
+  farbtitle: "PETROLEUM"
+- farbimg: "images/farben/isager/trio/TRIO POWDER.jpg"	
+  farbtitle: "POWDER"
+- farbimg: "images/farben/isager/trio/TRIO SAGE.jpg"	
+  farbtitle: "SAGE"
+- farbimg: "images/farben/isager/trio/TRIO SKY.jpg"	
+  farbtitle: "SKY"
+- farbimg: "images/farben/isager/trio/TRIO STRAWBERRY.jpg"	
+  farbtitle: "STRAWBERRY"
+- farbimg: "images/farben/isager/trio/TRIO THYME.jpg"	
+  farbtitle: "THYME"
+- farbimg: "images/farben/isager/trio/TRIO WHITE.jpg"	
+  farbtitle: "WHITE"
+
+---
+
+Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
+Mehrere Farben einer Garnsorte müssen also separat erneut wieder in den Warenkorb gelegt werden.
