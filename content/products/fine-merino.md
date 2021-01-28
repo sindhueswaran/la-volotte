@@ -39,8 +39,8 @@ images:
 
 # product colors
 farbimages:
-- farbimg:  "images/farben/franziska-uhl/fine-merino.jpg"
-  farbtitle: "maulbeerseide"
+- farbimg:  "images/farben/franziska-uhl/finemerino.jpg"
+  farbtitle: "Handgefärbt"
 
 
 ---
