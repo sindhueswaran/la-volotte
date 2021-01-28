@@ -41,7 +41,7 @@ images:
 # product colors
 farbimages:
 - farbimg: "images/farben/schoppel/crazy-zauberball/Zauberball®Crazy 1507_ Herbstwind.jpg"
-   farbtitle: " Herbstwind"
+  farbtitle: " Herbstwind"
 - farbimg: "images/farben/schoppel/crazy-zauberball/Zauberball®Crazy 1511_ U-Boot.jpg"
   farbtitle: " U-Boot"
 - farbimg: "images/farben/schoppel/crazy-zauberball/Zauberball®Crazy 1535_ Stone-Washed.jpg"
