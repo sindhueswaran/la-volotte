@@ -24,7 +24,7 @@
             <p>{{ .Params.Description }}</p>
             <div class="mb-4">
               <span class="lead text-primary">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }}</s><br> 
-              <p>{{ .Params.menge }}</p>
+              <p>{{ .Params.menge }} <br> {{ .Params.nadel }} <small>nadelstärke</small> </p>
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary"
                   data-item-id="{{ .Params.ProductID }}"

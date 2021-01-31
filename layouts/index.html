@@ -160,6 +160,33 @@
 {{ end }}
 <!-- /promo video -->
 
+<!-- gallery -->
+{{ if .Site.Data.homepage.ladengallery.enable }}
+{{ with .Site.Data.homepage.ladengallery }}
+<section class="section" >
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2>{{ .title | markdownify }}</h2>
+      </div>
+    </div>
+  </div>
+    <div class="container">
+      <div class="row gallery-slider">
+        {{ range .gallItem }}
+        <div class="col-lg-4">
+            <img src="{{ .image | absURL }}"  class="img-fluid" alt="{{ .name | markdownify }}">
+        </div>
+        {{ end }}
+    </div>
+    
+    </div>
+   
+</section>
+{{ end }}
+{{ end }}
+<!-- /testimonial -->
+
 <!-- products -->
 {{ if .Site.Data.homepage.products.enable }}
 <section class="section pb-0">
