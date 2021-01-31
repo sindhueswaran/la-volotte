@@ -117,23 +117,19 @@ ladengallery:
   gallItem:
     # testimonial item loop
     - name : "Angelo Perara"
-      image : "images/blog/post-1.jpg"  
+      image : "images/gallery/ladem1.jpg"  
       
     # testimonial item loop
     - name : "Riya Ventila"
-      image : "images/blog/post-2.jpg" 
+      image : "images/gallery/laden2.jpg"
 
     # testimonial item loop
     - name : "Riya Ventila"
-      image : "images/blog/post-3.jpg" 
+      image : "images/gallery/laden4.jpg"  
 
     # testimonial item loop
     - name : "Riya Ventila"
-      image : "images/blog/post-4.jpg"  
-
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/blog/post-4.jpg"        
+      image : "images/gallery/laden7.jpg"      
     
       
     
