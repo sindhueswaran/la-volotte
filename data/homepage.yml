@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "La Volotte"
+  title : " "
   content : "Die bezaubernde, alte Ladentür öffnet sich zu 'La Volotte', und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!"
   content1 : "Barbara Münz und Eckart Kreuzer bieten mit Freude und Leidenschaft neben den schönen Garnen und Stricknadeln in diversen Workshops gerne auch  Anleitung und kompetente Beratung an. Regelmäßig am ersten Samstag im Monat findet in gemütlicher Runde bei unserem beliebten Strickcafé ein reger Austausch statt!"
   content2 : "Wenn Sie nicht selbst stricken, können Sie aus unseren Garnen auch individuelle Anfertigungen in Auftrag  geben, sprechen Sie uns an!"
@@ -30,10 +30,10 @@ about:
 
 ###################### Event ########################
 event:
-  enable : true
+  enable : false
   title : "Strickcafe"
   content : "Im hinteren Raum befindet sich unser Atelier, wo das Strickcafe stattfindet und mit Zeit und Muße in Strickbüchern geschmökert werden kann. Hier findet sich Inspiration in Hülle und Fülle!"
-  image : " " 
+  image : "" 
   overlayImage : "images/lvoverlay2.png"
   button:
     label : "Alle Produkte"
@@ -109,6 +109,34 @@ products:
   enable : true
   title : "Produkte"
   # product item comes from "content/products"
+
+########################## Testimonial ########################
+ladengallery:
+  enable : true
+  title : "Gallerie"
+  gallItem:
+    # testimonial item loop
+    - name : "Angelo Perara"
+      image : "images/blog/post-1.jpg"  
+      
+    # testimonial item loop
+    - name : "Riya Ventila"
+      image : "images/blog/post-2.jpg" 
+
+    # testimonial item loop
+    - name : "Riya Ventila"
+      image : "images/blog/post-3.jpg" 
+
+    # testimonial item loop
+    - name : "Riya Ventila"
+      image : "images/blog/post-4.jpg"  
+
+    # testimonial item loop
+    - name : "Riya Ventila"
+      image : "images/blog/post-4.jpg"        
+    
+      
+    
 
 
 ########################## Testimonial ########################
