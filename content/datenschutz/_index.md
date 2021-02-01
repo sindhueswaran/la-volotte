@@ -4,233 +4,127 @@ date: "2018-06-28T00:00:00+01:00"
 draft: false
 ---
 
- ### Datenschutzerklärung
- 
+### Datenschutzerklärung
 
- #### Grundlegendes
-
- Diese Datenschutzerklärung soll die Nutzer dieser Website über die Art, den Umfang und den Zweck
-der Erhebung und Verwendung personenbezogener Daten durch den Websitebetreiber [Daniel
-Marschall, Pariser Str.51, 10719 Berlin] informieren.
-
- Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre personenbezogenen
-Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da durch neue Technologien und
-die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung
-vorgenommen werden können, empfehlen wir Ihnen sich die Datenschutzerklärung in regelmäßigen
-Abständen wieder durchzulesen.
-
- Definitionen der verwendeten Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”) finden
-Sie in Art. 4 DSGVO.
-
-#### Zugriffsdaten
- Wir, der Websitebetreiber bzw. Seitenprovider, erheben aufgrund unseres berechtigten Interesses (s.
-Art. 6 Abs. 1 lit. f. DSGVO) Daten über Zugriffe auf die Website und speichern diese als „Server-
-Logfiles“ auf dem Server der Website ab. Folgende Daten werden so protokolliert:
- - Besuchte Website
- - Uhrzeit zum Zeitpunkt des Zugriffes
- - Menge der gesendeten Daten in Byte
- - Quelle/Verweis, von welchem Sie auf die Seite gelangten
- - Verwendeter Browser
- - Verwendetes Betriebssystem
- - Verwendete IP-Adresse
-
- Die Server-Logfiles werden für maximal 7 Tage gespeichert und anschließend gelöscht. Die
-Speicherung der Daten erfolgt aus Sicherheitsgründen, um z. B. Missbrauchsfälle aufklären zu
-können. Müssen Daten aus Beweisgründen aufgehoben werden, sind sie solange von der Löschung
-ausgenommen bis der Vorfall endgültig geklärt ist.
-
-#### Reichweitenmessung &amp; Cookies  
- Diese Website verwendet Cookies zur pseudonymisierten Reichweitenmessung, die entweder von
-unserem Server oder dem Server Dritter an den Browser des Nutzers übertragen werden. Bei Cookies
-handelt es sich um kleine Dateien, welche auf Ihrem Endgerät gespeichert werden. Ihr Browser greift
-auf diese Dateien zu. Durch den Einsatz von Cookies erhöht sich die Benutzerfreundlichkeit und
-Sicherheit dieser Website.
- Falls Sie nicht möchten, dass Cookies zur Reichweitenmessung auf Ihrem Endgerät gespeichert
-werden, können Sie dem Einsatz dieser Dateien hier widersprechen:
-- Cookie-Deaktivierungsseite der Netzwerkwerbeinitiative:
-http://optout.networkadvertising.org/?c=1#!/
-- Cookie-Deaktivierungsseite der US-amerikanischen Website:
-http://optout.aboutads.info/?c=2#!/
-
-- Cookie-Deaktivierungsseite der europäischen Website:
-http://optout.networkadvertising.org/?c=1#!/
-
- Gängige Browser bieten die Einstellungsoption, Cookies nicht zuzulassen. Hinweis: Es ist nicht
-gewährleistet, dass Sie auf alle Funktionen dieser Website ohne Einschränkungen zugreifen können,
-wenn Sie entsprechende Einstellungen vornehmen.
-
-#### Erfassung und Verarbeitung personenbezogener Daten
- Der Websitebetreiber erhebt, nutzt und gibt Ihre personenbezogenen Daten nur dann weiter, wenn dies
-im gesetzlichen Rahmen erlaubt ist oder Sie in die Datenerhebung einwilligen.
-Als personenbezogene Daten gelten sämtliche Informationen, welche dazu dienen, Ihre Person zu
-bestimmen und welche zu Ihnen zurückverfolgt werden können – also beispielsweise Ihr Name, Ihre
-E-Mail-Adresse und Telefonnummer.
-
- Diese Website können Sie auch besuchen, ohne Angaben zu Ihrer Person zu machen. Zur
-Verbesserung unseres Online-Angebotes speichern wir jedoch (ohne Personenbezug) Ihre
-Zugriffsdaten auf diese Website. Zu diesen Zugriffsdaten gehören z. B. die von Ihnen angeforderte
-Datei oder der Name Ihres Internet-Providers. Durch die Anonymisierung der Daten sind
-Rückschlüsse auf Ihre Person nicht möglich.
-
- Wir verarbeiten personenbezogene Daten wie Vorname, Nachname, IP-Adresse, E-Mail-Adresse,
-Wohnort, Postleitzahl und Inhaltsangaben aus dem Kontaktformular. Die erhobenen
-personenbezogenen Daten (Name, Telefonnummern und Email Adressen) werden ausschließlich zur
-Kontaktaufnahem im Rahmen des Jobcoachings verwendet. Die Verarbeitung der personenbezogenen
-Daten erfolgt aufgrund unseres berechtigten Interesses zur Erfüllung unserer vertraglich vereinbarten
-Leistungen und zur Optimierung unseres Online-Angebotes.
+Soweit nachstehend keine anderen Angaben gemacht werden, ist die Bereitstellung Ihrer personenbezogenen Daten weder gesetzlich oder vertraglich vorgeschrieben, noch für einen Vertragsabschluss erforderlich. Sie sind zur Bereitstellung der Daten nicht verpflichtet. Eine Nichtbereitstellung hat keine Folgen. Dies gilt nur soweit bei den nachfolgenden Verarbeitungsvorgängen keine anderweitige Angabe gemacht wird.
+"Personenbezogene Daten" sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.
 
 
-#### Umgang mit Kontaktdaten
+##### Server-Logfiles 
 
- Nehmen Sie mit uns als Websitebetreiber durch die angebotenen Kontaktmöglichkeiten Verbindung
-auf, werden Ihre Angaben verschlüsselt gespeichert, damit auf diese zur Bearbeitung und
-Beantwortung Ihrer Anfrage zurückgegriffen werden kann. Ohne Ihre Einwilligung werden diese
-Daten nicht an Dritte weitergegeben.
+Sie können unsere Webseiten besuchen, ohne Angaben zu Ihrer Person zu machen.  
+Bei jedem Zugriff auf unsere Website werden an uns oder unseren Webhoster / IT-Dienstleister Nutzungsdaten durch Ihren Internet Browser übermittelt und in Protokolldaten (sog. Server-Logfiles) gespeichert. Zu diesen gespeicherten Daten gehören z.B. der Name der aufgerufenen Seite, Datum und Uhrzeit des Abrufs, die IP-Adresse, die übertragene Datenmenge und der anfragende Provider. Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an der Gewährleistung eines störungsfreien Betriebs unserer Website sowie zur Verbesserung unseres Angebotes. 
+Kontakt
 
+##### Verantwortlicher
 
-#### Kontaktformular
- Per Kontaktformular übermittelte Daten werden einschließlich Ihrer Kontaktdaten gespeichert, um
-Ihre Anfrage bearbeiten zu können oder um für Anschlussfragen bereitzustehen. Eine Weitergabe
-dieser Daten findet ohne Ihre Einwilligung nicht statt.
-
- Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt ausschließlich auf Grundlage
-Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ein Widerruf Ihrer bereits erteilten Einwilligung ist
-jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit
-der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
-Über das Kontaktformular übermittelte Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern,
-Ihre Einwilligung zur Speicherung widerrufen oder keine Notwendigkeit der Datenspeicherung mehr
-besteht. Zwingende gesetzliche Bestimmungen - insbesondere Aufbewahrungsfristen - bleiben
-unberührt.
-
-#### Umgang mit Kommentaren und Beiträgen
-
- Hinterlassen Sie auf dieser Website einen Beitrag oder Kommentar, wird Ihre IP-Adresse gespeichert.
-Dies erfolgt aufgrund unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO und
-dient der Sicherheit von uns als Websitebetreiber: Denn sollte Ihr Kommentar gegen geltendes Recht
-verstoßen, können wir dafür belangt werden, weshalb wir ein Interesse an der Identität des
-Kommentar- bzw. Beitragsautors haben.
- 
-
-#### Google Analytics
-
- Diese Website nutzt aufgrund unserer berechtigten Interessen zur Optimierung und Analyse unseres
-Online-Angebots im Sinne des Art. 6 Abs. 1 lit. f. DSGVO den Dienst „Google Analytics“, welcher
-von der Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) angeboten wird.
-Der Dienst (Google Analytics) verwendet „Cookies“ – Textdateien, welche auf Ihrem Endgerät
-gespeichert werden. Die durch die Cookies gesammelten Informationen werden im Regelfall an einen
-Google-Server in den USA gesandt und dort gespeichert.
-
- Google LLC hält das europäische Datenschutzrecht ein und ist unter dem Privacy-Shield-Abkommen
-zertifiziert: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active
-Auf dieser Website greift die IP-Anonymisierung. Die IP-Adresse der Nutzer wird innerhalb der
-Mitgliedsstaaten der EU und des Europäischen Wirtschaftsraum und in den anderen Vertragsstaaten
-des Abkommens gekürzt. Nur in Einzelfällen wird die IP-Adresse zunächst ungekürzt in die USA an
-einen Server von Google übertragen und dort gekürzt. Durch diese Kürzung entfällt der
-Personenbezug Ihrer IP-Adresse. Die vom Browser übermittelte IP-Adresse des Nutzers wird nicht mit
-anderen von Google gespeicherten Daten kombiniert.
- Im Rahmen der Vereinbarung zur Auftragsdatenvereinbarung, welche wir als Websitebetreiber mit der
-Google Inc. geschlossen haben, erstellt diese mithilfe der gesammelten Informationen eine
-Auswertung der Websitenutzung und der Websiteaktivität und erbringt mit der Internetnutzung
-verbundene Dienstleistungen.
-
- Die von Google in unserem Auftrag erhobenen Daten werden genutzt, um die Nutzung unseres
-Online-Angebots durch die einzelnen Nutzer auswerten zu können, z. B. um Reports über die Aktivität
-auf der Website zu erstellen, um unser Online-Angebot zu verbessern.
-Sie haben die Möglichkeit, die Speicherung der Cookies auf Ihrem Gerät zu verhindern, indem Sie in
-Ihrem Browser entsprechende Einstellungen vornehmen. Es ist nicht gewährleistet, dass Sie auf alle
-Funktionen dieser Website ohne Einschränkungen zugreifen können, wenn Ihr Browser keine Cookies
-zulässt.
-
- Weiterhin können Sie durch ein Browser-Plugin verhindern, dass die durch Cookies gesammelten
-Informationen (inklusive Ihrer IP-Adresse) an die Google Inc. gesendet und von der Google Inc.
-genutzt werden. Folgender Link führt Sie zu dem entsprechenden Plugin:
-https://tools.google.com/dlpage/gaoptout?hl=de
-
- Alternativ verhindern Sie mit einem Klick auf diesen Link (WICHTIG: Opt-Out-Link einfügen), dass
-Google Analytics innerhalb dieser Website Daten über Sie erfasst. Mit dem Klick auf obigen Link
-laden Sie ein „Opt-Out-Cookie“ herunter. Ihr Browser muss die Speicherung von Cookies also hierzu
-grundsätzlich erlauben. Löschen Sie Ihre Cookies regelmäßig, ist ein erneuter Klick auf den Link bei
-jedem Besuch dieser Website vonnöten.
-
- Hier finden Sie weitere Informationen zur Datennutzung durch die Google Inc.:
-
- - https://policies.google.com/privacy/partners?hl=de (Daten, die von Google-Partnern
-erhoben werden)
- - https://adssettings.google.de/authenticated (Einstellungen über Werbung, die Ihnen
-angezeigt wird)
- - https://policies.google.com/technologies/ads?hl=de (Verwendung von Cookies in
-Anzeigen)
+Kontaktieren Sie uns auf Wunsch. Die Kontaktdaten des für die Datenverarbeitung Verantwortlichen finden Sie in unserem Impressum.
 
 
-#### Nutzung von Social-Media-Plugins von Facebook
 
- Aufgrund unseres berechtigten Interesses an der Analyse, Optimierung und dem Betrieb unseres
-Online-Angebotes (im Sinne des Art. 6 Abs. 1 lit. f. DSGVO), verwendet diese Website das
-Facebook-Social-Plugin, welches von der Facebook Inc. (1 Hacker Way, Menlo Park, California
-94025, USA) betrieben wird. Erkennbar sind die Einbindungen an dem Facebook-Logo bzw. an den
-Begriffen „Like“, „Gefällt mir“, „Teilen“ in den Farben Facebooks (Blau und Weiß). Informationen zu
-allen Facebook-Plugins finden Sie über den folgenden Link:
-https://developers.facebook.com/docs/plugins/
+##### Initiativ-Kontaktaufnahme des Kunden per E-Mail
 
- Facebook Inc. hält das europäische Datenschutzrecht ein und ist unter dem Privacy-Shield-Abkommen
-zertifiziert: https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active
+Wenn Sie per E-Mail initiativ mit uns in Geschäftskontakt treten, erheben wir Ihre personenbezogenen Daten (Name, E-Mail-Adresse, Nachrichtentext) nur in dem von Ihnen zur Verfügung gestellten Umfang. Die Datenverarbeitung dient der Bearbeitung und Beantwortung Ihrer Kontaktanfrage.
+Wenn die Kontaktaufnahme der Durchführung vorvertraglichen Maßnahmen (bspw. Beratung bei Kaufinteresse, Angebotserstellung) dient oder einen bereits zwischen Ihnen und uns geschlossenen Vertrag betrifft, erfolgt diese Datenverarbeitung auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO.
+Erfolgt die Kontaktaufnahme aus anderen Gründen erfolgt diese Datenverarbeitung auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an der Bearbeitung und Beantwortung Ihrer Anfrage. In diesem Fall haben Sie das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit dieser auf Art. 6 Abs. 1 lit. f DSGVO beruhenden Verarbeitungen Sie betreffender personenbezogener Daten zu widersprechen.
+Ihre E-Mail-Adresse nutzen wir nur zur Bearbeitung Ihrer Anfrage. Ihre Daten werden anschließend unter Beachtung gesetzlicher Aufbewahrungsfristen gelöscht, sofern Sie der weitergehenden Verarbeitung und Nutzung nicht zugestimmt haben.
+Erhebung und Verarbeitung bei Nutzung des Kontaktformulars 
+Bei der Nutzung des Kontaktformulars erheben wir Ihre personenbezogenen Daten (Name, E-Mail-Adresse, Nachrichtentext) nur in dem von Ihnen zur Verfügung gestellten Umfang. Die Datenverarbeitung dient dem Zweck der Kontaktaufnahme.
+Wenn die Kontaktaufnahme der Durchführung vorvertraglichen Maßnahmen (bspw. Beratung bei Kaufinteresse, Angebotserstellung) dient oder einen bereits zwischen Ihnen und uns geschlossenen Vertrag betrifft, erfolgt diese Datenverarbeitung auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Erfolgt die Kontaktaufnahme aus anderen Gründen erfolgt diese Datenverarbeitung auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an der Bearbeitung und Beantwortung Ihrer Anfrage. In diesem Fall haben Sie das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit dieser auf Art. 6 Abs. 1 lit. f DSGVO beruhenden Verarbeitungen Sie betreffender personenbezogener Daten zu widersprechen. Ihre E-Mail-Adresse nutzen wir nur zur Bearbeitung Ihrer Anfrage. Ihre Daten werden anschließend unter Beachtung gesetzlicher Aufbewahrungsfristen gelöscht, sofern Sie der weitergehenden Verarbeitung und Nutzung nicht zugestimmt haben.
 
- Das Plugin stellt eine direkte Verbindung zwischen Ihrem Browser und den Facebook-Servern her.
-Der Websitebetreiber hat keinerlei Einfluss auf die Natur und den Umfang der Daten, welche das
-Plugin an die Server der Facebook Inc. übermittelt. Informationen dazu finden Sie hier:
-https://www.facebook.com/help/186325668085084
 
- Das Plugin informiert die Facebook Inc. darüber, dass Sie als Nutzer diese Website besucht haben. Es
-besteht hierbei die Möglichkeit, dass Ihre IP-Adresse gespeichert wird. Sind Sie während des Besuchs
-auf dieser Website in Ihrem Facebook-Konto eingeloggt, werden die genannten Informationen mit
-diesem verknüpft.
+##### Bestellungen      
 
- Nutzen Sie die Funktionen des Plugins – etwa indem Sie einen Beitrag teilen oder „liken“ –, werden
-die entsprechenden Informationen ebenfalls an die Facebook Inc. übermittelt.
-Möchten Sie verhindern, dass die Facebook. Inc. diese Daten mit Ihrem Facebook-Konto verknüpft,
-loggen Sie sich bitte vor dem Besuch dieser Website bei Facebook aus und löschen Sie die
-gespeicherten Cookies. Über Ihr Facebook-Profil können Sie weitere Einstellungen zur
-Datenverarbeitung für Werbezwecke tätigen oder der Nutzung Ihrer Daten für Werbezwecke
-widersprechen. Zu den Einstellungen gelangen Sie hier:
-- Profileinstellungen bei Facebook:
-https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen
-- Cookie-Deaktivierungsseite der US-amerikanischen Website:
-http://optout.aboutads.info/?c=2#!/
-- Cookie-Deaktivierungsseite der europäischen Website:
-http://optout.networkadvertising.org/?c=1#!/
 
- Welche Daten, zu welchem Zweck und in welchem Umfang Facebook Daten erhebt, nutzt und
-verarbeitet und welche Rechte sowie Einstellungsmöglichkeiten Sie zum Schutz Ihrer Privatsphäre
-haben, können Sie in den Datenschutzrichtlinien von Facebook nachlesen. 
+Erhebung, Verarbeitung und Weitergabe personenbezogener Daten bei Bestellungen 
+Bei der Bestellung erheben und verarbeiten wir Ihre personenbezogenen Daten nur, soweit dies zur Erfüllung und Abwicklung Ihrer Bestellung sowie zur Bearbeitung Ihrer Anfragen erforderlich ist. Die Bereitstellung der Daten ist für den Vertragsschluss erforderlich. Eine Nichtbereitstellung hat zur Folge, dass kein Vertrag geschlossen werden kann. Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO und ist für die Erfüllung eines Vertrags mit Ihnen erforderlich.  
+Eine Weitergabe Ihrer Daten erfolgt dabei beispielsweise an die von Ihnen gewählten Versandunternehmen und Dropshipping Anbieter, Zahlungsdienstleister, Diensteanbieter für die Bestellabwicklung und IT-Dienstleister. In allen Fällen beachten wir strikt die gesetzlichen Vorgaben. Der Umfang der Datenübermittlung beschränkt sich auf ein Mindestmaß.
 
- Diese finden Sie hier: https://www.facebook.com/about/privacy/
+##### Werbung      
 
- 
-#### Rechte des Nutzers
+Verwendung der E-Mail-Adresse für die Zusendung von Newslettern
+Wir nutzen Ihre E-Mail-Adresse unabhängig von der Vertragsabwicklung ausschließlich für eigene Werbezwecke zum Newsletterversand, sofern Sie dem ausdrücklich zugestimmt haben. Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO mit Ihrer Einwilligung. Sie können die Einwilligung jederzeit widerrufen, ohne dass die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung berührt wird. Sie können dazu den Newsletter jederzeit unter Nutzung des entsprechenden Links im Newsletter oder durch Mitteilung an uns abbestellen. Ihre E-Mail-Adresse wird danach aus dem Verteiler entfernt. 
 
- Sie haben als Nutzer das Recht, auf Antrag eine kostenlose Auskunft darüber zu erhalten, welche
-personenbezogenen Daten über Sie gespeichert wurden. Sie haben außerdem das Recht auf
-Berichtigung falscher Daten und auf die Verarbeitungseinschränkung oder Löschung Ihrer
-personenbezogenen Daten. Falls zutreffend, können Sie auch Ihr Recht auf Datenportabilität geltend
-machen. Sollten Sie annehmen, dass Ihre Daten unrechtmäßig verarbeitet wurden, können Sie eine
-Beschwerde bei der zuständigen Aufsichtsbehörde einreichen.
 
-#### Löschung von Daten
+##### Zahlungsdienstleister      
 
- Sofern Ihr Wunsch nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Daten (z. B.
-Vorratsdatenspeicherung) kollidiert, haben Sie ein Anrecht auf Löschung Ihrer Daten. Von uns
-gespeicherte Daten werden, sollten sie für ihre Zweckbestimmung nicht mehr vonnöten sein und es
-keine gesetzlichen Aufbewahrungsfristen geben, gelöscht. Falls eine Löschung nicht durchgeführt
-werden kann, da die Daten für zulässige gesetzliche Zwecke erforderlich sind, erfolgt eine
-Einschränkung der Datenverarbeitung. In diesem Fall werden die Daten gesperrt und nicht für andere
-Zwecke verarbeitet.
+Verwendung von PayPal
+Alle PayPal-Transaktionen unterliegen der PayPal-Datenschutzerklärung. Diese finden Sie unter https://www.paypal.com/de/webapps/mpp/ua/privacy-full (https://www.paypal.com/de/webapps/mpp/ua/privacy-full)
 
-#### Widerspruchsrecht
 
- Nutzer dieser Webseite können von ihrem Widerspruchsrecht Gebrauch machen und der Verarbeitung
-ihrer personenbezogenen Daten zu jeder Zeit widersprechen.
 
- Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer Person
-gespeicherten personenbezogenen Daten wünschen oder Fragen bzgl. der Erhebung, Verarbeitung
-oder Verwendung Ihrer personenbezogenen Daten haben oder erteilte Einwilligungen widerrufen
-möchten, wenden Sie sich bitte an folgende E-Mail-Adresse: <wolle@la-volotte.de>
+##### Cookies 
+
+Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die im Internetbrowser bzw. vom Internetbrowser auf dem Computersystem eines Nutzers gespeichert werden. Ruft ein Nutzer eine Website auf, so kann ein Cookie auf dem Betriebssystem des Nutzers gespeichert werden. Dieser Cookie enthält eine charakteristische Zeichenfolge, die eine eindeutige Identifizierung des Browsers beim erneuten Aufrufen der Website ermöglicht. 
+
+Cookies werden auf Ihrem Rechner gespeichert. Daher haben Sie die volle Kontrolle über die Verwendung von Cookies. Durch die Auswahl entsprechender technischer Einstellungen in Ihrem Internetbrowser können Sie vor dem Setzen von Cookies benachrichtigt werden und über die Annahme einzeln entscheiden sowie die Speicherung der Cookies und Übermittlung der enthaltenen Daten verhindern. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Wir weisen Sie jedoch darauf hin, dass Sie dann gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. 
+
+Unter den nachstehenden Links können Sie sich informieren, wie Sie die Cookies bei den wichtigsten Browsern verwalten (u.a. auch deaktivieren) können: 
+Chrome: https://support.google.com/accounts/answer/61416?hl=de (https://support.google.com/accounts/answer/61416?hl=de)
+Internet Explorer: https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies (https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies) 
+Mozilla Firefox: https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen (https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen) 
+Safari: https://support.apple.com/de-de/guide/safari/manage-cookies-and-website-data-sfri11471/mac (https://support.apple.com/de-de/guide/safari/manage-cookies-and-website-data-sfri11471/mac) 
+
+
+##### Technisch notwendige Cookies 
+Soweit nachstehend in der Datenschutzerklärung keine anderen Angaben gemacht werden setzen wir nur diese technisch notwendigen Cookies zu dem Zweck ein, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Des Weiteren ermöglichen Cookies unseren Systemen, Ihren Browser auch nach einem Seitenwechsel zu erkennen und Ihnen Services anzubieten. Einige Funktionen unserer Internetseite können ohne den Einsatz von Cookies nicht angeboten werden. Für diese ist es erforderlich, dass der Browser auch nach einem Seitenwechsel wiedererkannt wird. 
+
+Die Nutzung von Cookies oder vergleichbarer Technologien erfolgt auf Grundlage des § 15 Abs. 3 S. 1 TMG. Die Verarbeitung Ihrer personenbezogenen Daten erfolgt auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an der Gewährleistung der optimalen Funktionalität der Website sowie einer nutzerfreundlichen und effektiven Gestaltung unseres Angebots. 
+Sie haben das Recht aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit dieser Verarbeitungen Sie betreffender personenbezogener Daten zu widersprechen.
+Verwendung von Consentmanager
+Wir verwenden auf unserer Website das Consent-Management-Tool Consentmanager der Consentmanager AB (Håltegelvägen 1b, 72348 Västerås, Schweden; "Consentmanager").
+Das Tool ermöglicht es Ihnen, Einwilligungen in Datenverarbeitungen über die Website, insbesondere das Setzen von Cookies, zu erteilen sowie von Ihrem Widerrufsrecht für bereits erteilte Einwilligungen Gebrauch zu machen.
+Die Datenverarbeitung dient dem Zweck, erforderliche Einwilligungen in Datenverarbeitungen einzuholen sowie zu dokumentieren und damit gesetzliche Verpflichtungen einzuhalten.
+Hierzu können Cookies eingesetzt werden. Dabei können u. a. folgende Informationen erhoben und an Consentmanager übermittelt werden: Datum und Uhrzeit des Seitenaufrufs, Informationen zu dem von Ihnen verwendeten Browser und das von Ihnen genutzte Gerät, anonymisierte IP-Adresse, Opt-in- und Opt-out-Daten. Eine Weitergabe dieser Daten an sonstige Dritte erfolgt nicht.
+Die Datenverarbeitung erfolgt zur Erfüllung einer rechtlichen Verpflichtung auf Grundlage des Art. 6 Abs. 1 lit. c DSGVO.
+Nähere Informationen zum Datenschutz bei Consentmanager finden Sie unter: https://www.consentmanager.net/privacy.php (https://www.consentmanager.net/privacy.php)
+Verwendung des Cookie Hinweises von MND Next
+Wir verwenden auf unserer Website das Plug-in Cookie Hinweis mit Opt-In/Opt-Out der MDN Next GmbH (Robert-Bosch-Straße 8, 73037 Göppingen; "MDN Next").
+Das Plug-in ermöglicht es Ihnen, Einwilligungen in Datenverarbeitungen über die Website, insbesondere das Setzen von Cookies, zu erteilen sowie von Ihrem Widerrufsrecht für bereits erteilte Einwilligungen Gebrauch zu machen. Die Datenverarbeitung dient dem Zweck, erforderliche Einwilligungen in Datenverarbeitungen einzuholen sowie zu dokumentieren und damit gesetzliche Verpflichtungen einzuhalten. Hierzu werden Cookies eingesetzt, mit denen Ihr Einwilligungsstatus gespeichert wird.
+Die Datenverarbeitung erfolgt zur Erfüllung einer rechtlichen Verpflichtung auf Grundlage des Art. 6 Abs. 1 lit. c DSGVO.
+Nähere Informationen zum Datenschutz bei MDN Next finden Sie unter: https://www.mndnext.de/impressum/ (https://www.mndnext.de/impressum/).
+
+
+
+##### Analyse      
+
+Verwendung von Google Analytics
+
+Wir verwenden auf unserer Website den Webanalysedienst Google Analytics der Google LLC. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). Soweit Sie Ihren gewöhnlichen Aufenthalt im Europäischen Wirtschaftsraum oder der Schweiz haben, ist Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland) der für Ihre Daten zuständige Verantwortliche. Google Ireland Limited ist demnach das mit Google verbundene Unternehmen, welches für die Verarbeitung Ihrer Daten und die Einhaltung der anwendbaren Datenschutzgesetze verantwortlich ist.
+Die Datenverarbeitung dient dem Zweck der Analyse dieser Website und ihrer Besucher sowie für Marketing- und Werbezwecke. Dazu wird Google im Auftrag des Betreibers dieser Website die gewonnenen Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere, mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Dabei können u.a. folgende Informationen erhoben werden: IP-Adresse, Datum und Uhrzeit des Seitenaufrufs, Klickpfad, Informationen über den von Ihnen verwendeten Browser und das von Ihnen verwendete Device (Gerät), besuchte Seiten, Referrer-URL (Webseite, über die Sie unsere Webseite aufgerufen haben), Standortdaten, Kaufaktivitäten. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+Google Analytics verwendet Technologien wie Cookies, Webspeicher im Browser und Zählpixel, die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die dadurch erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Für die USA ist kein Angemessenheitsbeschluss der EU-Kommission vorhanden. Die Datenübermittlung erfolgt u.a auf Grundlage von Standardvertragsklauseln als geeignete Garantien für den Schutz der personenbezogenen Daten, einsehbar unter: https://policies.google.com/privacy/frameworks (https://policies.google.com/privacy/frameworks). Sowohl Google als auch staatliche US-Behörden haben Zugriff auf Ihre Daten. Ihre Daten können von Google mit anderen Daten, wie beispielsweise Ihrem Suchverlauf, Ihren persönlichen Accounts, Ihren Nutzungsdaten anderer Geräte und allen anderen Daten, die Google zu Ihnen vorliegen hat, verknüpft werden.
+Auf dieser Website ist die IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
+Die Nutzung von Cookies oder vergleichbarer Technologien erfolgt auf Grundlage des § 15 Abs. 3 S. 1 TMG. Die Verarbeitung Ihrer personenbezogenen Daten erfolgt auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO aus unserem überwiegenden berechtigten Interesse an der bedarfsgerechten und zielgerichteten Gestaltung der Website. Sie haben das Recht aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit dieser Verarbeitungen Sie betreffender personenbezogener Daten zu widersprechen.
+Sie können die Erfassung der durch Google Analytics erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plug-in herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de (https://tools.google.com/dlpage/gaoptout?hl=de)
+Um die Datenerfassung und -speicherung durch Google Analytics geräteübergreifend zu verhindern, können Sie einen Opt-Out-Cookie setzen. Opt-Out-Cookies verhindern die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website. Sie müssen das Opt-Out auf allen genutzten Systemen und Geräten durchführen, damit dies umfassend wirkt. Wenn Sie das Opt-out-Cookie löschen, werden wieder Anfragen an Google übermittelt. Wenn Sie hier klicken, wird das Opt-Out-Cookie gesetzt: Google Analytics deaktivieren (javascript:gaOptout()).
+Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter https://www.google.com/analytics/terms/de.html (https://www.google.com/analytics/terms/de.html) bzw. unter https://www.google.de/intl/de/policies/ (https://www.google.de/intl/de/policies/) sowie unter https://policies.google.com/technologies/cookies?hl=de (https://policies.google.com/technologies/cookies?hl=de).
+
+
+##### Plug-ins und Sonstiges
+
+
+Verwendung des Google Tag Managers
+Wir verwenden auf unserer Website den Google Tag Manager der Google LLC. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). Soweit Sie Ihren gewöhnlichen Aufenthalt im Europäischen Wirtschaftsraum oder der Schweiz haben, ist Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland) der für Ihre Daten zuständige Verantwortliche. Google Ireland Limited ist demnach das mit Google verbundene Unternehmen, welches für die Verarbeitung Ihrer Daten und die Einhaltung der anwendbaren Datenschutzgesetze verantwortlich ist.
+Mit dieser Anwendung werden JavaScript-Tags und HTML-Tags verwaltet, die zur Implementierung insbesondere von Tracking- und Analyse-Tools verwendet werden. Die Datenverarbeitung dient dem Zweck der bedarfsgerechten Gestaltung und der Optimierung unserer Website.
+Der Google Tag Manager selbst speichert weder Cookies noch werden hierdurch personenbezogene Daten verarbeitet. Er ermöglicht jedoch die Auslösung weiterer Tags, die personenbezogene Daten erheben und verarbeiten können.
+Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie hier (https://www.google.com/intl/de/tagmanager/use-policy.html).
+
+##### Betroffenenrechte und Speicherdauer
+
+Dauer der Speicherung
+Nach vollständiger Vertragsabwicklung werden die Daten zunächst für die Dauer der Gewährleistungsfrist, danach unter Berücksichtigung gesetzlicher, insbesondere steuer- und handelsrechtlicher Aufbewahrungsfristen gespeichert und dann nach Fristablauf gelöscht, sofern Sie der weitergehenden Verarbeitung und Nutzung nicht zugestimmt haben.
+
+##### Rechte der betroffenen Person
+
+Ihnen stehen bei Vorliegen der gesetzlichen Voraussetzungen folgende Rechte nach Art. 15 bis 20 DSGVO zu: Recht auf Auskunft, auf Berichtigung, auf Löschung, auf Einschränkung der Verarbeitung, auf Datenübertragbarkeit.
+Außerdem steht Ihnen nach Art. 21 Abs. 1 DSGVO ein Widerspruchsrecht gegen die Verarbeitungen zu, die auf Art. 6 Abs. 1 f DSGVO beruhen, sowie gegen die Verarbeitung zum Zwecke von Direktwerbung.
+
+##### Beschwerderecht bei der Aufsichtsbehörde
+
+Sie haben gemäß Art. 77 DSGVO das Recht, sich bei der Aufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten nicht rechtmäßig erfolgt.
+
+##### Widerspruchsrecht
+Beruhen die hier aufgeführten personenbezogenen Datenverarbeitungen auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO, haben Sie das Recht aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit diesen Verarbeitungen mit Wirkung für die Zukunft zu widersprechen.
+Nach erfolgtem Widerspruch wird die Verarbeitung der betroffenen Daten beendet, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihren Interessen, Rechten und Freiheiten überwiegen, oder wenn die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+
+###### letzte Aktualisierung: 27.10.2020
