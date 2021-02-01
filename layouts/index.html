@@ -208,6 +208,9 @@
           <div class="card-body">
             <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
             <p>{{ .Params.Description }}</p>
+            <p>{{ .Params.menge }}    &nbsp &nbsp 
+              <img src="/images/nadelstaerke.png" class="card-img-top" alt=" " style="width: 8%;" /> 
+              &nbsp  {{ .Params.nadel }}  </p>
             <div class="mb-4">
               <span class="lead text-primary">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }}</s><br> 
               <p>{{ .Params.menge }}</p>
