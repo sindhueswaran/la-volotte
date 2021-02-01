@@ -392,11 +392,26 @@ disqusShortname = ""
   name = "Datenschutz"
   URL = "datenschutz"
   weight = 5
+
+  [[menu.footer]]
+  name = "AGB"
+  URL = "agb"
+  weight = 6
+
+  [[menu.footer]]
+  name = "Widerrufsrecht "
+  URL = "widerrufsrecht"
+  weight = 7
   
+  [[menu.footer]]
+  name = "Versandbedingungen"
+  URL = "versand"
+  weight = 8
+
   [[menu.footer]]
   name = "Kontakt"
   URL = "contact"
-  weight = 6
+  weight = 9
 
 
 #################### default parameters ################################
