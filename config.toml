@@ -124,13 +124,13 @@ disqusShortname = ""
   weight = 1
   
   [[menu.materials]]
-  name = "PA"
-  URL = "/tags/pa/"
+  name = "Polyamid"
+  URL = "/tags/polyamid/"
   weight = 2
   
   [[menu.materials]]
   name = "Alpaka"
-  URL = "/tags/Alpaka/"
+  URL = "/tags/alpaka/"
   weight = 4
 
   [[menu.materials]]
@@ -169,8 +169,8 @@ disqusShortname = ""
   weight = 14
 
   [[menu.materials]]
-  name = "Merino"
-  URL = "/tags/merino/"
+  name = "Schurwolle (GOTS)"
+  URL = "/tags/schurwolle-GOTS/"
   weight = 15
 
   [[menu.materials]]
@@ -179,8 +179,8 @@ disqusShortname = ""
   weight = 16
 
   [[menu.materials]]
-  name = "Pima-Baumwolle"
-  URL = "/tags/pima-baumwolle/"
+  name = "Baumwolle, ökologisch"
+  URL = "/tags/baumwolle-oeko/"
   weight = 17
 
   [[menu.materials]]
@@ -189,8 +189,8 @@ disqusShortname = ""
   weight = 18
 
   [[menu.materials]]
-  name = "Recyclinggarn"
-  URL = "/tags/Recyclinggarn/"
+  name = "Baumwolle (Recycling)"
+  URL = "/tags/baumwolle-recycling/"
   weight = 19
 
   [[menu.materials]]
@@ -222,6 +222,144 @@ disqusShortname = ""
   name = "Yak"
   URL = "/tags/yak/"
   weight = 25
+
+  [[menu.materials]]
+  name = "Baumwolle (GOTS)"
+  URL = "/tags/baumwolle-GOTS/"
+  weight = 25
+
+  [[menu.materials]]
+  name = "Baumwolle(KbA)"
+  URL = "/tags/baumwolle-KbA/"
+  weight = 25
+ 
+
+  ############# Nadelstaerke menu #############
+  [[menu.nadels]]
+  name = "Alle"
+  URL = "products"
+  weight = 1
+  
+  [[menu.nadels]]
+  name = "1,5-2,5"
+  URL = "/tags/1.5-2.5/"
+  weight = 2
+
+  [[menu.nadels]]
+  name = "2,5-3,5"
+  URL = "/tags/2.5-3.5/"
+  weight = 3
+
+  [[menu.nadels]]
+  name = "2,0-3,0"
+  URL = "/tags/2.0-3.0/"
+  weight = 4
+
+  [[menu.nadels]]
+  name = "2,0-3,5"
+  URL = "/tags/2.0-3.5/"
+  weight = 5
+
+  [[menu.nadels]]
+  name = "2,0-4,5"
+  URL = "/tags/2.0-4.5/"
+  weight = 6
+  
+  [[menu.nadels]]
+  name = "2,25-3,5"
+  URL = "/tags/2.25-3.5/"
+  weight = 7
+
+  [[menu.nadels]]
+  name = "2,5-3,0"
+  URL = "/tags/2.5-3.0/"
+  weight = 8
+
+  [[menu.nadels]]
+  name = "2,5-3,5"
+  URL = "/tags/2.5-3.5/"
+  weight = 9
+
+  [[menu.nadels]]
+  name = "3,0"
+  URL = "/tags/3.0/"
+  weight = 10
+
+  [[menu.nadels]]
+  name = "3,0-3,5"
+  URL = "/tags/3.0-3.5/"
+  weight = 11
+
+  [[menu.nadels]]
+  name = "3,0-4,0"
+  URL = "/tags/3.0-4.0/"
+  weight = 12
+
+  [[menu.nadels]]
+  name = "3,5-4,0"
+  URL = "/tags/3.5-4.0/"
+  weight = 13
+
+  [[menu.nadels]]
+  name = "3,75-4,0"
+  URL = "/tags/3.75-4.0/"
+  weight = 14
+
+  [[menu.nadels]]
+  name = "4,0-4,5"
+  URL = "/tags/4.0-4.5/"
+  weight = 15
+
+  [[menu.nadels]]
+  name = "4,0-5,0"
+  URL = "/tags/4.0-5.0/"
+  weight = 16
+
+  [[menu.nadels]]
+  name = "4,0-5,5"
+  URL = "/tags/4.0-5.5/"
+  weight = 17
+
+  [[menu.nadels]]
+  name = "4,0-6,0"
+  URL = "/tags/4.0-6.0/"
+  weight = 18
+
+  [[menu.nadels]]
+  name = "4,5-5,0"
+  URL = "/tags/4.5-5.0/"
+  weight = 19
+
+  [[menu.nadels]]
+  name = "5,0-5,5"
+  URL = "/tags/5.0-5.5/"
+  weight = 20
+
+  [[menu.nadels]]
+  name = "5,0-6,0"
+  URL = "/tags/5.0-6.0/"
+  weight = 21
+
+  [[menu.nadels]]
+  name = "5,0-7,0"
+  URL = "/tags/5.0-7.0/"
+  weight = 22
+
+  [[menu.nadels]]
+  name = "6,0-7,0"
+  URL = "/tags/6.0-7.0/"
+  weight = 23
+
+  [[menu.nadels]]
+  name = "8,0-9,0"
+  URL = "/tags/8.0-9.0/"
+  weight = 24
+
+  [[menu.nadels]]
+  name = "15,0"
+  URL = "/tags/15.0/"
+  weight = 24
+  
 
 
   ############# footer menu #############
@@ -317,4 +455,5 @@ copyright = "| La Volotte 2020 © |"
   category = "categories"
   tag = "tags"
   brand = "brands"
+  nadel = "nadels"
   
