@@ -9,7 +9,7 @@ contact:
 
   # opennig hour
   opennigHour:
-    title : "Öffnungszeiten Herst/Winter"
+    title : "Öffnungszeiten Herbst/Winter"
     dayTimeList:
       - dayTime : "Montag: geschlossen"
       - dayTime : "Dienstag: 14:30 – 18:30 Uhr"
