@@ -22,9 +22,12 @@
             <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a><br>
             <a href="{{ .Permalink }}" class="h6">{{ .Params.Brand }}</a>
             <p>{{ .Params.Description }}</p>
+            <p>{{ .Params.menge }}    &nbsp &nbsp 
+              <img src="/images/nadelstaerke.png" class="card-img-top" alt=" " style="width: 8%;" /> 
+              &nbsp  {{ .Params.nadel }}  </p>
             <div class="mb-4">
               <span class="lead text-primary">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }}</s><br> 
-              <p>{{ .Params.menge }} <br> {{ .Params.nadel }} <small>nadelstärke</small> </p>
+               
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary"
                   data-item-id="{{ .Params.ProductID }}"

@@ -32,12 +32,14 @@
         <div class="my-4">
           <span class="lead text-primary font-weight-medium">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }} </s> <br> 
           <span class="lead text-primary font-weight-medium">{{ .Params.cprice }}  <small>{{ .Params.cpricetext }} </small></span>
-          <p>{{ .Params.menge }} <br> {{ .Params.nadel }} <small>nadelstärke</small> </p>
-          
+          <p>{{ .Params.menge }}  &nbsp &nbsp <br> 
+            <img src="/images/nadelstaerke.png" alt=" " style="width: 4%;" /> &nbsp  {{ .Params.nadel }} <br> 
+            Lauflänge: {{ .Params.laenge }}  &nbsp &nbsp   </p>
+             
         </div>
         <h5>Kurzbeschreibung</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
-
+        
 
 
         <button class="snipcart-add-item btn  btn-outline-primary" id="my-button" 

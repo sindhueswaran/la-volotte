@@ -39,6 +39,7 @@
 
 <section class="section pt-0" style="padding-bottom: 5rem;">
   <div class="col-lg-10 mx-auto text-center">
+    <!--Marken-->
     <div class="btn-group text-center dropright" style="padding-right: 25px;">
       <button type="button" class="btn btn-sm btn-outline-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Marken
@@ -51,7 +52,8 @@
       </div>
     </div>
 
-    <div class="btn-group text-center dropright ">
+    <!--Material-->
+    <div class="btn-group text-center dropright " style="padding: 15px;">
       <button type="button" class="btn btn-sm btn-outline-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Material
       </button>
@@ -62,8 +64,28 @@
     
       </div>
     </div>
-  </div>
-</section>
 
+    <!--Nadel-->
+    <div class="btn-group text-center dropright" style="padding: 15px;">
+      <button type="button" class="btn btn-sm btn-outline-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Nadelstärke
+      </button>
+      <div class="dropdown-menu"  >
+      {{ range .Site.Menus.nadels }}
+      <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+      {{ end }}
+    
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-10 mx-auto text-center p-5">
+     
+      <input type="text" placeholder="Search.."/>
+   
+    
+  </div>
+
+</section>
 
  

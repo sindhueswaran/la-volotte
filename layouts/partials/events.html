@@ -2,7 +2,7 @@
 {{ with .Site.Data.homepage.event }}
 <section class="py-4 bg-gradient position-relative">
   <img src="{{ .overlayImage | absURL }}" class="img-fluid overlay-image" alt="">
-  <div class="container">
+  <div class="container event-bg">
     <div class="row">
       <div class="col-lg-8 col-md-7">
         <h2 class="text-white">{{ .title | markdownify }}</h2>
@@ -12,7 +12,7 @@
         {{ end }}
       </div>
       <div class="col-lg-4 col-md-5 position-relative">
-        <img class="cta-image" src="{{ .image | absURL }}" alt=""  >
+        <img class="cta-image" src="{{ .image | absURL }}" alt="" style="width: 100%;" >
       </div>
     </div>
   </div>
