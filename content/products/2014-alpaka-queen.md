@@ -10,7 +10,7 @@ laenge: "200m"
 
 
 # meta description
-description : "50% Alpaka, 50% Schurwolle, feines, weiches gewalktes Garn für Herbst und Winter "
+description : "50% Alpaka, 50% Schurwolle"
 
 # Farben
 farben : "Rotkappe|Amethyst|Camel|Ocker|Schwarz|Beige-Meliert|Stein|Alpakabraun|Hellgrau Melange|Grau Melange|Grau-Melange-Anthrazit|Natur"
@@ -23,7 +23,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "50% Alpaka, 50% Schurwolle"
+shortDescription: "50% Alpaka, 50% Schurwolle, feines, weiches gewalktes Garn für Herbst und Winter "
 
 #product ID
 productID: "2014"
