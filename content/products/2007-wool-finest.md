@@ -10,7 +10,7 @@ laenge: "400m"
 
 
 # meta description
-description : "100% extrafeine  Schurwolle (Merino), feine Wolle , toll für Pullover..."
+description : "100% extrafeine  Schurwolle (Merino)"
 
 # Farben
 farben : "Waldgrenze|Basalt|Runde Rot|Rechtes Licht|Whiskey|Hut ab|Nachtfalter|Samt + Sonders|Papaya|Raw Denim|Meeresblick|Rosenkavalier|Sand am Meer|Bernstein zimmer|Ultra Rot|Raw Chocolate"
@@ -22,7 +22,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% extrafeine  Schurwolle (Merino) "
+shortDescription: "100% extrafeine  Schurwolle (Merino), feine Wolle , toll für Pullover... "
 
 #product ID
 productID: "2007"

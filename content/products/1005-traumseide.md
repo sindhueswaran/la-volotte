@@ -11,7 +11,7 @@ laenge: "800m"
 
 
 # meta description
-description : "100% Maulbeerhaspelseide, toll für Tücher, Sommerstrick, als Beilaufgarn"
+description : "100% Maulbeerhaspelseide"
 
 # Farben
 farben : "053|050|052|054|051|055|034|041|040|038|001|002|003|004|005|008|011|020|024|057|056|059|058"
@@ -23,7 +23,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Maulbeerhaspelseide "
+shortDescription: "100% Maulbeerhaspelseide, toll für Tücher, Sommerstrick, als Beilaufgarn "
 
 #product ID
 productID: "1005"

@@ -10,7 +10,7 @@ laenge: "1200m"
 
 
 # meta description
-description : "100% Schurwolle, sehr lange Farbverläufe, ideal für große Tücher"
+description : "100% Schurwolle"
 
 # Farben
 farben : "Kunterbunt| Rauchzeichen| Blasser Schimmer| Blaukraut bleibt Blaukraut| Herbstmeister| Frühblüher| Streiflichter| Kichererbse| Mittelland| Lange Bank| Vitamin C"
@@ -22,7 +22,7 @@ priceBefore: ""
 menge: "150g"
 
 # Product Short Description
-shortDescription: "100% Schurwolle "
+shortDescription: "100% Schurwolle, sehr lange Farbverläufe, ideal für große Tücher "
 
 #product ID
 productID: "2005"

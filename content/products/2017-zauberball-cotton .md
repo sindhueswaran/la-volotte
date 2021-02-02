@@ -10,7 +10,7 @@ laenge: "420m"
 
 
 # meta description
-description : "100% Baumwolle aus Griechenland, tolle Farbverläufe"
+description : "100% Baumwolle aus Griechenland"
 
 # Farben
 farben : "Echte Abwechslung| Altes Rom| Rosige Zeiten| Junges Gemüse| Plan B| Arbeiterklasse| Weichzeichner| Geländegewinn| Bankgeheimnis| Sunnyside| Downtown| Mondfahrt| Feldversuch| Frühlingsanfang"
@@ -23,7 +23,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Baumwolle aus Griechenland "
+shortDescription: "100% Baumwolle aus Griechenland, tolle Farbverläufe "
 
 #product ID
 productID: "2017"

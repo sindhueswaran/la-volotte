@@ -10,7 +10,7 @@ laenge: "420m"
 
 
 # meta description
-description : "75% Schurwolle und 25% PA "
+description : "75% Schurwolle und 25% Polyamid "
 
 # Farben
 farben : "Herbstwind|U-Boot|Stone-Washed|Herbstsonne|Frische Fische|Flussbett|Fliederduft|Papagei|Kleiner Fuchs|Charisma|Schokoladenseite|Indisch Rosa|Pause in Blau|Domino|Der Lenz ist da!|Blasser Schimmer|Grüne Woche|Buntmetall|Zimtschnecke|Jacke wie Hose|Wolke 8|Meilenstein|Sternschnuppe|Route 66|Piano Bar|Sanduhr|Malerwinkel|Marsexperiment|Gartenparty|Jubiläumsparty|Camouflage|Tiefe Wasser|Föhnlage|Tapetenwechsel|Indigo"
@@ -23,7 +23,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "75% Schurwolle und 25% PA, beliebtes Sockengarn in tollen Farbverläufen"
+shortDescription: "75% Schurwolle und 25% Polyamid, beliebtes Sockengarn in tollen Farbverläufen"
 
 #product ID
 productID: "2015"

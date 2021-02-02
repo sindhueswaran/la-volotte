@@ -10,7 +10,7 @@ laenge: "800m"
 
 
 # meta description
-description : "100% Schurwolle, wunderschöne Farbverläufe, weicher Griff"
+description : "100% Schurwolle"
 
 # Farben
 farben : "Kunterbunt| Fliederduft| Papagei| Heißes Eisen| Evergreen| Rauchzeichen| Blasser Schimmer| Blaukraut bleibt Blaukraut| Sphinx| Sofaecke| Teezeremonie| Zone Aquatique| Licht im Schacht| Villa Rosa| Red to Go| Blaue Lagune| Schlichte Fichte| Herbstmeister| Komfortzone| Frühblüher| Streiflichter| Kichererbse| Mittelland| Lange Bank| Vitamin C| Waldmeister| Alles Paletti"
@@ -22,7 +22,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Schurwolle "
+shortDescription: "100% Schurwolle, wunderschöne Farbverläufe, weicher Griff "
 
 #product ID
 productID: "2004"
