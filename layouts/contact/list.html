@@ -37,8 +37,10 @@
       <div class="col-lg-4 offset-lg-1">
         <h3 class="
         mb-4">Kontakt</h3>
-        <form action="{{ .Site.Params.contact.formAction }}" method="POST">
-          <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Name">
+          <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+            <p class="hidden">
+              <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+            </p>
           <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Email">
           <textarea name="message" id="message" class="form-control mb-2" placeholder="Ihre Nachricht"></textarea>
           <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Senden</button>
