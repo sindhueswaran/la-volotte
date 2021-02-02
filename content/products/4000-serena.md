@@ -10,7 +10,7 @@ laenge: "193m"
 
 
 # meta description
-description : "60% Alpaka, 40% Pima- Baumwolle, sehr schönes Farbverlaufsgarn, wärmend und weich"
+description : "60% Alpaka, 40% Pima- Baumwolle"
 
 # Farben
 farben : "Biscotti|Canyon|Ethereal|Harbor|Natural|Oyster|Sage|Sapphire|Seashell|Thunder|Tide"
@@ -22,7 +22,7 @@ priceBefore: ""
 menge: "50g"
 
 # Product Short Description
-shortDescription: "60% Alpaka, 40% Pima- Baumwolle"
+shortDescription: "60% Alpaka, 40% Pima- Baumwolle, sehr schönes Farbverlaufsgarn, wärmend und weich"
 
 #product ID
 productID: "4000"

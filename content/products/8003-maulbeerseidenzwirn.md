@@ -10,7 +10,7 @@ laenge: "250m"
 
 
 # meta description
-description : "100% Maulbeerseide, traumhafte Seidengarn "
+description : "100% Maulbeerseide, traumhafte Seidengarn, nur in Naturweiß "
 
 # Farben
 farben : " "
@@ -22,7 +22,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Maulbeerseide, traumhafte Seidengarn, nur in Naturweiß"
+shortDescription: "100% Maulbeerseide"
 
 #product ID
 productID: "8003"
