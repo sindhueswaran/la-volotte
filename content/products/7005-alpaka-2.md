@@ -10,7 +10,7 @@ laenge: "250m"
 
 
 # meta description
-description : "50% Alpaka, 50% Schurwolle (Merino), wunderbar weiches Garn, sehr beliebt für Baby- und Kindersachen"
+description : "50% Alpaka, 50% Schurwolle (Merino)"
 
 # Farben
 farben : "COLOR 100|COLOR 11|COLOR 16|COLOR 17|COLOR 21|COLOR 24|COLOR 3|COLOR 33|COLOR 36|COLOR 40|COLOR 46|COLOR 47|COLOR 4s|COLOR 52|COLOR 54|COLOR 59|COLOR 60|COLOR 61|ECO 0|ECO 2s|ECO 3s|ECO 4s|ECO 7s|ECO 8s|FARVE 30|FOREST|MIDNIGHT|PEACH|SHADE 23|SKY|THYME"
@@ -22,7 +22,7 @@ priceBefore: " "
 menge: "50g"
 
 # Product Short Description
-shortDescription: "50% Alpaka, 50% Schurwolle (Merino) "
+shortDescription: "50% Alpaka, 50% Schurwolle (Merino), wunderbar weiches Garn, sehr beliebt für Baby- und Kindersachen "
 
 #product ID
 productID: "7005"

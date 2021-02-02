@@ -10,7 +10,7 @@ laenge: "400m"
 
 
 # meta description
-description : "100% Alpaka, feines Babyalpaka, farblich abgestimmt auf alle anderen Isager-Garne "
+description : "100% Alpaka, feines Babyalpaka"
 
 # Farben
 farben : "COLOR 100|COLOR 11|COLOR 16|COLOR 17|COLOR 21|COLOR 23|COLOR 24|COLOR 3|COLOR 30|COLOR 33|COLOR 36|COLOR 40|COLOR 46|COLOR 47|COLOR 4s|COLOR 52|COLOR 54|COLOR 59|COLOR 60|COLOR 61|ECO 0|ECO 2s|ECO 3s|ECO 4s|ECO 7s|ECO 8s|FOREST|MIDNIGHT|PEACH|SKY|THYME"
@@ -22,7 +22,7 @@ priceBefore: " "
 menge: "50g"
 
 # Product Short Description
-shortDescription: "100% Alpaka, feines Babyalpaka"
+shortDescription: "100% Alpaka, feines Babyalpaka, farblich abgestimmt auf alle anderen Isager-Garne "
 
 #product ID
 productID: "7004"
