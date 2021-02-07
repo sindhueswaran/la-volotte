@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://la-volotte.de/"
+baseURL = "https://lavolotte.netlify.app/"
 languageCode = "de-DE"
 title = "La Volotte"
 summaryLength = "20"
@@ -116,6 +116,11 @@ disqusShortname = ""
   name = "The Fibre Company"
   URL = "/categories/the-fibre-company/"
   weight = 10
+
+  [[menu.brands]]
+  name = "Franziska Uhl"
+  URL = "/categories/franziska-uhl/"
+  weight = 11
 
   ############# Materials menu #############
   [[menu.materials]]
