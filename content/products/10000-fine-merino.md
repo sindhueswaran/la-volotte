@@ -2,7 +2,7 @@
 title: "Handfärbung auf Fine Merino Socks"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "Seehawer & Siebert-Naturfasern"
+categories: "franziska-uhl"
 tags: ["Schurwolle", "Polyamid", "3.0-3.5"]
 
 nadel: "3,0-3,5" 
