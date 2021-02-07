@@ -44,31 +44,30 @@ images:
 
 # product colors
 farbimages:
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2371_ Roter Ocker.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2371_ Roter Ocker.jpg"	
   farbtitle: " Roter Ocker"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2372_ Stachelbeere.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2372_ Stachelbeere.jpg"	
   farbtitle: " Stachelbeere"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2373_ Soft Pink.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2373_ Soft Pink.jpg"	
   farbtitle: " Soft Pink"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2374_ Malachit.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2374_ Malachit.jpg"	
   farbtitle: " Malachit"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2376_ Workwear.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2376_ Workwear.jpg"	
   farbtitle: " Workwear"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2377_ Elefantenhaut.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2377_ Elefantenhaut.jpg"	
   farbtitle: " Elefantenhaut"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2378_ Raw Chocolate.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2378_ Raw Chocolate.jpg"	
   farbtitle: " Raw Chocolate"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2379_ Seidenschwarz.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2379_ Seidenschwarz.jpg"	
   farbtitle: " Seidenschwarz"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2380_ Porzellan.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2380_ Porzellan.jpg"	
   farbtitle: " Porzellan"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2443_ Roter Pfeffer.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2443_ Roter Pfeffer.jpg"	
   farbtitle: " Roter Pfeffer"
-- farbimg: "images/farben/schoppel/boots/Admiral Hanf 2444_ Kurkuma.jpg"	
+- farbimg: "images/farben/schoppel/admiral-hanf/Admiral Hanf 2444_ Kurkuma.jpg"	
   farbtitle: " Kurkuma"
 
 
 ---
 
-Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
-Mehrere Farben einer Garnsorte müssen also separat erneut wieder in den Warenkorb gelegt werden.
+

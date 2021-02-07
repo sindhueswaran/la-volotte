@@ -9,7 +9,7 @@ laenge: "800m"
 
 
 # meta description
-description : "100% Maulbeerhaspelseide "
+description : "100% Maulbeerhaspelseide, toll für Tücher, Sommerstrick, als Beilaufgarn "
 
 # Farben
 farben : "114|120|134"
@@ -21,7 +21,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Maulbeerhaspelseide, toll für Tücher, Sommerstrick, als Beilaufgarn"
+shortDescription: "100% Maulbeerhaspelseide"
 
 #product ID
 productID: "1006"
@@ -53,5 +53,4 @@ farbimages:
 
 ---
 
-Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
-Mehrere Farben einer Garnsorte müssen also separat erneut wieder in den Warenkorb gelegt werden.
+

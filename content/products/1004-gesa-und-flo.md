@@ -100,5 +100,4 @@ farbimages:
   farbtitle: "21"
 ---
 
-Erst wenn sich das Produkt im Warenkorb befindet, kann die Farbe ausgewählt werden.
-Mehrere Farben einer Garnsorte müssen also separat erneut wieder in den Warenkorb gelegt werden.
+
