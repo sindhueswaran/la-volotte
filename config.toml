@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://lavolotte.netlify.app/"
+baseURL = "https://la-volotte.de/"
 languageCode = "de-DE"
 title = "La Volotte"
 summaryLength = "20"
