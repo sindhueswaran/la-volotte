@@ -39,7 +39,8 @@ img: "images/products/schoppel/cashmere-queen.jpg"
 images:
   - image: "images/products/schoppel/cashmere-queen.jpg"
   - image: "images/products/schoppel/cashmere-queen-1.jpg"
-  - image: "images/products/schoppel/cashmere-queen.jpg"
+  - image: "images/products/schoppel/cashmere-queen-2.jpg"
+  - image: "images/products/schoppel/cashmere-queen-3.jpg"
 
 # product colors
 farbimages:
