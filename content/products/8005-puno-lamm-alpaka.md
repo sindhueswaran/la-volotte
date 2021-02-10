@@ -16,8 +16,8 @@ description : "100% Lammalpaka "
 farben : "beige|brunmeliert|naturweiß|silbergrau|"
 
 # product Price
-dprice: "19,95"
-price: "19.95"
+dprice: "13,95"
+price: "13.95"
 priceBefore: ""
 menge: "100g"
 
