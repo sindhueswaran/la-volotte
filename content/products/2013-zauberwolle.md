@@ -10,7 +10,7 @@ laenge: "250m"
 
 
 # meta description
-description : "100% Schurwolle, schönes Verlaufsgarn mit etwas Griff"
+description : "100% Schurwolle"
 
 # Farben
 farben : "Herbstwind|Schatten|Stone-Washed|Fuchsienbeet|Fliederduft|Papagei|Kleiner Fuchs|Gebrannte Mandeln|Alter Schwede|Teezeremonie|Gelbfilter|Rush Hour|Waldfrau|Streiflichter|Kichererbse|Aldebaran|Hochofen|Alles Paletti"
@@ -22,7 +22,7 @@ priceBefore: ""
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Schurwolle "
+shortDescription: "100% Schurwolle, schönes Verlaufsgarn mit etwas Griff "
 
 #product ID
 productID: "2013"
