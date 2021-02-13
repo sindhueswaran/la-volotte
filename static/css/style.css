@@ -54,6 +54,10 @@ h5, .h5 {
 h6, .h6 {
   font-size: 14px;
 }
+.search{
+  border-color: #5AB51E !important;
+}
+/* Bu
 
 /* Button style */
 .btn {
