@@ -46,7 +46,7 @@ cta:
   title : "La Volotte"
   content : "Wir bieten eine große Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern!"
   image : "" 
-  overlayImage : "images/lvoverlay2.png"
+  overlayImage : "images/lvoverlay-1.png"
   button:
     label : "Alle Produkte"
     link : "products"
