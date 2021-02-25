@@ -5,7 +5,7 @@ banner:
   content : "Die bezaubernde, alte Ladentür öffnet sich zu 'La Volotte', und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!"
   content1 : "Barbara Münz und ihr Team bieten mit Freude und Leidenschaft neben den schönen Garnen und Stricknadeln in diversen Workshops gerne auch  Anleitung und kompetente Beratung an. Regelmäßig am ersten Samstag im Monat findet in gemütlicher Runde bei unserem beliebten Strickcafé ein reger Austausch statt!"
   content2 : "Wenn Sie nicht selbst stricken, können Sie aus unseren Garnen auch individuelle Anfertigungen in Auftrag  geben, sprechen Sie uns an!"
-  image : "images/ybimladaen.jpg"
+  image : "images/ybimladaen1.jpg"
   # button
   button:
     enable : false
@@ -25,7 +25,7 @@ about:
               Ganz aktuell stricken verschiedene Frauengruppen Mützen, Westen, Schals und Socken für Schulen in Rajasthan und können so ihren Lebensunterhalt auch in schwierigen Zeiten bestreiten.  
               Auf www.joiningthreads.com finden sich viele Fotos und Berichte sowie auch die Möglichkeit, uns zu unterstützen."
   content2 : "Unser „Verein zur Förderung des kreativen Glücks“ hat sich Anfang 2020 gegründet und möchte durch Kursangebote, Projekte in Schulen und im Strafvollzug  einen Beitrag hier vor Ort leisten sowie die Projekte in Indien unterstützen."        
-  image : "images/street.jpg"
+  image : "images/street1.jpg"
 
 
 ###################### Event ########################
