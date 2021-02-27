@@ -40,7 +40,6 @@ images:
   - image: "images/products/schoppel/zauberwolle.jpg"
   - image: "images/products/schoppel/zauberwolle-2.jpg"
   - image: "images/products/schoppel/zauberwolle-3.jpg"
-  - image: "images/products/schoppel/zauberwolle-4.jpg"
   - image: "images/products/schoppel/zauberwolle-5.jpg"
 
 # product colors
