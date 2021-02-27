@@ -40,6 +40,7 @@ images:
   - image: "images/products/mondial/eco-denim.jpg"
   - image: "images/products/mondial/eco-denim-2.jpg"
   - image: "images/products/mondial/eco-denim-3.jpg"
+  - image: "images/products/mondial/eco-denim-4.jpg"
 
 # product colors
 farbimages:

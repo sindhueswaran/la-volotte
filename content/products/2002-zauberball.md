@@ -39,7 +39,7 @@ img: "images/products/schoppel/zauberball.jpg"
 images:
   - image: "images/products/schoppel/zauberball.jpg"
   - image: "images/products/schoppel/zauberball-2.jpg"
-  - image: "images/products/schoppel/zauberball.jpg"
+  - image: "images/products/schoppel/zauberball-3.jpg"
 
 # product colors
 farbimages:

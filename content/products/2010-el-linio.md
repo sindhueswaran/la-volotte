@@ -38,7 +38,7 @@ img: "images/products/schoppel/el-linio.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/el-linio.jpg"
-  - image: "images/products/schoppel/el-linio.jpg"
+  - image: "images/products/schoppel/el-linio-2.jpg"
   - image: "images/products/schoppel/el-linio.jpg"
 
 # product colors

@@ -39,7 +39,8 @@ img: "images/products/isager/alpaka-1.jpg"
 images:
   - image: "images/products/isager/alpaka-1.jpg"
   - image: "images/products/isager/alpaka-1-2.jpg"
-  - image: "images/products/isager/alpaka-1.jpg"
+  - image: "images/products/isager/alpaka-1-3.jpg"
+  - image: "images/products/isager/alpaka-1-4.jpg"
 
 # product colors
 farbimages:

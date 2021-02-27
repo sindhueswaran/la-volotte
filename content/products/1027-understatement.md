@@ -38,7 +38,7 @@ img: "images/products/atelier-zitron/understatement.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/atelier-zitron/understatement.jpg"
-  - image: "images/products/atelier-zitron/understatement.jpg"
+  - image: "images/products/atelier-zitron/understatement-2.jpg"
   - image: "images/products/atelier-zitron/understatement.jpg"
 
 # product colors

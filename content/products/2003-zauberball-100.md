@@ -38,8 +38,8 @@ img: "images/products/schoppel/zauberball-100.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/zauberball-100.jpg"
-  - image: "images/products/schoppel/zauberball-100.jpg"
-  - image: "images/products/schoppel/zauberball-100.jpg"
+  - image: "images/products/schoppel/zauberball-100-2.jpg"
+  - image: "images/products/schoppel/zauberball-100-3.jpg"
    
 
 # product colors

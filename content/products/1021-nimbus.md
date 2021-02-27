@@ -38,7 +38,7 @@ img: "images/products/atelier-zitron/nimbus.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/atelier-zitron/nimbus.jpg"
-  - image: "images/products/atelier-zitron/nimbus.jpg"
+  - image: "images/products/atelier-zitron/-2.jpg"
   - image: "images/products/atelier-zitron/nimbus.jpg"
 
 # product colors

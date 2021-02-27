@@ -39,7 +39,7 @@ img: "images/products/schoppel/alpaka-queen.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/alpaka-queen.jpg"
-  - image: "images/products/schoppel/alpaka-queen.jpg"
+  - image: "images/products/schoppel/alpaka-queen-2.jpg"
   - image: "images/products/schoppel/alpaka-queen.jpg"
 
 # product colors

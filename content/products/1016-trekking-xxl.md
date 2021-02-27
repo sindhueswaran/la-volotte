@@ -41,6 +41,7 @@ images:
   - image: "images/products/atelier-zitron/trekking-xxl.jpg"
   - image: "images/products/atelier-zitron/trekking-xxl-2.jpg"
   - image: "images/products/atelier-zitron/trekking-xxl-3.jpg"
+  - image: "images/products/atelier-zitron/trekking-xxl-4.jpg"
 
 # product colors
 farbimages:

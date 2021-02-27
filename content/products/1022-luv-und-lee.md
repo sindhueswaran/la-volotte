@@ -38,7 +38,7 @@ img: "images/products/atelier-zitron/luv-und-lee.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/atelier-zitron/luv-und-lee.jpg"
-  - image: "images/products/atelier-zitron/luv-und-lee.jpg"
+  - image: "images/products/atelier-zitron/luv-und-lee-2.jpg"
   - image: "images/products/atelier-zitron/luv-und-lee.jpg"
 
 # product colors

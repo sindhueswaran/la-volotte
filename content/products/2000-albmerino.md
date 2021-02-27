@@ -39,7 +39,7 @@ img: "images/products/schoppel/albmerino.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/albmerino.jpg"
-  - image: "images/products/schoppel/albmerino.jpg"
+  - image: "images/products/schoppel/albmerino-2.jpg"
   - image: "images/products/schoppel/albmerino.jpg"
 
 # product colors

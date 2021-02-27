@@ -41,6 +41,7 @@ images:
   - image: "images/products/schoppel/edition-6-2.jpg"
   - image: "images/products/schoppel/edition-6-3.jpg"
   - image: "images/products/schoppel/edition-6-4.jpg"
+  - image: "images/products/schoppel/edition-6-5.jpg"
 
 # product colors
 farbimages:

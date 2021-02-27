@@ -39,7 +39,8 @@ img:  "images/products/bc-garn/semilla-pura.jpg"
 images:
   - image: "images/products/bc-garn/semilla-pura.jpg" 
   - image: "images/products/bc-garn/semilla-pura-1.jpg" 
-  - image: "images/products/bc-garn/semilla-pura-2.jpg" 
+  - image: "images/products/bc-garn/semilla-pura-2.jpg"
+  - image: "images/products/bc-garn/semilla-pura-3.jpg"  
 
 # product colors
 farbimages:  

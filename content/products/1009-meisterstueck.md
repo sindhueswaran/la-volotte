@@ -38,7 +38,7 @@ img: "images/products/atelier-zitron/meisterstueck.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/atelier-zitron/meisterstueck.jpg"
-  - image: "images/products/atelier-zitron/meisterstueck.jpg"
+  - image: "images/products/atelier-zitron/meisterstueck-2.jpg"
   - image: "images/products/atelier-zitron/meisterstueck.jpg"
 
 # product colors

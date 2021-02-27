@@ -38,8 +38,8 @@ img: "images/products/schoppel/laceball-100.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/laceball-100.jpg"
+  - image: "images/products/schoppel/laceball-100-2.jpg"
   - image: "images/products/schoppel/laceball-100-3.jpg"
-  - image: "images/products/schoppel/laceball-100.jpg"
 
 # product colors
 farbimages:

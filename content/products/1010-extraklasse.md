@@ -38,8 +38,8 @@ img: "images/products/atelier-zitron/extraklasse.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/atelier-zitron/extraklasse.jpg"
-  - image: "images/products/atelier-zitron/extraklasse.jpg"
-  - image: "images/products/atelier-zitron/extraklasse.jpg"
+  - image: "images/products/atelier-zitron/extraklasse-2.jpg"
+  - image: "images/products/atelier-zitron/extraklasse-3.jpg"
 
 
 # product colors

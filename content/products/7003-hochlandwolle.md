@@ -39,7 +39,8 @@ img: "images/products/isager/hochlandwolle.jpg"
 images:
   - image: "images/products/isager/hochlandwolle.jpg"
   - image: "images/products/isager/hochlandwolle-2.jpg"
-  - image: "images/products/isager/hochlandwolle.jpg"
+  - image: "images/products/isager/hochlandwolle-3.jpg"
+  - image: "images/products/isager/hochlandwolle-4.jpg"
 
 # product colors
 farbimages:

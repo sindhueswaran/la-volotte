@@ -38,8 +38,9 @@ img: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
 # first image will be shown in the product page
 images:
   - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
-  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
-  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino.png"
+  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino-2.jpg"
+  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino-3.jpg"
+  - image: "images/products/seehawer-siebert-naturfasern/suedamerikanische-merino-4.jpg"
 
 
 # product colors

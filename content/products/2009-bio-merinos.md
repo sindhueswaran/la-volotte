@@ -38,8 +38,8 @@ img: "images/products/schoppel/bio-merinos.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/schoppel/bio-merinos.jpg"
-  - image: "images/products/schoppel/bio-merinos.jpg"
-  - image: "images/products/schoppel/bio-merinos.jpg"
+  - image: "images/products/schoppel/bio-merinos-2.jpg"
+  - image: "images/products/schoppel/bio-merinos-3.jpg"
 
 # product colors
 farbimages:

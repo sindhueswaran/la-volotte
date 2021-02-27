@@ -38,7 +38,7 @@ img: "images/products/atelier-zitron/wolkenspiel.jpg"
 # first image will be shown in the product page
 images:
   - image: "images/products/atelier-zitron/wolkenspiel.jpg"
-  - image: "images/products/atelier-zitron/wolkenspiel.jpg"
+  - image: "images/products/atelier-zitron/wolkenspiel-2.jpg"
   - image: "images/products/atelier-zitron/wolkenspiel.jpg"
 
 # product colors

@@ -38,8 +38,8 @@ img:  "images/products/bc-garn/bio-balance.jpg"
 # first image will be shown in the product page 
 images:
   - image:  "images/products/bc-garn/bio-balance.jpg"
-  - image:  "images/products/bc-garn/bio-balance.jpg"
-  - image:  "images/products/bc-garn/bio-balance.jpg"
+  - image:  "images/products/bc-garn/bio-balance-2.jpg"
+  - image:  "images/products/bc-garn/bio-balance-3.jpg"
 
 # product colors
 farbimages:
