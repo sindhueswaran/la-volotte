@@ -42,7 +42,7 @@ images:
   - image: "images/products/atelier-zitron/filigran-2.JPG"
   - image: "images/products/atelier-zitron/filigran-3.JPG"
   - image: "images/products/atelier-zitron/filigran-4.jpg"
-   - image: "images/products/atelier-zitron/filigran-5.jpg"
+  - image: "images/products/atelier-zitron/filigran-5.jpg"
 
 # product colors
 farbimages:
