@@ -39,8 +39,8 @@ img: "images/products/seehawer-siebert-naturfasern/turin.png"
 images:
   - image: "images/products/seehawer-siebert-naturfasern/turin.png"
   - image: "images/products/seehawer-siebert-naturfasern/turin-2.jpg"
-  - image: "images/farben/seehawer&siebert-naturfasern/turin-3.jpg"
-  - image: "images/farben/seehawer&siebert-naturfasern/turin-4.JPG"
+  - image: "images/farben/seehawer-siebert-naturfasern/turin-3.jpg"
+  - image: "images/farben/seehawer-siebert-naturfasern/turin-4.JPG"
 
 # product colors
 farbimages: 
