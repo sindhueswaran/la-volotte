@@ -8,7 +8,7 @@ description : "this is a meta description"
  
 
 Aufgrund der aktuellen Verordnungen in NRW ist La Volotte nicht regulär geöffnet. 
-Donnerstags von 15-18 Uhr und samstags von 11-15 Uhr kann vorbestellte Ware abgeholt werden. Diese Möglichkeit gibt es zunächst bis Februar.
+Donnerstags von 15-18 Uhr und Samstags von 11-15 Uhr kann vorbestellte Ware abgeholt werden. Diese Möglichkeit gibt es zunächst bis März.
 
 Das Strickcafe findet derzeit nicht statt.
 
