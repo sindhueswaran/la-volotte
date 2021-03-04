@@ -7,3 +7,5 @@ draft: false
 
 
  ### Danke für ihre Nachricht.
+ 
+ #### Für eine ausführliche Beratung schicken Sie gerne eine Mail oder rufen Sie zu den Öffnungszeiten (siehe Aktuelles) im Laden unter 0241 / 47587794 an.
