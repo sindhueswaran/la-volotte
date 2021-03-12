@@ -10,7 +10,7 @@
     <a href="#" onclick="document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefault()" class="float-up">
       <i class="ti-arrow-up up" style="font-size: 20px; color: #5AB51E;"></i>
     </a>
-    
+
     <div class="row" id="products">
       {{ range .Data.Pages }}
       <div class="col-lg-3 col-sm-6 mb-30  product-item">
@@ -26,7 +26,9 @@
               <img src="/images/nadelstaerke.png" class="card-img-top" alt=" " style="width: 8%;" /> 
               &nbsp  {{ .Params.nadel }}  </p>
             <div class="mb-4">
-              <span class="lead text-primary">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }}</s><br> 
+              <span class="lead text-primary">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }}</s>
+              <br>
+              <small> inkl. MwSt. zzgl. Versandkosten* </small> 
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary"
                   data-item-id="{{ .Params.ProductID }}"

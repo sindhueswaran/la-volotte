@@ -32,6 +32,8 @@
         <div class="my-4">
           <span class="lead text-primary font-weight-medium">{{ .Params.Dprice }} €</span> &nbsp <s>{{ .Params.PriceBefore }} </s> <br> 
           <span class="lead text-primary font-weight-medium">{{ .Params.cprice }}  <small>{{ .Params.cpricetext }} </small></span>
+        <small> inkl. MwSt. zzgl. Versandkosten* </small>
+          
           <p>{{ .Params.menge }}  &nbsp &nbsp <br> 
             <img src="/images/nadelstaerke.png" alt=" " style="width: 4%;" /> &nbsp  {{ .Params.nadel }} <br> 
             Lauflänge: {{ .Params.laenge }}  &nbsp &nbsp   </p>
@@ -39,8 +41,8 @@
         </div>
         <h5>Kurzbeschreibung</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
-        
 
+       
 
         <button class="snipcart-add-item btn  btn-outline-primary" id="my-button" 
         data-item-id="{{ .Params.ProductID }}"
@@ -53,7 +55,16 @@
         data-item-custom1-options="{{ .Params.Farben }}">
         in den Warenkorb
         </button>
-         
+
+        <p style="margin-top: 2rem;"> *
+          <small>Der Versand kostet pauschal € 6,00.<br>
+           Bei einer Bestellung ab € 80,00 versenden wir kostenfrei. <br>
+           Bei Abholung im Laden bitte den Gutschein "SELBSTABHOLUNG" beim Check-out verwenden.</small> </p>
+   
+
+
+
+
       </div>
       <div class="col-12 mt-5">
         <ul class="nav nav-tabs border-bottom-0" id="myTab" role="tablist">
