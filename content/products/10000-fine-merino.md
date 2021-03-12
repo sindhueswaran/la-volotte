@@ -54,4 +54,4 @@ farbimages:
 
 ---
 
-
+#### Die Farbkompositionen dieser Handfärbungen sind breit gefächert, und es gibt mehr als 300 verschiedene Färbungen. Bitte bei diesem Produkt Kontakt aufnehmen, um zu erfahren, was im Laden gerade vorrätig ist! Die Fotos sind Farbbeispiele.
