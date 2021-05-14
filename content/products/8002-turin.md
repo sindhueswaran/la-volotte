@@ -16,8 +16,8 @@ description : "60% Schurwolle, 20% Seide, 20% Ramie "
 farben : "Petrol|Aubergine|Orange|Rot|Dunkelblau|Hellblau|Sand|Naturweiß"
 
 # product Price
-dprice: "8,95"
-price: "8.95"
+dprice: "10,95"
+price: "10.95"
 priceBefore: ""
 menge: "100g"
 
