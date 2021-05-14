@@ -16,8 +16,8 @@ description : "75% Mohair, 25% Seide"
 farben : "0|100|12|28|30|33|36|37|3s|41|44|47|59|6|60|62|63|66|67|68|7s"
 
 # product Price
-dprice: "9,75"
-price: "9.75"
+dprice: "11,00"
+price: "11.00"
 priceBefore: ""
 menge: "25g"
 
