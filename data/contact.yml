@@ -9,14 +9,14 @@ contact:
 
   # opennig hour
   opennigHour:
-    title : "Öffnungszeiten Herbst/Winter"
+    title : "Öffnungszeiten"
     dayTimeList:
       - dayTime : "Montag: geschlossen"
-      - dayTime : "Dienstag: 14:30 – 18:30 Uhr"
-      - dayTime : "Mittwoch: 14:30 – 18:30 Uhr"
-      - dayTime : "Donnerstag: 10:00 – 15:00 Uhr"
-      - dayTime : "Freitag: 14:30 – 18:30 Uhr"
-      - dayTime : "Samstag: 10:00 – 15:00 Uhr"
+      - dayTime : "Dienstag: geschlossen"
+      - dayTime : "Mittwoch: geschlossen"
+      - dayTime : "Donnerstag: 15:00 – 18:00 Uhr"
+      - dayTime : "Freitag: 11:00 – 15:00 Uhr"
+      - dayTime : "Samstag: 11:00 – 15:00 Uhr"
       - dayTime : "Sonntag: geschlossen"
 
 ####################### google map ########################
