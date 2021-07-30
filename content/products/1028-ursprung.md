@@ -16,8 +16,8 @@ description : "100% Schurwolle (Merino extrafein aus Tasmanien) "
 farben : "19|18|17|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15"
 
 # product Price
-dprice: "7,50"
-price: "7.5"
+dprice: "7,95"
+price: "7.95"
 priceBefore: ""
 menge: "50g"
 
