@@ -5,11 +5,6 @@ draft: false
 description : "this is a meta description"
 ---
 
- 
+Wir machen Urlaub! **„La Volotte“** ist vom 1.8. bis 15.8. geschlossen! Auch der Onlineverkauf hat Pause!
+Ab dem 19.8. sind wir wieder für Sie da!
 
-Aufgrund der aktuellen Verordnungen in NRW ist La Volotte nicht regulär geöffnet. 
-Donnerstags von 15-18 Uhr, Freitag und Samstag von 11-15 Uhr kann vorbestellte Ware abgeholt werden. Diese Möglichkeit gibt es zunächst bis März.
-
-Das Strickcafe findet derzeit nicht statt.
-
-Als besonderes Angebot gibt es zur Zeit „Glanzpunkt“ von Atelier Zitron, solange der Vorrat reicht. Bitte aktuelle Farben erfragen! 
