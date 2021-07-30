@@ -16,10 +16,10 @@ description : "70% Schurwolle, 30% Maulbeerseide "
 farben : "07[+0.45]|08[+0.45]|06[+0.45]|3056|3055|3057|3053|3052|3050|05[+0.45]|04[+0.45]|02[+0.45]|10|11|14|3004|3030|3031|3037|3038|3039"
 
 # product Price
-dprice: "19,50"
+dprice: "19,95"
 cprice: "19,95 €"
 cpricetext: "(handgefärbt)"
-price: "19.5"
+price: "19.95"
 priceBefore: " "
 menge: "100g"
 
