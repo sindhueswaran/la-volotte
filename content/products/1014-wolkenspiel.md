@@ -16,8 +16,8 @@ description : "80 % Schurwolle, 20 % PA "
 farben : "2245|2246|2252|2232|2233|2223|2241|2240"
 
 # product Price
-dprice: "14,50"
-price: "14.5"
+dprice: "14,95"
+price: "14.95"
 priceBefore: ""
 menge: "100g"
 
