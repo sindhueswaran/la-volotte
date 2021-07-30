@@ -15,8 +15,8 @@ description : "100% feinste Schurwolle (Superwash), Babygarn"
 farben : "01|02|06|07|05|04|08|03|09|13|14|16|18|10|15|17|11|12|23|25|19|26|22|20|28|27|24|21"
 
 # product Price
-dprice: "4,75"
-price: "4.75"
+dprice: "4,95"
+price: "4.95"
 priceBefore: " "
 menge: "25g"
 
