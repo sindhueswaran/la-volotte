@@ -16,8 +16,8 @@ description : "65% Schurwolle, 35% Seide "
 farben : "9030|9033|9034|04|03|02|9023|9013|9024|9025|9014|9021|9012|9011|9029|9018|9028|9019|9010"
 
 # product Price
-dprice: "17,50"
-price: "17.5"
+dprice: "18,95"
+price: "18.95"
 priceBefore: ""
 menge: "100g"
 
