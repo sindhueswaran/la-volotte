@@ -17,5 +17,3 @@ Wir haben im Herbst neue Öffnungszeiten! Bitte beachten!!!
    Freitag: 15:00 – 18:00 Uhr <br/>
    Samstag: 11:00 – 15:00 Uhr <br/>
    Sonntag: geschlossen
-
-
