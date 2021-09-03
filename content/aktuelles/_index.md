@@ -5,8 +5,8 @@ draft: false
 description : "this is a meta description"
 ---
 
-Wir haben im Herbst neue Öffnungszeiten! Bitte beachten!!!  
-\
+Wir haben im Herbst neue Öffnungszeiten! Bitte beachten!!!
+
 \
 \
 
