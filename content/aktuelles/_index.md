@@ -5,6 +5,4 @@ draft: false
 description : "this is a meta description"
 ---
 
-Wir machen Urlaub! **„La Volotte“** ist vom 1.8. bis 15.8. geschlossen! Auch der Onlineverkauf hat Pause!
-Ab dem 19.8. sind wir wieder für Sie da!
-
+Wir haben im Herbst neue Öffnungszeiten! Bitte beachten!!!
