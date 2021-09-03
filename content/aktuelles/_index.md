@@ -9,9 +9,10 @@ Wir haben im Herbst neue Öffnungszeiten! Bitte beachten!!!
 
 
 
-### Öffnungszeiten
-
-
+### Öffnungszeiten  
+\
+\
+\
    Montag: geschlossen  
    
    Dienstag: geschlossen  
