@@ -6,8 +6,8 @@ description : "this is a meta description"
 ---
 
 Wir haben im Herbst neue Öffnungszeiten! Bitte beachten!!!
-
-
+\
+\
 
 ### Öffnungszeiten  
 \
