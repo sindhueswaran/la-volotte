@@ -6,7 +6,5 @@ description : "this is a meta description"
 ---
 
 
-Von Karfreitag, 15.4. bis Dienstag nach Ostern, 19.4.22 bleibt La Volotte geschlossen.
-Wir haben in dieser Woche also nur am Mittwoch und am Donnerstag geöffnet!
-Wir wünschen allen Kundinnen frohe Ostertage und viel Freude beim Stricken!
-Der Onlineshop ist natürlich erreichbar, aber wir versenden dann nach Ostern wieder!
+Heute und morgen ( 6. und 7. Mai ) bleibt La Volotte geschlossen! Am Mittwoch, 11.5. sind wir wieder da!
+Dankeschön und liebe Grüße!
