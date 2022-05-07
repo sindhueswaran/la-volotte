@@ -68,7 +68,26 @@
 
 </footer>
 
- 
+ <script defer 
+        type="application/javascript"
+        src="https://cdn.kiprotect.com/klaro/latest/klaro.js">
+</script>
+
+<!-- WIDGET CONFIGURATION -->
+<script>
+  var klaroConfig = {
+      privacyPolicy: '/privacy.html',
+      apps : [
+          {
+              name : 'google-analytics',
+              default: true,
+              title : 'Google Analytics',
+              purposes : ['statistics'],
+              cookies : [/^ga/i]
+          }
+      ]
+  }
+</script>
 
 
 {{ "<!-- Google Map API -->" | safeHTML }}
