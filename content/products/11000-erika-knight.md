@@ -3,7 +3,7 @@ title: "Studio Linen"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 categories: "erika-knight"
-tags: ["Leinen", "Polyamid", "3,0-4,0"]
+tags: ["Leinen", "3,0-4,0"]
 
 nadel: "3,0-4,0" 
 laenge: "120m"	
