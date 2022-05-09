@@ -32,14 +32,14 @@ type: "products"
 
 # type must be "products"
 brand: "Erika Knight"
-img: "images/products/erika-knight/studio-linen/erika-knight-1.jpg"   
+img: "images/products/erika-knight/studio-linen-1.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/erika-knight/studio-linen/erika-knight-1.jpg"
-  - image: "images/products/erika-knight/studio-linen/erika-knight-1.jpg"
-  - image: "images/products/erika-knight/studio-linen/erika-knight-1.jpg" 
+  - image: "images/products/erika-knight/studio-linen-1.jpg"
+  - image: "images/products/erika-knight/studio-linen-1.jpg"
+  - image: "images/products/erika-knight/studio-linen-1.jpg" 
 
 # product colors
 farbimages:
