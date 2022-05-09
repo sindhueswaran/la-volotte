@@ -89,4 +89,4 @@ farbimages:
 
 ---
 
-
+#### Nicht alle Farben von Eco Denim sind lieferbar. Bitte anfragen.
