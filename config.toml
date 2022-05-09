@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://la-volotte.de/"
+baseURL = "http://example.org/"
 languageCode = "de-DE"
 title = "La Volotte"
 summaryLength = "20"
@@ -121,6 +121,11 @@ disqusShortname = ""
   name = "Franziska Uhl"
   URL = "/categories/franziska-uhl/"
   weight = 11
+
+  [[menu.brands]]
+  name = "Erika Knight"
+  URL = "/categories/erika-knight/"
+  weight = 12
 
   ############# Materials menu #############
   [[menu.materials]]
