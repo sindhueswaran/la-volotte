@@ -1,7 +1,7 @@
 ---
 title: "Filigran"
 date: 2019-10-17T11:22:16+06:00
-draft: true
+draft: false
 categories: "Atelier Zitron"
 tags: ["Schurwolle", "2.5-3.5"]
 nadel: "2,5-3,5" 
@@ -12,13 +12,13 @@ laenge: "600m"
 description : "100% Schurwolle"
 
 # Farben
-farben : "17[+3.00]|15[+3.00]|16[+3.00]|2522|66[+3.00]|12[+3.00]|02[+3.00]|2501|2505|2511|2515|2523|2530|2534"
+farben : "17[+2.00]|15[+2.00]|16[+2.00]|2522|66[+2.00]|12[+2.00]|02[+2.00]|2501|2505|2511|2515|2523|2530|2534"
 
 # product Price
-dprice: "14,95"
-cprice: "17,95 €"
+dprice: "17,50"
+cprice: "19,50 €"
 cpricetext: "(handgefärbt)"
-price: "14.95"
+price: "17.50"
 priceBefore: " "
 menge: "100g"
 

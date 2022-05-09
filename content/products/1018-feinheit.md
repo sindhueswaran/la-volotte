@@ -10,19 +10,19 @@ laenge: "360m"
 
 
 # meta description
-description : "100% feinste Schurwolle "
+description : "100% feinste Schurwolle."
 
 # Farben
 farben : "1600|1602|1604|1605|1607|1608|1609|1612|1615|1616|1617|1618|1619|1622|1624|1627|1626|1623|1625"
 
 # product Price
-dprice: "18,50"
-price: "18.5"
-priceBefore: " "
+dprice: "14,90"
+price: "14.90"
+priceBefore: "19,90 "
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% feinste Schurwolle, Babygarn"
+shortDescription: "100% feinste Schurwolle, Babygarn, Ausverkaufspreis solange Vorrat reicht."
 
 #product ID
 productID: "1018"

@@ -16,8 +16,8 @@ description : "100% Baumwolle (Recyclinggarn) "
 farben : "744|745|746|747|748|749|750|751|752|753|754|755|756|757|758|759|760|761|762|763|764"
 
 # product Price
-dprice: "3,90"
-price: "3.9"
+dprice: "4,50"
+price: "4.50"
 priceBefore: " "
 menge: "50g"
 

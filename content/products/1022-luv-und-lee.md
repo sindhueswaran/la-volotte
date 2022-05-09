@@ -16,8 +16,8 @@ description : "100% Schurwolle "
 farben : "300|301|302|303|304|305|306|308|310|313|314|315|316|317|318|319|50|51|52|53|54|60"
 
 # product Price
-dprice: "6,95"
-price: "6.95"
+dprice: "7,50"
+price: "7.5"
 priceBefore: ""
 menge: "50g"
 

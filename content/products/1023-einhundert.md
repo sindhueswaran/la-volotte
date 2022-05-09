@@ -16,8 +16,8 @@ description : "100% Schurwolle "
 farben : "608|610|609|601"
 
 # product Price
-dprice: "12,95"
-price: "12.95"
+dprice: "13,50"
+price: "13.50"
 priceBefore: " "
 menge: "100g"
 

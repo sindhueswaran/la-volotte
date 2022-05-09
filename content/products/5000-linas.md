@@ -16,13 +16,13 @@ description : "100% Leinen "
 farben : "110|125|130|155|300|318|355|360|387|400|412|415|480|495|620|647|650|651|708|718|740|750|760|768|769|770|830|832|890|920|940"
 
 # product Price
-dprice: "7,20"
-price: "7.2"
-priceBefore: " "
+dprice: "5,00"
+price: "5.00"
+priceBefore: "7,20"
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% Leinen, Leinengarn für sommerliche Projekte"
+shortDescription: "100% Leinen, Leinengarn für sommerliche Projekte im Ausverkauf!"
 
 #product ID
 productID: "5000"

@@ -16,13 +16,13 @@ description : "55% Schurwolle, 45% Viscose "
 farben : "5001|5003|5004|5006|5009|5010|5013|5014|5015|5022|5024|5025|5026|5028|5029|5030|5031|5033|5034|5036|5501|5019|5035|5043|5045|5042|5044|5040|5041"
 
 # product Price
-dprice: "6,95"
-price: "6.95"
+dprice: "5,00"
+price: "5.00"
 priceBefore: ""
 menge: "50g"
 
 # Product Short Description
-shortDescription: "55% Schurwolle, 45% Viscose, einfädiges, glänzendes Garn"
+shortDescription: "55% Schurwolle, 45% Viscose, einfädiges, glänzendes Garn, im Ausverkauf, nur noch Restfarben"
 
 #product ID
 productID: "1020"
