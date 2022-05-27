@@ -6,5 +6,5 @@ description : "this is a meta description"
 ---
 
 
-Heute und morgen ( 6. und 7. Mai ) bleibt La Volotte geschlossen! Am Mittwoch, 11.5. sind wir wieder da!
-Dankeschön und liebe Grüße!
+Vom 1.-4.Juni sind wir im Pfingsturlaub. Also noch schnell heute oder morgen mit den schönen Sommergarnen eindecken!
+Am 8. Juni sind wir wieder da!
