@@ -32,7 +32,7 @@ type: "products"
 
 # type must be "products"
 brand: "Atelier Zitron"
-img: "images/products/atelier-zitron/yak.jpg"   
+img: "images/products/atelier-zitron/ramie.jpg"   
 
 # product Images
 # first image will be shown in the product page
