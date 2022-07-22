@@ -17,8 +17,8 @@ farben : "Echte Abwechslung| Altes Rom| Rosige Zeiten| Junges Gemüse| Plan B| A
 
 
 # product Price
-dprice: "11,50"
-price: "11.50"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 

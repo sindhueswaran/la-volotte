@@ -16,7 +16,7 @@ description : "60% Maulbeerseide, 40% Modal/ Tencel "
 farben : "8027|8022|8023|8010|8028|8014|8015|8024|8026|8021|8019|8020|8012|"
 
 # product Price
-dprice: "-"
+dprice: "Farben und Preise erfragen"
 price: "0"
 priceBefore: "17,95 €"
 menge: "100g"

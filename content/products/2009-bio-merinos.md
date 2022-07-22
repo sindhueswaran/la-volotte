@@ -16,8 +16,8 @@ description : "95% Schurwolle (Merino GOTS) und 5% Leinen "
 farben : "Bernstein|Senf|Stränge|Feuer|Rot Mélange|Kardinal|Cyclam|Cyclam Mélange|Jeans|Sepia|Sepia Mélange|Schwarzmelange|Graumelange|Weiss-Natur"
 
 # product Price
-dprice: "6,75"
-price: "6.75"
+dprice: "7,50"
+price: "7.5"
 priceBefore: " "
 menge: "50g"
 

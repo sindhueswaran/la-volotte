@@ -17,8 +17,8 @@ farben : " Moonlighter| Basalt|Bordeaux| Armeeblau| Tinte| Schilf| Sand am Meer|
 
 
 # product Price
-dprice: "12,90"
-price: "12.90"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 

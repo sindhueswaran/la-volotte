@@ -16,8 +16,8 @@ description : "75% Schurwolle und 25% PA"
 farben : "Schatten|Stone-Washed|Fuchsienbeet|Frische Fische|durch die Blume|Charisma|Deine blaue Augen!|Oktoberfest|Zauberwald|Monochrom|Smoking Area|Bunte Gasse|Herbstzeitlos|Türkismühle|Tonspur|Liminosa|Aldebaran"
 
 # product Price
-dprice: "12,50"
-price: "12.5"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 menge: "100g"
 

@@ -17,8 +17,8 @@ farben : "Urgestein|Sommermärchen|Maskenzauber|Meer und mehr|Erntezeit|Wasserze
 
 
 # product Price
-dprice: "12,50"
-price: "12.50"
+dprice: "12,90"
+price: "12.9"
 priceBefore: ""
 menge: "100g"
 

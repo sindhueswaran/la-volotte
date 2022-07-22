@@ -16,8 +16,8 @@ description : "100% extrafeine  Schurwolle (Merino)"
 farben : "Waldgrenze|Basalt|Runde Rot|Rechtes Licht|Whiskey|Hut ab|Nachtfalter|Samt + Sonders|Papaya|Raw Denim|Meeresblick|Rosenkavalier|Sand am Meer|Bernstein zimmer|Ultra Rot|Raw Chocolate"
 
 # product Price
-dprice: "15,90"
-price: "15.9"
+dprice: "16,50"
+price: "16.5"
 priceBefore: ""
 menge: "100g"
 

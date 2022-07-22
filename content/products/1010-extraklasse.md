@@ -16,8 +16,8 @@ description : "100% Mohair "
 farben : "4514|4512|4513|4516|4517|4450|4451|4452|4453|4500|4502|4504|4505|4506|4507|4508|4509|4510|4511"
 
 # product Price
-dprice: "8,5"
-price: "8.5"
+dprice: "8,95"
+price: "8.95"
 priceBefore: " "
 menge: "25g"
 

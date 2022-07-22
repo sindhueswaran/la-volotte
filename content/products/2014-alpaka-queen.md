@@ -17,8 +17,8 @@ farben : "Rotkappe|Amethyst|Camel|Ocker|Schwarz|Beige-Meliert|Stein|Alpakabraun|
 
 
 # product Price
-dprice: "12,50"
-price: "12.5"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 menge: "100g"
 

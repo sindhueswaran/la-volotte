@@ -16,8 +16,8 @@ description : "30% Schurwolle, 30% Seide, 40% Tencel "
 farben : "01|02|03|04|05|06|07|08|09|10|11|12|13|17|14|15|16"
 
 # product Price
-dprice: "7,95"
-price: "7.95"
+dprice: "8,95"
+price: "8.95"
 priceBefore: ""
 menge: "50g"
 

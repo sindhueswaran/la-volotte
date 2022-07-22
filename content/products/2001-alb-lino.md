@@ -16,8 +16,8 @@ description : "85% Schurwolle und 15% Leinen "
 farben : "Old Gold|Savanne Mélange|Papaya|Rosé Mélange|Bordeaux|Blau Mélange|Primär-Blau|Marine|Wald|Ocker|Mokkamelange|Schwarzmelange|Mittelgraumelange|Natur"
 
 # product Price
-dprice: "10,50"
-price: "10.5"
+dprice: "11,50"
+price: "11.5"
 priceBefore: " "
 menge: "100g"
 

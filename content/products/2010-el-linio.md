@@ -16,8 +16,8 @@ description : "100% Leinen "
 farben : "Schwarzarbeiter|Basalt|Ziegelrot|Armeeblau|Tinte|Grünfutter|Schilf|Botenstoff|Sand am Meer|Rosarium|Bernstein zimmer|Lucid|Himbeersorbet|Weiß"
 
 # product Price
-dprice: "6,95"
-price: "6.95"
+dprice: "7,45"
+price: "7.45"
 priceBefore: " "
 menge: "50g"
 

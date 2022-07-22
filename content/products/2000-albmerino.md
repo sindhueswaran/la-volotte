@@ -14,11 +14,11 @@ laenge: "100m"
 description : "100% Schurwolle "
 
 # Farben
-farben : "Beige-Meliert|Mokkamelange|Schwarzmelange|Naturmelange |Hellgrau Melange|Graumelange"
+farben : "Beige-Meliert|Mokkamelange|Schwarzmelange|Naturmelange|Hellgrau Melange|Graumelange"
 
 # product Price
-dprice: "5,25"
-price: "5.25"
+dprice: "5,75"
+price: "5.75"
 priceBefore: " "
 menge: "50g"
 

@@ -17,8 +17,8 @@ farben : "Roter Ocker|Stachelbeere|Soft Pink|Malachit|Workwear|Elefantenhaut|Raw
 
 
 # product Price
-dprice: "10,90"
-price: "10.90"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 

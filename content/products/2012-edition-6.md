@@ -16,8 +16,8 @@ description : "100% feine Schurwolle (Superwash)  "
 farben : "Domino|Englischer Garten|Bodenprobe|Waschtag|Wärmebild|Taupunkt|Gartentage|Strandcafé|Ipanema Beach|Spurenelemente|Tante Emma|Blauschleier|Rosetta|Teils Heiter|Holzklasse"
 
 # product Price
-dprice: "7,75"
-price: "7.75"
+dprice: "8,25"
+price: "8.25"
 priceBefore: " "
 menge: "50g"
 

@@ -16,8 +16,8 @@ description : "100% Schurwolle"
 farben : "Kunterbunt| Fliederduft| Papagei| Heißes Eisen| Evergreen| Rauchzeichen| Blasser Schimmer| Blaukraut bleibt Blaukraut| Sphinx| Sofaecke| Teezeremonie| Zone Aquatique| Licht im Schacht| Villa Rosa| Red to Go| Blaue Lagune| Schlichte Fichte| Herbstmeister| Komfortzone| Frühblüher| Streiflichter| Kichererbse| Mittelland| Lange Bank| Vitamin C| Waldmeister| Alles Paletti"
 
 # product Price
-dprice: "13,50"
-price: "13.5"
+dprice: "14,50"
+price: "14.5"
 priceBefore: ""
 menge: "100g"
 

@@ -17,8 +17,8 @@ farben : "Herbstwind|U-Boot|Stone-Washed|Herbstsonne|Frische Fische|Flussbett|Fl
 
 
 # product Price
-dprice: "12,90"
-price: "12.90"
+dprice: "13,90"
+price: "13.9"
 priceBefore: ""
 menge: "100g"
 

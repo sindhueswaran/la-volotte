@@ -16,9 +16,9 @@ description : "55% Schurwolle und 45% Baumwolle "
 farben : "01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30"
 
 # product Price
-dprice: "6,50"
-price: "6.5"
-priceBefore: ""
+dprice: "5,00"
+price: "5.00"
+priceBefore: "6,50"
 menge: "50g"
 
 # Product Short Description

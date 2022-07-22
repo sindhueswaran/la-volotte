@@ -16,8 +16,8 @@ description : "75% Schurwolle (superwash) 25% Hanf "
 farben : "16|22|11|12|13|27|26|25|23|24|14|17|20|15|18|19"
 
 # product Price
-dprice: "13,50"
-price: "13.5"
+dprice: "14,95"
+price: "14.95"
 priceBefore: ""
 menge: "100g"
 

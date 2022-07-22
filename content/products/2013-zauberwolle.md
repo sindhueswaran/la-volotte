@@ -16,8 +16,8 @@ description : "100% Schurwolle"
 farben : "Herbstwind|Schatten|Stone-Washed|Fuchsienbeet|Fliederduft|Papagei|Kleiner Fuchs|Gebrannte Mandeln|Alter Schwede|Teezeremonie|Gelbfilter|Rush Hour|Waldfrau|Streiflichter|Kichererbse|Aldebaran|Hochofen|Alles Paletti"
 
 # product Price
-dprice: "11,50"
-price: "11.5"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 menge: "100g"
 

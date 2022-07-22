@@ -17,8 +17,8 @@ description : "100% Maulbeerhaspelseide"
 farben : "053|050|052|054|051|055|034|041|040|038|001|002|003|004|005|008|011|020|024|057|056|059|058"
 
 # product Price
-dprice: "31,95"
-price: "31.95"
+dprice: "32,95"
+price: "32.95"
 priceBefore: ""
 menge: "100g"
 

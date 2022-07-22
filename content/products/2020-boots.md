@@ -17,8 +17,8 @@ farben : "Fisherman s friend|ein Spritzer Limette|Im Schuhgeschäft|Platz an der
 
 
 # product Price
-dprice: "11,50"
-price: "11.50"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 
