@@ -1,28 +1,28 @@
 ---
-title: "Form und Farbe"
+title: "Trekking 6-fach"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 categories: "Atelier Zitron"
-tags: ["Schurwolle", "15.0"]	
+tags: ["Schurwolle", "Nylon", "15.0"]	
 
 nadel: "15,0" 
 laenge: "50m"	
 
 
 # meta description
-description : "100% Schurwolle "
+description : "75%  Schurwolle,superwash , 25% Nylon"
 
 # Farben
 farben : "50|51|53|54|55|56|57|58|01|02|03|05"
 
 # product Price
-dprice: "15,95"
-price: "15.95"
+dprice: "13,95"
+price: "13.95"
 priceBefore: " "
-menge: "100g"
+menge: "150g"
 
 # Product Short Description
-shortDescription: "100% Schurwolle, dickes, weiches Garn für Winteraccessoires"
+shortDescription: "75%  Schurwolle,superwash , 25% Nylon, Wandersockengarn"
 
 #product ID
 productID: "1008"
