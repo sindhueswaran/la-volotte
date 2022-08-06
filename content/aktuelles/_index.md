@@ -6,5 +6,4 @@ description : "this is a meta description"
 ---
 
 
-Vom 1.-4.Juni sind wir im Pfingsturlaub. Also noch schnell heute oder morgen mit den schönen Sommergarnen eindecken!
-Am 8. Juni sind wir wieder da!
+Liebe Kundinnen! Vom 10. August bis einschließlich 31.August machen wir Sommerpause! Wer noch schnell was braucht, kann gerne morgen, am 6. August von 11-15 Uhr kommen! Allen eine gute Zeit, ein schönes Strickzeug in der Hand und für den Herbst viele neue Ideen!
