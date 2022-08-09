@@ -10,10 +10,10 @@ laenge: "50m"
 
 
 # meta description
-description : "75%  Schurwolle,superwash , 25% Nylon"
+description : "75%  Schurwolle, superwash, 25% Nylon"
 
 # Farben
-farben : "50|51|53|54|55|56|57|58|01|02|03|05"
+farben : "1999|1998|1859|1860|1850|1856|1861"
 
 # product Price
 dprice: "13,95"
@@ -22,7 +22,7 @@ priceBefore: " "
 menge: "150g"
 
 # Product Short Description
-shortDescription: "75%  Schurwolle,superwash , 25% Nylon, Wandersockengarn"
+shortDescription: "75%  Schurwolle superwash, 25% Nylon, Wandersockengarn "
 
 #product ID
 productID: "1008"
@@ -32,42 +32,31 @@ type: "products"
 
 # type must be "products"
 brand: "Atelier Zitron"
-img: "images/products/atelier-zitron/form-und-farbe.jpg"   
+img: "images/products/atelier-zitron/trekking-6-fach.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/atelier-zitron/form-und-farbe.jpg"
-  - image: "images/products/atelier-zitron/form-und-farbe.jpg"
-  - image: "images/products/atelier-zitron/form-und-farbe.jpg"
+  - image: "images/products/atelier-zitron/trekking-6-fach.jpg"
+  - image: "images/products/atelier-zitron/trekking-6-fach.jpg"
+  - image: "images/products/atelier-zitron/trekking-6-fach.jpg"
 
 # product colors
 farbimages:
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2486_50_1.jpg"	
-  farbtitle: "50"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2489_51_1.jpg"	
-  farbtitle: "51"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2497_53_1.jpg"	
-  farbtitle: "53"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2500_54_1.jpg"	
-  farbtitle: "54"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2503_55_1.jpg"	
-  farbtitle: "55"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2506_56_1.jpg"	
-  farbtitle: "56"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2510_57_1.jpg"	
-  farbtitle: "57"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2510_58_1.jpg"	
-  farbtitle: "58"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2740_01_1.jpg"	
-  farbtitle: "01"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2741_02_1.jpg"	
-  farbtitle: "02"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2742_03_1.jpg"	
-  farbtitle: "03"
-- farbimg: "images/farben/atelier-zitron/form-und-farbe/form_und_farbe_2744_05_1.jpg"	
-  farbtitle: "05"
-
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_2078_1999_l.jpg"	
+    farbtitle: "1999"
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_2082_1998_l.jpg"	
+    farbtitle: "1998"
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_0825_1859_l.jpg"	
+    farbtitle: "1859"
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_0826_1860_l.jpg"	
+    farbtitle: "1860"
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_9918_1850_l.jpg"	
+    farbtitle: "1850"
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_9920_1856_l.jpg"	
+    farbtitle: "1856"
+  - farbimg: "images/farben/atelier-zitron/trekking-6-fach/trekking_6fach_tweed_9924_1861_l.jpg"	
+    farbtitle: "1861"
 ---
 
 
