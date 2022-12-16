@@ -6,4 +6,8 @@ description : "this is a meta description"
 ---
 
 
-Liebe Kundinnen! Vom 10. August bis einschließlich 31.August machen wir Sommerpause! Wer noch schnell was braucht, kann gerne morgen, am 6. August von 11-15 Uhr kommen! Allen eine gute Zeit, ein schönes Strickzeug in der Hand und für den Herbst viele neue Ideen!
+La Volotte ist noch bis zum 23.12. geöffnet, über Heiligabend und die Feiertage geschlossen und dann vom 28.-30.12. wieder geöffnet.
+
+Danach machen wir Winterschlaf bis zum 10.1.23 und öffnen ab Mittwoch, dem 11.1.23 wieder!
+
+Wir wünschen allen fröhliche Festtage und für 2023 alles Gute, viel Gesundheit und das Glück, ein schönes Strickzeug in der Hand zu haben!
