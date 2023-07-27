@@ -6,4 +6,4 @@ description : "this is a meta description"
 ---
 
 
-Heute, am 17.6. ist La Volotte geschlossen. Ab nächster Woche haben wir Sommer-Öffnungszeiten: Do 15-18 Uhr, Fr 15-18 Uhr und Samstag 11-15 Uhr. Und nach Vereinbarung!
+La Volotte hat Sommerpause! Am 10.8. sind wir wieder da!
