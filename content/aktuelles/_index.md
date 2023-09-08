@@ -5,5 +5,6 @@ draft: false
 description : "this is a meta description"
 ---
 
-
-La Volotte hat Sommerpause! Am 10.8. sind wir wieder da!
+Derzeit haben wir
+Donnerstag und Freitag von 15 - 18 Uhr und Samstag von 11 - 15 Uhr geöffnet!
+Mittwoch ist geschlossen!
