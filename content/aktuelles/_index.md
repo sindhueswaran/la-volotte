@@ -5,8 +5,4 @@ draft: false
 description : "this is a meta description"
 ---
 
-Derzeit haben wir
-
-Donnerstag und Freitag von 15 - 18 Uhr und Samstag von 11 - 15 Uhr geöffnet!
-
-Mittwoch ist geschlossen!
+Wegen einer Operation bleibt La Volotte am 15. und 16. September geschlossen. Wer etwas braucht, bitte heute Nachmittag kommen!
