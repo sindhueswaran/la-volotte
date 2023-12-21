@@ -5,4 +5,4 @@ draft: false
 description : "this is a meta description"
 ---
 
-Wegen einer Operation bleibt La Volotte am 15. und 16. September geschlossen. Wer etwas braucht, bitte heute Nachmittag kommen!
+Am 22.12. sind wir noch da, ab 23.12. bleibt La Volotte bis einschließlich 6.1. geschlossen. Wir brauchen eine Winterpause! Wir wünschen allen Kundinnen eine schöne Weihnachtszeit und für das Neue Jahr alles Gute!
