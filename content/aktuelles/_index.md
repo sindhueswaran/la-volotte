@@ -5,4 +5,6 @@ draft: false
 description : "this is a meta description"
 ---
 
-Am 22.12. sind wir noch da, ab 23.12. bleibt La Volotte bis einschließlich 6.1. geschlossen. Wir brauchen eine Winterpause! Wir wünschen allen Kundinnen eine schöne Weihnachtszeit und für das Neue Jahr alles Gute!
+Wir machen Osterferien! Die Woche vor und die Woche nach Ostern bleibt La Volotte geschlossen. Wer noch etwas braucht, kann morgen, Samstag, 23. März von 11-15 Uhr fündig werden! 
+
+Am 11. April sind wir wie gewohnt wieder da! Frohe Ostern!
