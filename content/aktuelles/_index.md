@@ -5,6 +5,5 @@ draft: false
 description : "this is a meta description"
 ---
 
-Wir machen Osterferien! Die Woche vor und die Woche nach Ostern bleibt La Volotte geschlossen. Wer noch etwas braucht, kann morgen, Samstag, 23. März von 11-15 Uhr fündig werden! 
-
-Am 11. April sind wir wie gewohnt wieder da! Frohe Ostern!
+Samstag, 18.5.24 bleibt La Volotte wegen Krankheit geschlossen. 
+Wir bitten um Verständnis!
