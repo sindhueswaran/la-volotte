@@ -5,5 +5,4 @@ draft: false
 description : "this is a meta description"
 ---
 
-Samstag, 18.5.24 bleibt La Volotte wegen Krankheit geschlossen. 
-Wir bitten um Verständnis!
+Am 13. und 14. Juni bleibt La Volotte geschlossen. Diese Woche haben wir nur am Samstag, dem 15. Juni geöffnet! Die ganze nächste Woche ist ebenfalls geschlossen!!! Am 27. Juni sind wir wieder da!!! 
