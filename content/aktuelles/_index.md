@@ -5,4 +5,4 @@ draft: false
 description : "this is a meta description"
 ---
 
-Am 13. und 14. Juni bleibt La Volotte geschlossen. Diese Woche haben wir nur am Samstag, dem 15. Juni geöffnet! Die ganze nächste Woche ist ebenfalls geschlossen!!! Am 27. Juni sind wir wieder da!!! 
+![alt d](images/ybimladaen.jpg)
