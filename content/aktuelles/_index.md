@@ -5,5 +5,3 @@ draft: false
 description : "this is a meta description"
 image: images/urlaub.jpg
 ---
-
-![alt d](./urlaub.jpg)
