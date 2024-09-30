@@ -6,4 +6,4 @@ description : "this is a meta description"
 image:
 ---
 
-Diese Woche bleibt La Volotte geschlossen, wir hängen ein bisschen was an den Feiertag und holen Luft, bevor der Ausverkauf beginnt!
+### Diese Woche bleibt La Volotte geschlossen, wir hängen ein bisschen was an den Feiertag und holen Luft, bevor der Ausverkauf beginnt!
