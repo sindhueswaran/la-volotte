@@ -6,4 +6,5 @@ description : "this is a meta description"
 image:
 ---
 
-### Diese Woche bleibt La Volotte geschlossen, wir hängen ein bisschen was an den Feiertag und holen Luft, bevor der Ausverkauf beginnt!
+Bis Ende Oktober haben wir Donnerstag und Freitag Nachmittag wie gewohnt von 15-18 Uhr geöffnet und Samstag von 11-15 Uhr.
+Ab November bis Weihnachten startet der Ausverkauf und wir sind dann freitags von 11-18 Uhr und samstags von 11-15 Uhr da!
