@@ -6,5 +6,5 @@ description : "this is a meta description"
 image:
 ---
 
-#### is Ende Oktober haben wir Donnerstag und Freitag Nachmittag wie gewohnt von 15-18 Uhr geöffnet und Samstag von 11-15 Uhr.
+#### Bis Ende Oktober haben wir Donnerstag und Freitag Nachmittag wie gewohnt von 15-18 Uhr geöffnet und Samstag von 11-15 Uhr.
 #### Ab November bis Weihnachten startet der Ausverkauf und wir sind dann freitags von 11-18 Uhr und samstags von 11-15 Uhr da!
