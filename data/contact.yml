@@ -14,8 +14,8 @@ contact:
       - dayTime : "Montag: geschlossen"
       - dayTime : "Dienstag: geschlossen"
       - dayTime : "Mittwoch: geschlossen"
-      - dayTime : "Donnerstag: 15:00 – 18:00 Uhr"
-      - dayTime : "Freitag: 15:00 – 18:00 Uhr"
+      - dayTime : "Donnerstag: geschlossen"
+      - dayTime : "Freitag: 11:00 – 18:00 Uhr"
       - dayTime : "Samstag: 11:00 – 15:00 Uhr"
       - dayTime : "Sonntag: geschlossen"
 
