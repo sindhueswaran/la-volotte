@@ -10,8 +10,8 @@ draft: false
 
 ##### La Volotte - Münz und Kreuzer GbR
 vertreten durch die Gesellschafter: Barbara Münz, Eckart Kreuzer
-Jakobstrasse 107
-52064 Aachen
+Haus Hersbach 1
+54570 Mürlenbach
 Deutschland
 Telefon: 0241 47587794
 
@@ -22,9 +22,8 @@ USt-IdNr.: DE815557094
 
 Inhaltlich Verantwortlicher gemäß § 18 Abs. 2 MStV:
 Frau  Barbara Münz
-Jakobstrasse 107
-52064 Aachen
-NRW
+Haus Hersbach 1
+54570 Mürlenbach
 
 
 
