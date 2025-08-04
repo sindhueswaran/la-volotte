@@ -6,5 +6,5 @@ description : "this is a meta description"
 image:
 ---
 
-#### Ab Mitte September sind wir wieder zu unseren regelmäßigen Öffnungszeiten für Sie da.
+#### Ab Mitte September haben wir wieder regelmäßige Öffnungszeiten!
 
