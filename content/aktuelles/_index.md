@@ -6,5 +6,5 @@ description : "this is a meta description"
 image:
 ---
 
-#### La Volotte ist geschlossen und es gibt den Laden in der Jakobstrasse nicht mehr. Den Onlineshop gibt es weiterhin, Sie können mich  gerne per Mail kontaktieren.
+#### Ab Mitte September sind wir wieder zu unseren regelmäßigen Öffnungszeiten für Sie da.
 
