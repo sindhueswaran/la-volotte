@@ -6,5 +6,5 @@ description : "this is a meta description"
 image:
 ---
 
-#### Heute, Freitag 12.12. bleibt La Volotte geschlossen! Am Dienstag sind wir wieder da!
+##### Heute, Freitag 12.12. bleibt La Volotte geschlossen! Am Dienstag sind wir wieder da!
 
