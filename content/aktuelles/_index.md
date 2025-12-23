@@ -6,5 +6,5 @@ description : "this is a meta description"
 image:
 ---
 
-##### Heute, Freitag 12.12. bleibt La Volotte geschlossen! Am Dienstag sind wir wieder da!
+#### La Volotte macht eine kleine Weihnachtspause vom 23.12.- 4.1. Am 6.1. sind wir wieder da!
 
